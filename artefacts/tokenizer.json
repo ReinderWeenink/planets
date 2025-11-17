@@ -1,0 +1,287 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": {
+    "strategy": "BatchLongest",
+    "direction": "Right",
+    "pad_to_multiple_of": null,
+    "pad_id": 0,
+    "pad_type_id": 0,
+    "pad_token": "<pad>"
+  },
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "<pad>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "<s>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "</s>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "<unk>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 4,
+      "content": "<mask>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": null,
+  "pre_tokenizer": {
+    "type": "ByteLevel",
+    "add_prefix_space": false,
+    "trim_offsets": true,
+    "use_regex": true
+  },
+  "post_processor": null,
+  "decoder": {
+    "type": "ByteLevel",
+    "add_prefix_space": true,
+    "trim_offsets": true,
+    "use_regex": true
+  },
+  "model": {
+    "type": "BPE",
+    "dropout": null,
+    "unk_token": "<unk>",
+    "continuing_subword_prefix": null,
+    "end_of_word_suffix": null,
+    "fuse_unk": false,
+    "byte_fallback": false,
+    "ignore_merges": false,
+    "vocab": {
+      "<pad>": 0,
+      "<s>": 1,
+      "</s>": 2,
+      "<unk>": 3,
+      "<mask>": 4,
+      "'": 5,
+      "(": 6,
+      ")": 7,
+      "+": 8,
+      "-": 9,
+      ".": 10,
+      "/": 11,
+      "0": 12,
+      "1": 13,
+      "2": 14,
+      "3": 15,
+      "4": 16,
+      "5": 17,
+      "6": 18,
+      "7": 19,
+      "8": 20,
+      "9": 21,
+      "<": 22,
+      ">": 23,
+      "A": 24,
+      "B": 25,
+      "C": 26,
+      "D": 27,
+      "E": 28,
+      "F": 29,
+      "G": 30,
+      "H": 31,
+      "I": 32,
+      "J": 33,
+      "K": 34,
+      "L": 35,
+      "M": 36,
+      "N": 37,
+      "O": 38,
+      "P": 39,
+      "Q": 40,
+      "R": 41,
+      "S": 42,
+      "T": 43,
+      "U": 44,
+      "V": 45,
+      "W": 46,
+      "X": 47,
+      "Y": 48,
+      "Z": 49,
+      "a": 50,
+      "b": 51,
+      "c": 52,
+      "d": 53,
+      "e": 54,
+      "f": 55,
+      "g": 56,
+      "h": 57,
+      "i": 58,
+      "k": 59,
+      "l": 60,
+      "m": 61,
+      "n": 62,
+      "o": 63,
+      "p": 64,
+      "q": 65,
+      "r": 66,
+      "s": 67,
+      "t": 68,
+      "u": 69,
+      "v": 70,
+      "x": 71,
+      "y": 72,
+      "ĉ": 73,
+      "Ġ": 74,
+      "</": 75,
+      "Ġb": 76,
+      "er": 77,
+      "ep": 78,
+      "Kep": 79,
+      "ler": 80,
+      "Kepler": 81,
+      "ĠA": 82,
+      "Ġc": 83,
+      "ĠAb": 84,
+      "HD": 85,
+      "OI": 86,
+      "TOI": 87,
+      "20": 88,
+      "Ġ1": 89,
+      "18": 90,
+      "13": 91,
+      "19": 92,
+      "16": 93,
+      "10": 94,
+      "14": 95,
+      "12": 96,
+      "17": 97,
+      "15": 98,
+      "Ġd": 99
+    },
+    "merges": [
+      [
+        "<",
+        "/"
+      ],
+      [
+        "Ġ",
+        "b"
+      ],
+      [
+        "e",
+        "r"
+      ],
+      [
+        "e",
+        "p"
+      ],
+      [
+        "K",
+        "ep"
+      ],
+      [
+        "l",
+        "er"
+      ],
+      [
+        "Kep",
+        "ler"
+      ],
+      [
+        "Ġ",
+        "A"
+      ],
+      [
+        "Ġ",
+        "c"
+      ],
+      [
+        "ĠA",
+        "b"
+      ],
+      [
+        "H",
+        "D"
+      ],
+      [
+        "O",
+        "I"
+      ],
+      [
+        "T",
+        "OI"
+      ],
+      [
+        "2",
+        "0"
+      ],
+      [
+        "Ġ",
+        "1"
+      ],
+      [
+        "1",
+        "8"
+      ],
+      [
+        "1",
+        "3"
+      ],
+      [
+        "1",
+        "9"
+      ],
+      [
+        "1",
+        "6"
+      ],
+      [
+        "1",
+        "0"
+      ],
+      [
+        "1",
+        "4"
+      ],
+      [
+        "1",
+        "2"
+      ],
+      [
+        "1",
+        "7"
+      ],
+      [
+        "1",
+        "5"
+      ],
+      [
+        "Ġ",
+        "d"
+      ]
+    ]
+  }
+}

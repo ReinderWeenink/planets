@@ -1,0 +1,6152 @@
+<s>109 Psc b</s>
+<s>112 Psc b</s>
+<s>112 Psc c</s>
+<s>11 UMi b</s>
+<s>14 And Ab</s>
+<s>14 Her b</s>
+<s>14 Her c</s>
+<s>16 Cyg Bb</s>
+<s>18 Del Ab</s>
+<s>23 Lib b</s>
+<s>23 Lib c</s>
+<s>24 Boo b</s>
+<s>24 Sex b</s>
+<s>24 Sex c</s>
+<s>2M1510 (AB)b</s>
+<s>2MASS J0103-5515 (AB)b</s>
+<s>2MASS J0437+2651 b</s>
+<s>2MASS J0534-0530 b</s>
+<s>2MASS J0558-4501 b</s>
+<s>2MASS J1155-7919 b</s>
+<s>2MASS J1252+2735 b</s>
+<s>2MASS J1253+2734 b</s>
+<s>2MASS J1258+2630 b</s>
+<s>2MASS J2236+4751 b</s>
+<s>38 Vir b</s>
+<s>41 Com Ab</s>
+<s>44 Uma b</s>
+<s>47 UMa b</s>
+<s>47 UMa c</s>
+<s>47 UMa d</s>
+<s>51 Eri Ab</s>
+<s>51 Peg b</s>
+<s>54 Psc b</s>
+<s>55 Cnc Ab</s>
+<s>55 Cnc Ac</s>
+<s>55 Cnc Ad</s>
+<s>55 Cnc Ae</s>
+<s>55 Cnc Af</s>
+<s>55 Cnc Bb</s>
+<s>55 Cnc Bc</s>
+<s>61 Vir b</s>
+<s>61 Vir c</s>
+<s>61 Vir d</s>
+<s>6 Lyn b</s>
+<s>70 Vir Ab</s>
+<s>75 Cet Ab</s>
+<s>75 Cet Ac</s>
+<s>79 Cet Ab</s>
+<s>81 Cet b</s>
+<s>82 Eri b</s>
+<s>82 Eri c</s>
+<s>82 Eri d</s>
+<s>82 Eri e</s>
+<s>8 Umi b</s>
+<s>94 Cet Ab</s>
+<s>AB Aur b</s>
+<s>AB Pic c</s>
+<s>AF Lep b</s>
+<s>alf Ari b</s>
+<s>AS 209 b</s>
+<s>AT2021uey b</s>
+<s>AU Mic b</s>
+<s>AU Mic c</s>
+<s>AU Mic d</s>
+<s>Barnard's star b</s>
+<s>Barnard's star c</s>
+<s>Barnard's star d</s>
+<s>Barnard's star e</s>
+<s>b Cen (AB)b</s>
+<s>BD+03 2562 b</s>
+<s>BD-06 1339 c</s>
+<s>BD-06 1339 d</s>
+<s>BD-06 1339 e</s>
+<s>BD-08 2823 b</s>
+<s>BD-08 2823 c</s>
+<s>BD-10 3166 b</s>
+<s>BD-11 4672 b</s>
+<s>BD-11 4672 c</s>
+<s>BD+14 4559 b</s>
+<s>BD+15 2375 b</s>
+<s>BD+15 2940 b</s>
+<s>BD-17 63 b</s>
+<s>BD+20 2457 c</s>
+<s>BD+20 274 b</s>
+<s>BD+20 594 b</s>
+<s>BD-21 397 c</s>
+<s>BD+37 3172 b</s>
+<s>BD+42 2315 b</s>
+<s>BD+45 564 b</s>
+<s>BD+48 738 b</s>
+<s>BD+48 740 b</s>
+<s>BD+49 828 b</s>
+<s>BD+55 362 b</s>
+<s>BD+63 1405 Ab</s>
+<s>BEBOP-3 (AB)b</s>
+<s>beta Cnc Ab</s>
+<s>beta Pic b</s>
+<s>beta Pic c</s>
+<s>beta Umi b</s>
+<s>CD-35 2722 b</s>
+<s>CD Cet b</s>
+<s>chi Sco b</s>
+<s>chi Vir b</s>
+<s>chi Vir c</s>
+<s>CHXR 73 Ab</s>
+<s>CI Tau c</s>
+<s>COCONUTS-2 b</s>
+<s>CoRoT-10 b</s>
+<s>CoRoT-11 b</s>
+<s>CoRoT-12 b</s>
+<s>CoRoT-13 b</s>
+<s>CoRoT-14 b</s>
+<s>CoRoT-16 b</s>
+<s>CoRoT-17 b</s>
+<s>CoRoT-18 b</s>
+<s>CoRoT-19 b</s>
+<s>CoRoT-1 b</s>
+<s>CoRoT-20 b</s>
+<s>CoRoT-21 b</s>
+<s>CoRoT-22 b</s>
+<s>CoRoT-23 b</s>
+<s>CoRoT-24 b</s>
+<s>CoRoT-24 c</s>
+<s>CoRoT-25 b</s>
+<s>CoRoT-26 b</s>
+<s>CoRoT-27 b</s>
+<s>CoRoT-28 b</s>
+<s>CoRoT-29 b</s>
+<s>CoRoT-2 Ab</s>
+<s>CoRoT-30 b</s>
+<s>CoRoT-31 b</s>
+<s>CoRoT-32 b</s>
+<s>CoRoT-35 b</s>
+<s>CoRoT-36 b</s>
+<s>CoRoT-4 b</s>
+<s>CoRoT-5 b</s>
+<s>CoRoT-6 b</s>
+<s>CoRoT-7 Ab</s>
+<s>CoRoT-7 Ac</s>
+<s>CoRoT-7 Ad</s>
+<s>CoRoT-8 b</s>
+<s>CoRoT-9 Ab</s>
+<s>COUP 710 b</s>
+<s>DE CVn b</s>
+<s>DH Tau b</s>
+<s>DMPP-4 b</s>
+<s>DM Tau b</s>
+<s>DP Leo (AB) b</s>
+<s>DS Tuc Ab</s>
+<s>DW Lyn b</s>
+<s>Elias 2-27 b</s>
+<s>EPIC 201390927 b</s>
+<s>EPIC 201456770 b</s>
+<s>EPIC 205084841 b</s>
+<s>eps CrB Ab</s>
+<s>eps Eridani b</s>
+<s>Eps Ind Ab</s>
+<s>eps Ret Ab</s>
+<s>eps Tau b</s>
+<s>eta2 Hyi b</s>
+<s>eta Cet b</s>
+<s>eta Cet c</s>
+<s>FN Lyr b</s>
+<s>G 192-15 b</s>
+<s>G 192-15 c</s>
+<s>G 261-6 b</s>
+<s>G 264-012 b</s>
+<s>G 264-012 c</s>
+<s>G 268-110 b</s>
+<s>G 9-40 b</s>
+<s>Gaia-1 b</s>
+<s>Gaia22dkv b</s>
+<s>Gaia-2 b</s>
+<s>Gaia-4 b</s>
+<s>Gaia EDR3 2077240046296834304 b</s>
+<s>GALEX J0718+3731 b</s>
+<s>gamma Lib b</s>
+<s>gamma Lib c</s>
+<s>gam Psc b</s>
+<s>GJ 1002 b</s>
+<s>GJ 1002 c</s>
+<s>GJ 1018 b</s>
+<s>GJ 1061 b</s>
+<s>GJ 1061 c</s>
+<s>GJ 1061 d</s>
+<s>GJ 1132 b</s>
+<s>GJ 1132 c</s>
+<s>GJ 1151 c</s>
+<s>GJ 1214 b</s>
+<s>GJ 1252 b</s>
+<s>GJ 1265 b</s>
+<s>GJ 1289 b</s>
+<s>GJ 143 b</s>
+<s>GJ 143 c</s>
+<s>GJ 15 Ab</s>
+<s>GJ 15 Ac</s>
+<s>GJ 160.2 b</s>
+<s>GJ 163 b</s>
+<s>GJ 163 c</s>
+<s>GJ 163 d</s>
+<s>GJ 176 b</s>
+<s>GJ 176 c</s>
+<s>GJ 179 b</s>
+<s>GJ 179 c</s>
+<s>GJ 180 b</s>
+<s>GJ 180 c</s>
+<s>GJ 180 d</s>
+<s>GJ 2030 Ab</s>
+<s>GJ 2030 Ac</s>
+<s>GJ 2056 b</s>
+<s>GJ 2056 c</s>
+<s>GJ 2126 b</s>
+<s>GJ 229 c</s>
+<s>GJ 229 d</s>
+<s>GJ 238 b</s>
+<s>GJ 251 b</s>
+<s>GJ 27.1 b</s>
+<s>GJ 3021 Ab</s>
+<s>GJ 3082 b</s>
+<s>GJ 3090 b</s>
+<s>GJ 3138 b</s>
+<s>GJ 3138 c</s>
+<s>GJ 3138 d</s>
+<s>GJ 317 b</s>
+<s>GJ 317 c</s>
+<s>GJ 3222 Ab</s>
+<s>GJ 328 b</s>
+<s>GJ 328 c</s>
+<s>GJ 3293 b</s>
+<s>GJ 3293 c</s>
+<s>GJ 3293 d</s>
+<s>GJ 3293 e</s>
+<s>GJ 3323 b</s>
+<s>GJ 3323 c</s>
+<s>GJ 3341 b</s>
+<s>GJ 338 Bb</s>
+<s>GJ 341 b</s>
+<s>GJ 3470 b</s>
+<s>GJ 3473 Ab</s>
+<s>GJ 3473 Ac</s>
+<s>GJ 3512 b</s>
+<s>GJ 3512 c</s>
+<s>GJ 357 b</s>
+<s>GJ 357 c</s>
+<s>GJ 357 d</s>
+<s>GJ 3634 b</s>
+<s>GJ 367  b</s>
+<s>GJ 367 c</s>
+<s>GJ 367 d</s>
+<s>GJ 3779 b</s>
+<s>GJ 3929 b</s>
+<s>GJ 3929 c</s>
+<s>GJ 393 b</s>
+<s>GJ 3942 b</s>
+<s>GJ 3988 b</s>
+<s>GJ 3998 b</s>
+<s>GJ 3998 c</s>
+<s>GJ 3998 d</s>
+<s>GJ 414 Ab</s>
+<s>GJ 414 Ac</s>
+<s>GJ 4276 b</s>
+<s>GJ 4276 c</s>
+<s>GJ 433 b</s>
+<s>GJ 433 c</s>
+<s>GJ 433 d</s>
+<s>GJ 436 b</s>
+<s>GJ 463 b</s>
+<s>GJ 480 b</s>
+<s>GJ 480 c</s>
+<s>GJ 486 b</s>
+<s>GJ 504  b</s>
+<s>GJ 508.2 b</s>
+<s>GJ 536 b</s>
+<s>GJ 536 c</s>
+<s>GJ 581 b</s>
+<s>GJ 581 c</s>
+<s>GJ 581 e</s>
+<s>GJ 625 b</s>
+<s>GJ 649 b</s>
+<s>GJ 649 c</s>
+<s>GJ 667 Cb</s>
+<s>GJ 667 Cc</s>
+<s>GJ 667 Ce</s>
+<s>GJ 667 Cf</s>
+<s>GJ 667 Cg</s>
+<s>GJ 674 b</s>
+<s>GJ 676 Ab</s>
+<s>GJ 676 Ad</s>
+<s>GJ 676 Ae</s>
+<s>GJ 682 b</s>
+<s>GJ 682 c</s>
+<s>GJ 685 b</s>
+<s>GJ 687 b</s>
+<s>GJ 687 c</s>
+<s>GJ 720 Ab</s>
+<s>GJ 724 b</s>
+<s>GJ 740 b</s>
+<s>GJ 752 Ab</s>
+<s>GJ 777 Ab</s>
+<s>GJ 777 Ac</s>
+<s>GJ 777 Ad</s>
+<s>GJ 785 b</s>
+<s>GJ 785 c</s>
+<s>GJ 832 b</s>
+<s>GJ 849 b</s>
+<s>GJ 849 c</s>
+<s>GJ 86 Ab</s>
+<s>GJ 876 b</s>
+<s>GJ 876 c</s>
+<s>GJ 876 d</s>
+<s>GJ 876 e</s>
+<s>GJ 887 b</s>
+<s>GJ 887 c</s>
+<s>GJ 896 Ab</s>
+<s>GJ 900 (ABC)b</s>
+<s>GJ 9066 c</s>
+<s>GJ 9404 b</s>
+<s>GJ 9689 b</s>
+<s>GJ 9714 Ab</s>
+<s>GJ 9773 b</s>
+<s>GJ 9827 b</s>
+<s>GJ 9827 c</s>
+<s>GJ 9827 d</s>
+<s>Gl 378 b</s>
+<s>Gl 410 b</s>
+<s>Gl 514 b</s>
+<s>Gl 686 b</s>
+<s>Gl 725 Ab</s>
+<s>Gliese 12 b</s>
+<s>Gliese 49 Ab</s>
+<s>GU Psc b</s>
+<s>HAT-P-10 Ab</s>
+<s>HAT-P-11 b</s>
+<s>HAT-P-11 c</s>
+<s>HAT-P-12 b</s>
+<s>HAT-P-13 b</s>
+<s>HAT-P-14 Ab</s>
+<s>HAT-P-15 b</s>
+<s>HAT-P-16 Ab</s>
+<s>HAT-P-17 b</s>
+<s>HAT-P-17 c</s>
+<s>HAT-P-18 Ab</s>
+<s>HAT-P-19 b</s>
+<s>HAT-P-1 Bb</s>
+<s>HAT-P-20 Ab</s>
+<s>HAT-P-21 b</s>
+<s>HAT-P-22 Ab</s>
+<s>HAT-P-23 Ab</s>
+<s>HAT-P-24 Ab</s>
+<s>HAT-P-25 b</s>
+<s>HAT-P-26 b</s>
+<s>HAT-P-26 d</s>
+<s>HAT-P-27 Ab</s>
+<s>HAT-P-27 Ac</s>
+<s>HAT-P-28 b</s>
+<s>HAT-P-29 b</s>
+<s>HAT-P-2 b</s>
+<s>HAT-P-2 c</s>
+<s>HAT-P-30 Ab</s>
+<s>HAT-P-31 b</s>
+<s>HAT-P-32 Ab</s>
+<s>HAT-P-33 Ab</s>
+<s>HAT-P-34 b</s>
+<s>HAT-P-35 Ab</s>
+<s>HAT-P-36 b</s>
+<s>HAT-P-37 b</s>
+<s>HAT-P-38 b</s>
+<s>HAT-P-39 Ab</s>
+<s>HAT-P-3 Ab</s>
+<s>HAT-P-40 b</s>
+<s>HAT-P-41 Ab</s>
+<s>HAT-P-42 b</s>
+<s>HAT-P-43 b</s>
+<s>HAT-P-44 Bb</s>
+<s>HAT-P-44 Bc</s>
+<s>HAT-P-45 Ab</s>
+<s>HAT-P-46 b</s>
+<s>HAT-P-46 c</s>
+<s>HAT-P-47 b</s>
+<s>HAT-P-48 b</s>
+<s>HAT-P-49 b</s>
+<s>HAT-P-4 b</s>
+<s>HAT-P-50 b</s>
+<s>HAT-P-51 Ab</s>
+<s>HAT-P-52 b</s>
+<s>HAT-P-53 b</s>
+<s>HAT-P-54 b</s>
+<s>HAT-P-55 b</s>
+<s>HAT-P-56 b</s>
+<s>HAT-P-57 Ab</s>
+<s>HAT-P-58 b</s>
+<s>HAT-P-59 b</s>
+<s>HAT-P-5 b</s>
+<s>HAT-P-60 b</s>
+<s>HAT-P-61 b</s>
+<s>HAT-P-62 b</s>
+<s>HAT-P-63 b</s>
+<s>HAT-P-64 b</s>
+<s>HAT-P-65 b</s>
+<s>HAT-P-66 b</s>
+<s>HAT-P-67 Ab</s>
+<s>HAT-P-68 b</s>
+<s>HAT-P-69 b</s>
+<s>HAT-P-6 b</s>
+<s>HAT-P-70 b</s>
+<s>HAT-P-7 Ab</s>
+<s>HAT-P-8 Ab</s>
+<s>HAT-P-9 b</s>
+<s>HATS-10 b</s>
+<s>HATS-11 b</s>
+<s>HATS-12 b</s>
+<s>HATS-13 b</s>
+<s>HATS-14 b</s>
+<s>HATS-15 b</s>
+<s>HATS-16 b</s>
+<s>HATS-17 b</s>
+<s>HATS-18 b</s>
+<s>HATS-19 b</s>
+<s>HATS-1 Ab</s>
+<s>HATS-20 b</s>
+<s>HATS-21 b</s>
+<s>HATS-22 b</s>
+<s>HATS-23 b</s>
+<s>HATS-24 b</s>
+<s>HATS-25 b</s>
+<s>HATS-26 b</s>
+<s>HATS-27 b</s>
+<s>HATS-28 b</s>
+<s>HATS-29 b</s>
+<s>HATS-2 b</s>
+<s>HATS-30 Ab</s>
+<s>HATS-31 b</s>
+<s>HATS-32 b</s>
+<s>HATS-33 b</s>
+<s>HATS-34 b</s>
+<s>HATS-35 b</s>
+<s>HATS-36 b</s>
+<s>HATS-37 Ab</s>
+<s>HATS-38 b</s>
+<s>HATS-39 b</s>
+<s>HATS-3 b</s>
+<s>HATS-40 b</s>
+<s>HATS-41 b</s>
+<s>HATS-42 b</s>
+<s>HATS-43 b</s>
+<s>HATS-44 b</s>
+<s>HATS-45 b</s>
+<s>HATS-46 b</s>
+<s>HATS-47 Ab</s>
+<s>HATS-48 Ab</s>
+<s>HATS-49 b</s>
+<s>HATS-4 b</s>
+<s>HATS-50 b</s>
+<s>HATS-51 b</s>
+<s>HATS-52 b</s>
+<s>HATS-53 b</s>
+<s>HATS-54 b</s>
+<s>HATS-55 Ab</s>
+<s>HATS-56 b</s>
+<s>HATS-57 Ab</s>
+<s>HATS-58 Ab</s>
+<s>HATS-59 b</s>
+<s>HATS-59 c</s>
+<s>HATS-5 b</s>
+<s>HATS-60 b</s>
+<s>HATS-61 b</s>
+<s>HATS-62 Ab</s>
+<s>HATS-63 b</s>
+<s>HATS-64 b</s>
+<s>HATS-65 Ab</s>
+<s>HATS-66 b</s>
+<s>HATS-67 b</s>
+<s>HATS-68 b</s>
+<s>HATS-69 b</s>
+<s>HATS-6 Bb</s>
+<s>HATS-70 b</s>
+<s>HATS-71 b</s>
+<s>HATS-72 b</s>
+<s>HATS-74 Ab</s>
+<s>HATS-75 b</s>
+<s>HATS-76 b</s>
+<s>HATS-77 b</s>
+<s>HATS-7 b</s>
+<s>HATS-8 b</s>
+<s>HATS-9 b</s>
+<s>HD 100546 b</s>
+<s>HD 100655 Ab</s>
+<s>HD 100777 b</s>
+<s>HD 101581 b</s>
+<s>HD 101581 c</s>
+<s>HD 10180 c</s>
+<s>HD 10180 d</s>
+<s>HD 10180 e</s>
+<s>HD 10180 f</s>
+<s>HD 10180 g</s>
+<s>HD 10180 h</s>
+<s>HD 101930 Ab</s>
+<s>HD 102117 b</s>
+<s>HD 102195 b</s>
+<s>HD 102272 b</s>
+<s>HD 102329 b</s>
+<s>HD 102329 c</s>
+<s>HD 102365 Ab</s>
+<s>HD 102843 b</s>
+<s>HD 102888 b</s>
+<s>HD 102956 Ab</s>
+<s>HD 103197 b</s>
+<s>HD 103720 b</s>
+<s>HD 103774 Ab</s>
+<s>HD 103891 b</s>
+<s>HD 103949 b</s>
+<s>HD 104067 b</s>
+<s>HD 104067 c</s>
+<s>HD 104067 d</s>
+<s>HD 10442 b</s>
+<s>HD 104985 b</s>
+<s>HD 105618 b</s>
+<s>HD 105779 b</s>
+<s>HD 106252 b</s>
+<s>HD 106270 b</s>
+<s>HD 106315 b</s>
+<s>HD 106315 c</s>
+<s>HD 10647 Ab</s>
+<s>HD 106515 Ab</s>
+<s>HD 106574 b</s>
+<s>HD 106906 (AB) b</s>
+<s>HD 107148 Ab</s>
+<s>HD 107148 Ac</s>
+<s>HD 108147 b</s>
+<s>HD 108202 b</s>
+<s>HD 108236 b</s>
+<s>HD 108236 c</s>
+<s>HD 108236 d</s>
+<s>HD 108236 e</s>
+<s>HD 108236 f</s>
+<s>HD 108341 Ab</s>
+<s>HD 108863 Ab</s>
+<s>HD 108874 b</s>
+<s>HD 108874 c</s>
+<s>HD 109246 b</s>
+<s>HD 109271 Ab</s>
+<s>HD 109271 Ac</s>
+<s>HD 109286 b</s>
+<s>HD 109749 Ab</s>
+<s>HD 10975 b</s>
+<s>HD 110067 b</s>
+<s>HD 110067 c</s>
+<s>HD 110067 d</s>
+<s>HD 110067 e</s>
+<s>HD 110067 f</s>
+<s>HD 110067 g</s>
+<s>HD 110113 b</s>
+<s>HD 110113 c</s>
+<s>HD 11112 b</s>
+<s>HD 111232 b</s>
+<s>HD 111591 b</s>
+<s>HD 11231 b</s>
+<s>HD 112570 b</s>
+<s>HD 112640 b</s>
+<s>HD 113337 Ab</s>
+<s>HD 113337 Ac</s>
+<s>HD 113538 b</s>
+<s>HD 113538 c</s>
+<s>HD 114082 b</s>
+<s>HD 114386 b</s>
+<s>HD 114386 c</s>
+<s>HD 114613 b</s>
+<s>HD 114729 Ab</s>
+<s>HD 114783 b</s>
+<s>HD 114783 c</s>
+<s>HD 11505 Ab</s>
+<s>HD 11506 b</s>
+<s>HD 11506 c</s>
+<s>HD 11506 d</s>
+<s>HD 115404 Ab</s>
+<s>HD 115404 Ac</s>
+<s>HD 115587 b</s>
+<s>HD 115954 Ab</s>
+<s>HD 116029 Ab</s>
+<s>HD 116029 Ac</s>
+<s>HD 117207 b</s>
+<s>HD 11755 b</s>
+<s>HD 117618 b</s>
+<s>HD 118203 b</s>
+<s>HD 118203 c</s>
+<s>HD 118904 Ab</s>
+<s>HD 11964 Ab</s>
+<s>HD 11964 Ac</s>
+<s>HD 120084 b</s>
+<s>HD 121504 Ab</s>
+<s>HD 122562 c</s>
+<s>HD 124330 Ab</s>
+<s>HD 12484 b</s>
+<s>HD 125271 b</s>
+<s>HD 125390 b</s>
+<s>HD 125595 b</s>
+<s>HD 125612 Ab</s>
+<s>HD 125612 Ac</s>
+<s>HD 125612 Ad</s>
+<s>HD 12648 b</s>
+<s>HD 126525 b</s>
+<s>HD 126614 Ab</s>
+<s>HD 12661 b</s>
+<s>HD 12661 c</s>
+<s>HD 127506 b</s>
+<s>HD 128311 b</s>
+<s>HD 128311 c</s>
+<s>HD 128356 b</s>
+<s>HD 128717 b</s>
+<s>HD 129445 b</s>
+<s>HD 130322 b</s>
+<s>HD 131496 b</s>
+<s>HD 13167 Ab</s>
+<s>HD 132406 b</s>
+<s>HD 132563 Bb</s>
+<s>HD 133131 Ab</s>
+<s>HD 133131 Ac</s>
+<s>HD 133131 Bb</s>
+<s>HD 134060 b</s>
+<s>HD 134060 c</s>
+<s>HD 134606 Ab</s>
+<s>HD 134606 Ac</s>
+<s>HD 134606 Ad</s>
+<s>HD 134606 Ae</s>
+<s>HD 134606 Af</s>
+<s>HD 135344 Ab</s>
+<s>HD 135625 b</s>
+<s>HD 135872 Ab</s>
+<s>HD 136418 b</s>
+<s>HD 136925 b</s>
+<s>HD 13724 c</s>
+<s>HD 137388 b</s>
+<s>HD 137496 b</s>
+<s>HD 137496 c</s>
+<s>HD 13808 b</s>
+<s>HD 13808 c</s>
+<s>HD 13908 b</s>
+<s>HD 13908 c</s>
+<s>HD 13931 b</s>
+<s>HD 139357 b</s>
+<s>HD 1397 b</s>
+<s>HD 14082 Bb</s>
+<s>HD 140901 Ab</s>
+<s>HD 140901 Ac</s>
+<s>HD 141399 b</s>
+<s>HD 141399 c</s>
+<s>HD 141399 d</s>
+<s>HD 141399 e</s>
+<s>HD 142022 Ab</s>
+<s>HD 142245 Ab</s>
+<s>HD 142415 b</s>
+<s>HD 142666 b</s>
+<s>HD 142 Ab</s>
+<s>HD 142 Ac</s>
+<s>HD 142 Ad</s>
+<s>HD 143105 b</s>
+<s>HD 143361 Ab</s>
+<s>HD 143811 (AB)b</s>
+<s>HD 144899 Ab</s>
+<s>HD 145377 b</s>
+<s>HD 145457 b</s>
+<s>HD 145934 Ab</s>
+<s>HD 1461 b</s>
+<s>HD 1461 c</s>
+<s>HD 147018 b</s>
+<s>HD 147018 c</s>
+<s>HD 147379 Ab</s>
+<s>HD 147513 Ab</s>
+<s>HD 147873 Ab</s>
+<s>HD 147873 Ac</s>
+<s>HD 14787 b</s>
+<s>HD 148156 b</s>
+<s>HD 148164 b</s>
+<s>HD 148164 c</s>
+<s>HD 149026 b</s>
+<s>HD 149143 b</s>
+<s>HD 149806 Ab</s>
+<s>HD 150010 Ab</s>
+<s>HD 1502 b</s>
+<s>HD 150433 b</s>
+<s>HD 150706 b</s>
+<s>HD 151450 Ab</s>
+<s>HD 151450 Ac</s>
+<s>HD 152079 b</s>
+<s>HD 152581 b</s>
+<s>HD 152843 b</s>
+<s>HD 152843 c</s>
+<s>HD 153557 Ab</s>
+<s>HD 153557 Ac</s>
+<s>HD 153950 b</s>
+<s>HD 154088 b</s>
+<s>HD 154345 b</s>
+<s>HD 154391 b</s>
+<s>HD 154672 Ab</s>
+<s>HD 154857 b</s>
+<s>HD 154857 c</s>
+<s>HD 155193 b</s>
+<s>HD 155358 b</s>
+<s>HD 155358 c</s>
+<s>HD 155555 (AB)b</s>
+<s>HD 155918 Ab</s>
+<s>HD 155918 Ac</s>
+<s>HD 156098 b</s>
+<s>HD 156098 c</s>
+<s>HD 156279 b</s>
+<s>HD 156279 c</s>
+<s>HD 156411 b</s>
+<s>HD 156668 b</s>
+<s>HD 156668 c</s>
+<s>HD 156846 Ab</s>
+<s>HD 157172 b</s>
+<s>HD 158038 Ab</s>
+<s>HD 158259 b</s>
+<s>HD 158259 c</s>
+<s>HD 158259 d</s>
+<s>HD 158259 e</s>
+<s>HD 158259 f</s>
+<s>HD 15906 b</s>
+<s>HD 15906 c</s>
+<s>HD 159243 b</s>
+<s>HD 159243 c</s>
+<s>HD 159868 b</s>
+<s>HD 159868 c</s>
+<s>HD 1605 b</s>
+<s>HD 1605 c</s>
+<s>HD 161178 b</s>
+<s>HD 16175 b</s>
+<s>HD 163607 b</s>
+<s>HD 163607 c</s>
+<s>HD 164428 b</s>
+<s>HD 164509 Ab</s>
+<s>HD 164595 Ab</s>
+<s>HD 164922 b</s>
+<s>HD 164922 c</s>
+<s>HD 164922 d</s>
+<s>HD 164922 e</s>
+<s>HD 165155 b</s>
+<s>HD 1666 Ab</s>
+<s>HD 166724 b</s>
+<s>HD 167042 b</s>
+<s>HD 167677 b</s>
+<s>HD 167768 b</s>
+<s>HD 168009 b</s>
+<s>HD 168443 b</s>
+<s>HD 168746 b</s>
+<s>HD 168863 b</s>
+<s>HD 16905 Ab</s>
+<s>HD 1690 b</s>
+<s>HD 169142 b</s>
+<s>HD 169830 b</s>
+<s>HD 169830 c</s>
+<s>HD 170469 Ab</s>
+<s>HD 17092 b</s>
+<s>HD 171028 b</s>
+<s>HD 171238 b</s>
+<s>HD 17156 b</s>
+<s>HD 173416 b</s>
+<s>HD 174205 b</s>
+<s>HD 175167 b</s>
+<s>HD 175370 b</s>
+<s>HD 175541 b</s>
+<s>HD 175607 b</s>
+<s>HD 176051 Bb</s>
+<s>HD 17674 b</s>
+<s>HD 176986 b</s>
+<s>HD 176986 c</s>
+<s>HD 177830 Ab</s>
+<s>HD 177830 Ac</s>
+<s>HD 178911 Bb</s>
+<s>HD 179079 b</s>
+<s>HD 179949 b</s>
+<s>HD 180053 b</s>
+<s>HD 18015 Ab</s>
+<s>HD 180902 b</s>
+<s>HD 181234 Ab</s>
+<s>HD 181342 b</s>
+<s>HD 181433 b</s>
+<s>HD 181433 c</s>
+<s>HD 181433 d</s>
+<s>HD 18143 Ab</s>
+<s>HD 18143 Ac</s>
+<s>HD 181720 b</s>
+<s>HD 183263 Ab</s>
+<s>HD 183263 Ac</s>
+<s>HD 183579 b</s>
+<s>HD 184010 b</s>
+<s>HD 184010 c</s>
+<s>HD 184010 d</s>
+<s>HD 185269 Ab</s>
+<s>HD 185283 Ab</s>
+<s>HD 187085 b</s>
+<s>HD 187123 b</s>
+<s>HD 187123 c</s>
+<s>HD 18742 b</s>
+<s>HD 188015 Ab</s>
+<s>HD 189567 b</s>
+<s>HD 189567 c</s>
+<s>HD 189733 Ab</s>
+<s>HD 190007 b</s>
+<s>HD 190228 b</s>
+<s>HD 190622 b</s>
+<s>HD 190622 c</s>
+<s>HD 190647 b</s>
+<s>HD 190984 b</s>
+<s>HD 191806 b</s>
+<s>HD 191939 b</s>
+<s>HD 191939 c</s>
+<s>HD 191939 d</s>
+<s>HD 191939 e</s>
+<s>HD 191939 f</s>
+<s>HD 191939 g</s>
+<s>HD 192263 b</s>
+<s>HD 192699 b</s>
+<s>HD 194490 b</s>
+<s>HD 195019 Ab</s>
+<s>HD 196050 Ab</s>
+<s>HD 19615 b</s>
+<s>HD 196885 Ab</s>
+<s>HD 197037 Ab</s>
+<s>HD 199509 Ab</s>
+<s>HD 20003 b</s>
+<s>HD 20003 c</s>
+<s>HD 200964 b</s>
+<s>HD 200964 c</s>
+<s>HD 202432 b</s>
+<s>HD 202696 Ab</s>
+<s>HD 202696 Ac</s>
+<s>HD 202772 Ab</s>
+<s>HD 203030 Ab</s>
+<s>HD 20329 b</s>
+<s>HD 20367 b</s>
+<s>HD 2039 b</s>
+<s>HD 204313 b</s>
+<s>HD 204313 c</s>
+<s>HD 204941 Ab</s>
+<s>HD 205158 b</s>
+<s>HD 205739 b</s>
+<s>HD 206255 b</s>
+<s>HD 206610 b</s>
+<s>HD 206893 c</s>
+<s>HD 207496 Ab</s>
+<s>HD 20781 b</s>
+<s>HD 20781 c</s>
+<s>HD 20781 d</s>
+<s>HD 20781 e</s>
+<s>HD 20782 b</s>
+<s>HD 207832 Ab</s>
+<s>HD 207832 Ac</s>
+<s>HD 207897 b</s>
+<s>HD 208487 b</s>
+<s>HD 208487 c</s>
+<s>HD 208487 d</s>
+<s>HD 208527 b</s>
+<s>HD 20868 b</s>
+<s>HD 208897 b</s>
+<s>HD 209458 b</s>
+<s>HD 210193 b</s>
+<s>HD 210277 b</s>
+<s>HD 210702 Ab</s>
+<s>HD 211403 b</s>
+<s>HD 211810 b</s>
+<s>HD 211970 b</s>
+<s>HD 212301 Ab</s>
+<s>HD 212771 b</s>
+<s>HD 213240 Ab</s>
+<s>HD 213472 b</s>
+<s>HD 213519 Ab</s>
+<s>HD 213885 Ab</s>
+<s>HD 213885 Ac</s>
+<s>HD 21411 b</s>
+<s>HD 215152 b</s>
+<s>HD 215152 c</s>
+<s>HD 215152 d</s>
+<s>HD 215152 e</s>
+<s>HD 21520 b</s>
+<s>HD 215456 Ab</s>
+<s>HD 215456 Ac</s>
+<s>HD 215497 b</s>
+<s>HD 215497 c</s>
+<s>HD 216520 b</s>
+<s>HD 216520 c</s>
+<s>HD 216536 b</s>
+<s>HD 216770 b</s>
+<s>HD 21693 b</s>
+<s>HD 21693 c</s>
+<s>HD 217107 b</s>
+<s>HD 217107 c</s>
+<s>HD 217786 Ac</s>
+<s>HD 217958 Ab</s>
+<s>HD 218566 b</s>
+<s>HD 219134 b</s>
+<s>HD 219134 c</s>
+<s>HD 219134 d</s>
+<s>HD 219134 e</s>
+<s>HD 219134 f</s>
+<s>HD 219134 g</s>
+<s>HD 219134 h</s>
+<s>HD 219139 b</s>
+<s>HD 219415 b</s>
+<s>HD 219666 b</s>
+<s>HD 219828 b</s>
+<s>HD 220074 b</s>
+<s>HD 220197 b</s>
+<s>HD 220689 b</s>
+<s>HD 220842 Ab</s>
+<s>HD 221287 b</s>
+<s>HD 221416 b</s>
+<s>HD 221585 b</s>
+<s>HD 222076 b</s>
+<s>HD 222155 b</s>
+<s>HD 222237 b</s>
+<s>HD 222582 Ab</s>
+<s>HD 224018 b</s>
+<s>HD 224018 c</s>
+<s>HD 224018 d</s>
+<s>HD 224018 e</s>
+<s>HD 224538 b</s>
+<s>HD 224693 b</s>
+<s>HD 22496 b</s>
+<s>HD 22532 b</s>
+<s>HD 22946 b</s>
+<s>HD 22946 c</s>
+<s>HD 22946 d</s>
+<s>HD 23079 b</s>
+<s>HD 23079 c</s>
+<s>HD 23127 b</s>
+<s>HD 231701 b</s>
+<s>HD 233604 b</s>
+<s>HD 233832 Ab</s>
+<s>HD 23472 Ab</s>
+<s>HD 23472 Ac</s>
+<s>HD 23472 Ad</s>
+<s>HD 23472 Ae</s>
+<s>HD 23472 Af</s>
+<s>HD 238090 Ab</s>
+<s>HD 238914 b</s>
+<s>HD 240210 b</s>
+<s>HD 24040 b</s>
+<s>HD 24040 c</s>
+<s>HD 24064 b</s>
+<s>HD 24085 Bb</s>
+<s>HD 25015 b</s>
+<s>HD 25171 Ab</s>
+<s>HD 25723 b</s>
+<s>HD 25723 c</s>
+<s>HD 25912 b</s>
+<s>HD 260655 b</s>
+<s>HD 260655 c</s>
+<s>HD 2638 Ab</s>
+<s>HD 2685 b</s>
+<s>HD 27631 b</s>
+<s>HD 27894 b</s>
+<s>HD 27894 c</s>
+<s>HD 27894 d</s>
+<s>HD 27969 b</s>
+<s>HD 28185 b</s>
+<s>HD 28185 c</s>
+<s>HD 28192 Ab</s>
+<s>HD 28254 Ab</s>
+<s>HD 283869 b</s>
+<s>HD 28471 b</s>
+<s>HD 28471 c</s>
+<s>HD 28471 d</s>
+<s>HD 285507 b</s>
+<s>HD 28678 b</s>
+<s>HD 29021 b</s>
+<s>HD 290327 b</s>
+<s>HD 29399 Ab</s>
+<s>HD 2952 b</s>
+<s>HD 29985 b</s>
+<s>HD 30177 Ab</s>
+<s>HD 30177 Ac</s>
+<s>HD 30562 b</s>
+<s>HD 30669 b</s>
+<s>HD 30856 Ab</s>
+<s>HD 31221 b</s>
+<s>HD 31253 Ab</s>
+<s>HD 31527 b</s>
+<s>HD 31527 c</s>
+<s>HD 31527 d</s>
+<s>HD 3167 b</s>
+<s>HD 3167 c</s>
+<s>HD 3167 d</s>
+<s>HD 3167 e</s>
+<s>HD 32518 b</s>
+<s>HD 32963 b</s>
+<s>HD 330075 b</s>
+<s>HD 331093 b</s>
+<s>HD 33142 b</s>
+<s>HD 33142 c</s>
+<s>HD 33142 d</s>
+<s>HD 332231 b</s>
+<s>HD 33283 Ab</s>
+<s>HD 33564 b</s>
+<s>HD 33844 b</s>
+<s>HD 33844 c</s>
+<s>HD 34445 b</s>
+<s>HD 34445 c</s>
+<s>HD 34445 d</s>
+<s>HD 34445 e</s>
+<s>HD 34445 f</s>
+<s>HD 34445 g</s>
+<s>HD 35759 b</s>
+<s>HD 35843 b</s>
+<s>HD 35843 c</s>
+<s>HD 360 b</s>
+<s>HD 36384 b</s>
+<s>HD 37124 b</s>
+<s>HD 37124 c</s>
+<s>HD 37124 d</s>
+<s>HD 37605 b</s>
+<s>HD 37605 c</s>
+<s>HD 3765 b</s>
+<s>HD 38283 b</s>
+<s>HD 38529 Ab</s>
+<s>HD 38677 b</s>
+<s>HD 38677 c</s>
+<s>HD 38677 d</s>
+<s>HD 38677 e</s>
+<s>HD 38801 b</s>
+<s>HD 39194 b</s>
+<s>HD 39194 c</s>
+<s>HD 39194 d</s>
+<s>HD 39855 Ab</s>
+<s>HD 40307 b</s>
+<s>HD 40307 c</s>
+<s>HD 40307 d</s>
+<s>HD 40307 e</s>
+<s>HD 40307 f</s>
+<s>HD 40307 g</s>
+<s>HD 40956 b</s>
+<s>HD 40979 Ab</s>
+<s>HD 41004 Ab</s>
+<s>HD 41004 Bb</s>
+<s>HD 4113 Ab</s>
+<s>HD 42012 b</s>
+<s>HD 4203 b</s>
+<s>HD 4203 c</s>
+<s>HD 4208 b</s>
+<s>HD 42618 b</s>
+<s>HD 42936 Ab</s>
+<s>HD 4308 b</s>
+<s>HD 4313 b</s>
+<s>HD 43197 b</s>
+<s>HD 43197 c</s>
+<s>HD 43691 Ab</s>
+<s>HD 44219 b</s>
+<s>HD 44385 b</s>
+<s>HD 45184 b</s>
+<s>HD 45184 c</s>
+<s>HD 45350 b</s>
+<s>HD 45364 b</s>
+<s>HD 45364 c</s>
+<s>HD 45652 b</s>
+<s>HD 46375 Ab</s>
+<s>HD 46588 b</s>
+<s>HD 47186 b</s>
+<s>HD 47186 c</s>
+<s>HD 4732 Ab</s>
+<s>HD 4732 Ac</s>
+<s>HD 47366 b</s>
+<s>HD 47366 c</s>
+<s>HD 47536 b</s>
+<s>HD 48265 b</s>
+<s>HD 48948 b</s>
+<s>HD 48948 c</s>
+<s>HD 48948 d</s>
+<s>HD 4917 b</s>
+<s>HD 49674 b</s>
+<s>HD 50499 b</s>
+<s>HD 50499 c</s>
+<s>HD 50554 b</s>
+<s>HD 51608 b</s>
+<s>HD 51608 c</s>
+<s>HD 52265 b</s>
+<s>HD 5278 Ab</s>
+<s>HD 5278 Ac</s>
+<s>HD 5319 b</s>
+<s>HD 5319 c</s>
+<s>HD 55696 b</s>
+<s>HD 5583 b</s>
+<s>HD 5608 Ab</s>
+<s>HD 56414 Ab</s>
+<s>HD 564 b</s>
+<s>HD 56957 b</s>
+<s>HD 57625 Ab</s>
+<s>HD 5891 b</s>
+<s>HD 59686 Ab</s>
+<s>HD 60292 b</s>
+<s>HD 60532 b</s>
+<s>HD 60779 b</s>
+<s>HD 60779 c</s>
+<s>HD 62549 b</s>
+<s>HD 63433 b</s>
+<s>HD 63433 c</s>
+<s>HD 63433 d</s>
+<s>HD 63454 b</s>
+<s>HD 63765 b</s>
+<s>HD 63935 b</s>
+<s>HD 63935 c</s>
+<s>HD 64121 b</s>
+<s>HD 6434 b</s>
+<s>HD 65216 Ab</s>
+<s>HD 65216 Ac</s>
+<s>HD 66428 b</s>
+<s>HD 67087 b</s>
+<s>HD 67087 c</s>
+<s>HD 68402 b</s>
+<s>HD 68988 b</s>
+<s>HD 69123 b</s>
+<s>HD 69830 b</s>
+<s>HD 69830 c</s>
+<s>HD 69830 d</s>
+<s>HD 70642 b</s>
+<s>HD 7199 b</s>
+<s>HD 72490 b</s>
+<s>HD 72659 b</s>
+<s>HD 72892 b</s>
+<s>HD 73267 b</s>
+<s>HD 73267 c</s>
+<s>HD 73344 b</s>
+<s>HD 73344 c</s>
+<s>HD 73344 d</s>
+<s>HD 73526 b</s>
+<s>HD 73526 c</s>
+<s>HD 73534 b</s>
+<s>HD 73583 Ab</s>
+<s>HD 73583 Ac</s>
+<s>HD 74156 b</s>
+<s>HD 74156 c</s>
+<s>HD 7449 Ab</s>
+<s>HD 7449 Ad</s>
+<s>HD 74698 b</s>
+<s>HD 74698 c</s>
+<s>HD 75289 Ab</s>
+<s>HD 75302 Ab</s>
+<s>HD 75784 b</s>
+<s>HD 75784 c</s>
+<s>HD 75898 b</s>
+<s>HD 75898 c</s>
+<s>HD 76700 b</s>
+<s>HD 76920 b</s>
+<s>HD 77338 b</s>
+<s>HD 79181 Ab</s>
+<s>HD 7924 b</s>
+<s>HD 7924 c</s>
+<s>HD 7924 d</s>
+<s>HD 79498 Ab</s>
+<s>HD 80606 b</s>
+<s>HD 80653 b</s>
+<s>HD 80653 c</s>
+<s>HD 80869 Ab</s>
+<s>HD 80883 b</s>
+<s>HD 81040 b</s>
+<s>HD 81688 b</s>
+<s>HD 82886 b</s>
+<s>HD 82943 b</s>
+<s>HD 82943 c</s>
+<s>HD 82943 d</s>
+<s>HD 8326 Ab</s>
+<s>HD 83342 b</s>
+<s>HD 83443 b</s>
+<s>HD 83443 c</s>
+<s>HD 8535 Ab</s>
+<s>HD 85390 b</s>
+<s>HD 85426 b</s>
+<s>HD 85426 c</s>
+<s>HD 8574 b</s>
+<s>HD 86065 b</s>
+<s>HD 86081 Ab</s>
+<s>HD 86226 b</s>
+<s>HD 86226 c</s>
+<s>HD 86264 Ab</s>
+<s>HD 86728 b</s>
+<s>HD 86950 b</s>
+<s>HD 87646 Ab</s>
+<s>HD 87816 b</s>
+<s>HD 87816 c</s>
+<s>HD 87883 b</s>
+<s>HD 88072 Ab</s>
+<s>HD 88133 b</s>
+<s>HD 88986   b</s>
+<s>HD 89307 b</s>
+<s>HD 89345 b</s>
+<s>HD 89744 Ab</s>
+<s>HD 89744 Ac</s>
+<s>HD 89839 b</s>
+<s>HD 90156 b</s>
+<s>HD 9174 b</s>
+<s>HD 92788 c</s>
+<s>HD 92945 c</s>
+<s>HD 93083 b</s>
+<s>HD 93351 b</s>
+<s>HD 93385 Ab</s>
+<s>HD 93385 Ac</s>
+<s>HD 93385 Ad</s>
+<s>HD 93963 Ab</s>
+<s>HD 93963 Ac</s>
+<s>HD 9446 b</s>
+<s>HD 9446 c</s>
+<s>HD 94771 b</s>
+<s>HD 94834 Ab</s>
+<s>HD 94890 b</s>
+<s>HD 94890 c</s>
+<s>HD 95086 b</s>
+<s>HD 95089 b</s>
+<s>HD 95089 c</s>
+<s>HD 95127 b</s>
+<s>HD 95338 b</s>
+<s>HD 95544 Ab</s>
+<s>HD 9578 Ab</s>
+<s>HD 95872 b</s>
+<s>HD 96063 b</s>
+<s>HD 96167 Ab</s>
+<s>HD 96700 Ab</s>
+<s>HD 96700 Ac</s>
+<s>HD 96700 Ad</s>
+<s>HD 96992 b</s>
+<s>HD 97048 b</s>
+<s>HD 97619 b</s>
+<s>HD 97658 b</s>
+<s>HD 98219 b</s>
+<s>HD 98649 b</s>
+<s>HD 98736 Ab</s>
+<s>HD 99109 b</s>
+<s>HD 99283 b</s>
+<s>HD 99492 b</s>
+<s>HD 99492 c</s>
+<s>HD 99706 b</s>
+<s>HD 99706 c</s>
+<s>HIP 105854 b</s>
+<s>HIP 107772 b</s>
+<s>HIP 107773 Ab</s>
+<s>HIP 109384 b</s>
+<s>HIP 109600 Ab</s>
+<s>HIP 111909 b</s>
+<s>HIP 111909 c</s>
+<s>HIP 113103 b</s>
+<s>HIP 113103 c</s>
+<s>HIP 114933 b</s>
+<s>HIP 116454 Ab</s>
+<s>HIP 11696 b</s>
+<s>HIP 11915 b</s>
+<s>HIP 12961 b</s>
+<s>HIP 14810 b</s>
+<s>HIP 14810 c</s>
+<s>HIP 14810 d</s>
+<s>HIP 1481 Ab</s>
+<s>HIP 18606 b</s>
+<s>HIP 19976 b</s>
+<s>HIP 34222 b</s>
+<s>HIP 35173 b</s>
+<s>HIP 35965 b</s>
+<s>HIP 38594 Ab</s>
+<s>HIP 38594 Ac</s>
+<s>HIP 41378 b</s>
+<s>HIP 41378 c</s>
+<s>HIP 41378 d</s>
+<s>HIP 41378 e</s>
+<s>HIP 41378 f</s>
+<s>HIP 41378 g</s>
+<s>HIP 47110 b</s>
+<s>HIP 4845 b</s>
+<s>HIP 5158 b</s>
+<s>HIP 54373 b</s>
+<s>HIP 54373 c</s>
+<s>HIP 54597 b</s>
+<s>HIP 55507 b</s>
+<s>HIP 560 b</s>
+<s>HIP 56640 b</s>
+<s>HIP 57050 b</s>
+<s>HIP 57050 c</s>
+<s>HIP 57274 b</s>
+<s>HIP 57274 c</s>
+<s>HIP 57274 d</s>
+<s>HIP 5763 b</s>
+<s>HIP 63242 b</s>
+<s>HIP 63734 b</s>
+<s>HIP 65407 b</s>
+<s>HIP 65407 c</s>
+<s>HIP 65426 b</s>
+<s>HIP 65891 b</s>
+<s>HIP 65 Ab</s>
+<s>HIP 67522 b</s>
+<s>HIP 67522 c</s>
+<s>HIP 67537 b</s>
+<s>HIP 67851 b</s>
+<s>HIP 67851 c</s>
+<s>HIP 68468 Ab</s>
+<s>HIP 68468 Ac</s>
+<s>HIP 70849 b</s>
+<s>HIP 71135 b</s>
+<s>HIP 74890 b</s>
+<s>HIP 75092 b</s>
+<s>HIP 79431 b</s>
+<s>HIP 8541 Ab</s>
+<s>HIP 8541 Ac</s>
+<s>HIP 86221 Ab</s>
+<s>HIP 90988 Ab</s>
+<s>HIP 91258 b</s>
+<s>HIP 94235 Ab</s>
+<s>HIP 96334 b</s>
+<s>HIP 97166 b</s>
+<s>HIP 97166 c</s>
+<s>HN Lib b</s>
+<s>HR 5183 Ab</s>
+<s>HR 8799 b</s>
+<s>HR 8799 c</s>
+<s>HR 8799 d</s>
+<s>HR 8799 e</s>
+<s>HS 0705+6700 (AB)c</s>
+<s>HS Psc b</s>
+<s>IC 4651 9122 b</s>
+<s>Innes' Star b</s>
+<s>iot Cap b</s>
+<s>iot Cap c</s>
+<s>iot Hor b</s>
+<s>IRAS 04125+2902 b</s>
+<s>JH 112 Ab</s>
+<s>JW 734 b</s>
+<s>K2-100 b</s>
+<s>K2-101 b</s>
+<s>K2-102 Ab</s>
+<s>K2-103 b</s>
+<s>K2-104 b</s>
+<s>K2-105 b</s>
+<s>K2-106 b</s>
+<s>K2-106 c</s>
+<s>K2-107 b</s>
+<s>K2-108 b</s>
+<s>K2-10 b</s>
+<s>K2-110 b</s>
+<s>K2-111 b</s>
+<s>K2-111 c</s>
+<s>K2-113 b</s>
+<s>K2-114 b</s>
+<s>K2-115 b</s>
+<s>K2-116 b</s>
+<s>K2-117 b</s>
+<s>K2-117 c</s>
+<s>K2-118 b</s>
+<s>K2-119 b</s>
+<s>K2-11 b</s>
+<s>K2-120 Ab</s>
+<s>K2-121 b</s>
+<s>K2-122 Ab</s>
+<s>K2-123 b</s>
+<s>K2-124 b</s>
+<s>K2-125 b</s>
+<s>K2-126 b</s>
+<s>K2-127 b</s>
+<s>K2-128 b</s>
+<s>K2-129 b</s>
+<s>K2-12 b</s>
+<s>K2-130 b</s>
+<s>K2-131 b</s>
+<s>K2-132 b</s>
+<s>K2-133 b</s>
+<s>K2-133 c</s>
+<s>K2-133 d</s>
+<s>K2-133 e</s>
+<s>K2-136 Ab</s>
+<s>K2-136 Ac</s>
+<s>K2-136 Ad</s>
+<s>K2-137 b</s>
+<s>K2-138 b</s>
+<s>K2-138 c</s>
+<s>K2-138 d</s>
+<s>K2-138 e</s>
+<s>K2-138 f</s>
+<s>K2-138 g</s>
+<s>K2-139 Ab</s>
+<s>K2-13 b</s>
+<s>K2-140 b</s>
+<s>K2-141 b</s>
+<s>K2-141 c</s>
+<s>K2-146 b</s>
+<s>K2-146 c</s>
+<s>K2-147 b</s>
+<s>K2-148 Ab</s>
+<s>K2-148 Ac</s>
+<s>K2-148 Ad</s>
+<s>K2-149 b</s>
+<s>K2-14 b</s>
+<s>K2-150 b</s>
+<s>K2-151Bb</s>
+<s>K2-152 b</s>
+<s>K2-153 b</s>
+<s>K2-154 b</s>
+<s>K2-154 c</s>
+<s>K2-155 b</s>
+<s>K2-155 c</s>
+<s>K2-155 d</s>
+<s>K2-156 b</s>
+<s>K2-157 b</s>
+<s>K2-157 c</s>
+<s>K2-157 d</s>
+<s>K2-158 b</s>
+<s>K2-158 c</s>
+<s>K2-159 b</s>
+<s>K2-15 b</s>
+<s>K2-160 b</s>
+<s>K2-161 b</s>
+<s>K2-162 b</s>
+<s>K2-163 b</s>
+<s>K2-164 b</s>
+<s>K2-165 b</s>
+<s>K2-165 c</s>
+<s>K2-165 d</s>
+<s>K2-166 b</s>
+<s>K2-166 c</s>
+<s>K2-167 b</s>
+<s>K2-168 b</s>
+<s>K2-168 c</s>
+<s>K2-169 b</s>
+<s>K2-16 b</s>
+<s>K2-16 c</s>
+<s>K2-16 d</s>
+<s>K2-170 b</s>
+<s>K2-170 c</s>
+<s>K2-171 b</s>
+<s>K2-172 b</s>
+<s>K2-172 c</s>
+<s>K2-173 Ab</s>
+<s>K2-174 b</s>
+<s>K2-175 Ab</s>
+<s>K2-176 Ab</s>
+<s>K2-177 b</s>
+<s>K2-178 b</s>
+<s>K2-179 b</s>
+<s>K2-17 b</s>
+<s>K2-180 b</s>
+<s>K2-181 b</s>
+<s>K2-182 b</s>
+<s>K2-183 b</s>
+<s>K2-183 c</s>
+<s>K2-183 d</s>
+<s>K2-183 e</s>
+<s>K2-184 b</s>
+<s>K2-185 b</s>
+<s>K2-185 c</s>
+<s>K2-186 b</s>
+<s>K2-187 b</s>
+<s>K2-187 c</s>
+<s>K2-187 d</s>
+<s>K2-187 e</s>
+<s>K2-188 b</s>
+<s>K2-188 c</s>
+<s>K2-189 b</s>
+<s>K2-189 c</s>
+<s>K2-18 b</s>
+<s>K2-18 c</s>
+<s>K2-190 b</s>
+<s>K2-190 c</s>
+<s>K2-191 b</s>
+<s>K2-192 b</s>
+<s>K2-193 b</s>
+<s>K2-194 b</s>
+<s>K2-195 b</s>
+<s>K2-195 c</s>
+<s>K2-196 b</s>
+<s>K2-197 Ab</s>
+<s>K2-198 b</s>
+<s>K2-198 c</s>
+<s>K2-198 d</s>
+<s>K2-199 b</s>
+<s>K2-199 c</s>
+<s>K2-19 b</s>
+<s>K2-19 c</s>
+<s>K2-19 d</s>
+<s>K2-200 Ab</s>
+<s>K2-2016-BLG-0005L b</s>
+<s>K2-201 b</s>
+<s>K2-201 c</s>
+<s>K2-202 Ab</s>
+<s>K2-203 b</s>
+<s>K2-204 b</s>
+<s>K2-205 b</s>
+<s>K2-206 Ab</s>
+<s>K2-207 b</s>
+<s>K2-208 b</s>
+<s>K2-209 b</s>
+<s>K2-210 b</s>
+<s>K2-211 b</s>
+<s>K2-212 b</s>
+<s>K2-213 b</s>
+<s>K2-214 b</s>
+<s>K2-215 b</s>
+<s>K2-216 b</s>
+<s>K2-217 b</s>
+<s>K2-218 Ab</s>
+<s>K2-219 b</s>
+<s>K2-219 c</s>
+<s>K2-219 d</s>
+<s>K2-21 b</s>
+<s>K2-21 c</s>
+<s>K2-220 b</s>
+<s>K2-221 b</s>
+<s>K2-222 b</s>
+<s>K2-223 b</s>
+<s>K2-223 c</s>
+<s>K2-224 b</s>
+<s>K2-224 c</s>
+<s>K2-225 b</s>
+<s>K2-226 b</s>
+<s>K2-227 b</s>
+<s>K2-228 Bb</s>
+<s>K2-229 b</s>
+<s>K2-229 c</s>
+<s>K2-229 d</s>
+<s>K2-22 Ab</s>
+<s>K2-230 b</s>
+<s>K2-231 b</s>
+<s>K2-232 Ab</s>
+<s>K2-233 b</s>
+<s>K2-233 c</s>
+<s>K2-233 d</s>
+<s>K2-236 b</s>
+<s>K2-237 Ab</s>
+<s>K2-238 b</s>
+<s>K2-239 b</s>
+<s>K2-239 c</s>
+<s>K2-239 d</s>
+<s>K2-240 b</s>
+<s>K2-240 c</s>
+<s>K2-241 b</s>
+<s>K2-242 b</s>
+<s>K2-243 b</s>
+<s>K2-243 c</s>
+<s>K2-244 b</s>
+<s>K2-245 Ab</s>
+<s>K2-246 b</s>
+<s>K2-247 Ab</s>
+<s>K2-247 Ac</s>
+<s>K2-248 b</s>
+<s>K2-249 Ab</s>
+<s>K2-24 b</s>
+<s>K2-24 c</s>
+<s>K2-250 b</s>
+<s>K2-251 b</s>
+<s>K2-252 b</s>
+<s>K2-253 b</s>
+<s>K2-254 b</s>
+<s>K2-254 c</s>
+<s>K2-255 b</s>
+<s>K2-257 b</s>
+<s>K2-258 b</s>
+<s>K2-259 b</s>
+<s>K2-25 b</s>
+<s>K2-260 Ab</s>
+<s>K2-261 b</s>
+<s>K2-263 b</s>
+<s>K2-264 b</s>
+<s>K2-264 c</s>
+<s>K2-265 Ab</s>
+<s>K2-266 Ab</s>
+<s>K2-266 Ac</s>
+<s>K2-266 Ad</s>
+<s>K2-266 Ae</s>
+<s>K2-267 Ab</s>
+<s>K2-268 b</s>
+<s>K2-268 c</s>
+<s>K2-268 d</s>
+<s>K2-268 e</s>
+<s>K2-268 f</s>
+<s>K2-269 b</s>
+<s>K2-26 b</s>
+<s>K2-270 b</s>
+<s>K2-270 c</s>
+<s>K2-271 b</s>
+<s>K2-272 b</s>
+<s>K2-273 b</s>
+<s>K2-274 b</s>
+<s>K2-275 Ab</s>
+<s>K2-275 Ac</s>
+<s>K2-276 b</s>
+<s>K2-277 b</s>
+<s>K2-278 b</s>
+<s>K2-279 b</s>
+<s>K2-27 Bb</s>
+<s>K2-280 b</s>
+<s>K2-281 b</s>
+<s>K2-282 b</s>
+<s>K2-282 c</s>
+<s>K2-282 d</s>
+<s>K2-283 b</s>
+<s>K2-284 b</s>
+<s>K2-285 b</s>
+<s>K2-285 c</s>
+<s>K2-285 d</s>
+<s>K2-285 e</s>
+<s>K2-286 b</s>
+<s>K2-287 b</s>
+<s>K2-288 Bb</s>
+<s>K2-289 b</s>
+<s>K2-28 b</s>
+<s>K2-290 Ab</s>
+<s>K2-290 Ac</s>
+<s>K2-291 b</s>
+<s>K2-292 b</s>
+<s>K2-293 b</s>
+<s>K2-294 b</s>
+<s>K2-295 b</s>
+<s>K2-296 b</s>
+<s>K2-297 b</s>
+<s>K2-298 b</s>
+<s>K2-299 b</s>
+<s>K2-299 c</s>
+<s>K2-299 d</s>
+<s>K2-29 Ab</s>
+<s>K2-300 b</s>
+<s>K2-301 b</s>
+<s>K2-301 c</s>
+<s>K2-302 b</s>
+<s>K2-302 c</s>
+<s>K2-302 d</s>
+<s>K2-303 b</s>
+<s>K2-303 c</s>
+<s>K2-304 b</s>
+<s>K2-304 c</s>
+<s>K2-305 b</s>
+<s>K2-306 b</s>
+<s>K2-307 b</s>
+<s>K2-307 c</s>
+<s>K2-308 b</s>
+<s>K2-309 Ab</s>
+<s>K2-309 Ac</s>
+<s>K2-309 Ad</s>
+<s>K2-309 Ae</s>
+<s>K2-30 b</s>
+<s>K2-310 b</s>
+<s>K2-310 c</s>
+<s>K2-311 b</s>
+<s>K2-314 b</s>
+<s>K2-314 c</s>
+<s>K2-314 d</s>
+<s>K2-315 b</s>
+<s>K2-316 b</s>
+<s>K2-316 c</s>
+<s>K2-317 b</s>
+<s>K2-318 b</s>
+<s>K2-319 Ab</s>
+<s>K2-31 Ab</s>
+<s>K2-320 b</s>
+<s>K2-321 b</s>
+<s>K2-322 b</s>
+<s>K2-323 b</s>
+<s>K2-324 b</s>
+<s>K2-325 b</s>
+<s>K2-326 b</s>
+<s>K2-327 b</s>
+<s>K2-328 b</s>
+<s>K2-329 Ab</s>
+<s>K2-32 Ab</s>
+<s>K2-32 Ac</s>
+<s>K2-32 Ad</s>
+<s>K2-32 Ae</s>
+<s>K2-330 b</s>
+<s>K2-331 b</s>
+<s>K2-331 c</s>
+<s>K2-332 b</s>
+<s>K2-333 b</s>
+<s>K2-334 b</s>
+<s>K2-335 b</s>
+<s>K2-336 b</s>
+<s>K2-337 b</s>
+<s>K2-338 b</s>
+<s>K2-339 b</s>
+<s>K2-33 b</s>
+<s>K2-340 b</s>
+<s>K2-341 b</s>
+<s>K2-342 b</s>
+<s>K2-343 Ab</s>
+<s>K2-343 Ac</s>
+<s>K2-344 b</s>
+<s>K2-345 b</s>
+<s>K2-346 b</s>
+<s>K2-347 b</s>
+<s>K2-348 b</s>
+<s>K2-348 c</s>
+<s>K2-349 b</s>
+<s>K2-34 b</s>
+<s>K2-350 Ab</s>
+<s>K2-350 Ac</s>
+<s>K2-351 b</s>
+<s>K2-352 b</s>
+<s>K2-352 c</s>
+<s>K2-352 d</s>
+<s>K2-353 Ab</s>
+<s>K2-354 b</s>
+<s>K2-355 b</s>
+<s>K2-356 b</s>
+<s>K2-357 b</s>
+<s>K2-358 b</s>
+<s>K2-359 b</s>
+<s>K2-35 b</s>
+<s>K2-35 c</s>
+<s>K2-360 b</s>
+<s>K2-360 c</s>
+<s>K2-361 b</s>
+<s>K2-361 c</s>
+<s>K2-362 b</s>
+<s>K2-363 b</s>
+<s>K2-365 b</s>
+<s>K2-366 b</s>
+<s>K2-367 b</s>
+<s>K2-368 b</s>
+<s>K2-368 c</s>
+<s>K2-368 d</s>
+<s>K2-369 b</s>
+<s>K2-36 Bb</s>
+<s>K2-36 Bc</s>
+<s>K2-370 b</s>
+<s>K2-371 b</s>
+<s>K2-372 b</s>
+<s>K2-373 b</s>
+<s>K2-374 b</s>
+<s>K2-374 c</s>
+<s>K2-375 b</s>
+<s>K2-376 Ab</s>
+<s>K2-377 b</s>
+<s>K2-378 b</s>
+<s>K2-379 b</s>
+<s>K2-37 b</s>
+<s>K2-37 c</s>
+<s>K2-37 d</s>
+<s>K2-380 Ab</s>
+<s>K2-381 b</s>
+<s>K2-381 c</s>
+<s>K2-381 d</s>
+<s>K2-382 b</s>
+<s>K2-383 b</s>
+<s>K2-384 b</s>
+<s>K2-384 c</s>
+<s>K2-384 d</s>
+<s>K2-384  e</s>
+<s>K2-384 f</s>
+<s>K2-385 b</s>
+<s>K2-386 Ab</s>
+<s>K2-387 b</s>
+<s>K2-388 b</s>
+<s>K2-389 b</s>
+<s>K2-389 c</s>
+<s>K2-38 b</s>
+<s>K2-38 c</s>
+<s>K2-390 b</s>
+<s>K2-391 b</s>
+<s>K2-392 b</s>
+<s>K2-393 b</s>
+<s>K2-394 b</s>
+<s>K2-395 b</s>
+<s>K2-395 c</s>
+<s>K2-396 b</s>
+<s>K2-396 c</s>
+<s>K2-397 b</s>
+<s>K2-398 b</s>
+<s>K2-398 c</s>
+<s>K2-39 b</s>
+<s>K2-3 b</s>
+<s>K2-3 c</s>
+<s>K2-3 d</s>
+<s>K2-400 b</s>
+<s>K2-401 b</s>
+<s>K2-402 b</s>
+<s>K2-403 b</s>
+<s>K2-404 b</s>
+<s>K2-405 b</s>
+<s>K2-406 Ab</s>
+<s>K2-407 b</s>
+<s>K2-407 c</s>
+<s>K2-408 b</s>
+<s>K2-409 b</s>
+<s>K2-411 b</s>
+<s>K2-412 b</s>
+<s>K2-413 b</s>
+<s>K2-413 c</s>
+<s>K2-414 b</s>
+<s>K2-414 c</s>
+<s>K2-415 b</s>
+<s>K2-416 b</s>
+<s>K2-417 b</s>
+<s>K2-418 b</s>
+<s>K2-419 Ab</s>
+<s>K2-42 b</s>
+<s>K2-43 b</s>
+<s>K2-43 c</s>
+<s>K2-44 b</s>
+<s>K2-45 b</s>
+<s>K2-46 b</s>
+<s>K2-47 b</s>
+<s>K2-48 b</s>
+<s>K2-49 b</s>
+<s>K2-4 b</s>
+<s>K2-50 b</s>
+<s>K2-50 c</s>
+<s>K2-52 b</s>
+<s>K2-53 b</s>
+<s>K2-54 Bb</s>
+<s>K2-55 b</s>
+<s>K2-57 b</s>
+<s>K2-58 b</s>
+<s>K2-58 c</s>
+<s>K2-58 d</s>
+<s>K2-59 b</s>
+<s>K2-59 c</s>
+<s>K2-5 b</s>
+<s>K2-5 c</s>
+<s>K2-60 b</s>
+<s>K2-61 b</s>
+<s>K2-62 b</s>
+<s>K2-62 c</s>
+<s>K2-63 b</s>
+<s>K2-63 c</s>
+<s>K2-64 b</s>
+<s>K2-65 b</s>
+<s>K2-66 b</s>
+<s>K2-68 b</s>
+<s>K2-69 b</s>
+<s>K2-6 b</s>
+<s>K2-70 b</s>
+<s>K2-71 b</s>
+<s>K2-72 b</s>
+<s>K2-72 c</s>
+<s>K2-72 d</s>
+<s>K2-72 e</s>
+<s>K2-73 b</s>
+<s>K2-73 c</s>
+<s>K2-74 b</s>
+<s>K2-75 b</s>
+<s>K2-75 c</s>
+<s>K2-77 b</s>
+<s>K2-79 b</s>
+<s>K2-7 b</s>
+<s>K2-80 b</s>
+<s>K2-80 c</s>
+<s>K2-80 d</s>
+<s>K2-81 b</s>
+<s>K2-83 b</s>
+<s>K2-83 c</s>
+<s>K2-84 b</s>
+<s>K2-84 c</s>
+<s>K2-85 b</s>
+<s>K2-86 b</s>
+<s>K2-87 b</s>
+<s>K2-88 b</s>
+<s>K2-89 b</s>
+<s>K2-8 b</s>
+<s>K2-8 c</s>
+<s>K2-90 b</s>
+<s>K2-90 c</s>
+<s>K2-91 b</s>
+<s>K2-95 b</s>
+<s>K2-97 b</s>
+<s>K2-98 b</s>
+<s>K2-99 b</s>
+<s>K2-99 c</s>
+<s>K2-9 b</s>
+<s>kappa CrB b</s>
+<s>KELT-10 b</s>
+<s>KELT-11 Ab</s>
+<s>KELT-12 b</s>
+<s>KELT-15 Ab</s>
+<s>KELT-16 Ab</s>
+<s>KELT-17 b</s>
+<s>KELT-18 Ab</s>
+<s>KELT-19 Ab</s>
+<s>KELT-20 Ab</s>
+<s>KELT-21 Ab</s>
+<s>KELT-22 Ab</s>
+<s>KELT-23 Ab</s>
+<s>KELT-2 Ab</s>
+<s>KELT-3 Ab</s>
+<s>KELT-4 Ab</s>
+<s>KELT-6 b</s>
+<s>KELT-6 c</s>
+<s>KELT-7 b</s>
+<s>KELT-8 b</s>
+<s>KELT-9 Ab</s>
+<s>Kepler-1000 b</s>
+<s>Kepler-1001 b</s>
+<s>Kepler-1001 c</s>
+<s>Kepler-1002 Ab</s>
+<s>Kepler-1003 b</s>
+<s>Kepler-1004 b</s>
+<s>Kepler-1005 b</s>
+<s>Kepler-1006 Ab</s>
+<s>Kepler-1007 Ab</s>
+<s>Kepler-1008 Ab</s>
+<s>Kepler-1009 b</s>
+<s>Kepler-100 b</s>
+<s>Kepler-100 c</s>
+<s>Kepler-100 d</s>
+<s>Kepler-100 e</s>
+<s>Kepler-1010 Ab</s>
+<s>Kepler-1011 b</s>
+<s>Kepler-1012 b</s>
+<s>Kepler-1013 b</s>
+<s>Kepler-1014 b</s>
+<s>Kepler-1015 b</s>
+<s>Kepler-1016 b</s>
+<s>Kepler-1016 c</s>
+<s>Kepler-1017 b</s>
+<s>Kepler-1018 b</s>
+<s>Kepler-1019 Ab</s>
+<s>Kepler-101 b</s>
+<s>Kepler-101 c</s>
+<s>Kepler-1020 b</s>
+<s>Kepler-1021 b</s>
+<s>Kepler-1022 b</s>
+<s>Kepler-1023 b</s>
+<s>Kepler-1024 b</s>
+<s>Kepler-1025 b</s>
+<s>Kepler-1026 b</s>
+<s>Kepler-1027 Ab</s>
+<s>Kepler-1028 b</s>
+<s>Kepler-1029 b</s>
+<s>Kepler-102 b</s>
+<s>Kepler-102 c</s>
+<s>Kepler-102 d</s>
+<s>Kepler-102 e</s>
+<s>Kepler-102 f</s>
+<s>Kepler-1030 b</s>
+<s>Kepler-1031 Ab</s>
+<s>Kepler-1032 Ab</s>
+<s>Kepler-1033 b</s>
+<s>Kepler-1034 b</s>
+<s>Kepler-1035 Ab</s>
+<s>Kepler-1036 b</s>
+<s>Kepler-1037 b</s>
+<s>Kepler-1038 b</s>
+<s>Kepler-1038 c</s>
+<s>Kepler-1039 b</s>
+<s>Kepler-103 b</s>
+<s>Kepler-103 c</s>
+<s>Kepler-1040 Ab</s>
+<s>Kepler-1041 b</s>
+<s>Kepler-1042 b</s>
+<s>Kepler-1043 b</s>
+<s>Kepler-1044 b</s>
+<s>Kepler-1045 b</s>
+<s>Kepler-1046 Ab</s>
+<s>Kepler-1047 b</s>
+<s>Kepler-1047 c</s>
+<s>Kepler-1048 Ab</s>
+<s>Kepler-1049 b</s>
+<s>Kepler-104 Ab</s>
+<s>Kepler-104 Ac</s>
+<s>Kepler-104 Ad</s>
+<s>Kepler-1050 b</s>
+<s>Kepler-1050 c</s>
+<s>Kepler-1051 b</s>
+<s>Kepler-1052 b</s>
+<s>Kepler-1052 c</s>
+<s>Kepler-1053 b</s>
+<s>Kepler-1054 b</s>
+<s>Kepler-1055 b</s>
+<s>Kepler-1056 b</s>
+<s>Kepler-1057 b</s>
+<s>Kepler-1058 Ab</s>
+<s>Kepler-1059 b</s>
+<s>Kepler-105 b</s>
+<s>Kepler-105 c</s>
+<s>Kepler-1060 b</s>
+<s>Kepler-1061 b</s>
+<s>Kepler-1062 Ab</s>
+<s>Kepler-1063 Ab</s>
+<s>Kepler-1064 Ab</s>
+<s>Kepler-1065 b</s>
+<s>Kepler-1065 c</s>
+<s>Kepler-1066 b</s>
+<s>Kepler-1067 b</s>
+<s>Kepler-1067 c</s>
+<s>Kepler-1068 b</s>
+<s>Kepler-1069 b</s>
+<s>Kepler-106 b</s>
+<s>Kepler-106 c</s>
+<s>Kepler-106 d</s>
+<s>Kepler-106 e</s>
+<s>Kepler-1070 b</s>
+<s>Kepler-1071 Ab</s>
+<s>Kepler-1072 b</s>
+<s>Kepler-1073 b</s>
+<s>Kepler-1073 c</s>
+<s>Kepler-1073 d</s>
+<s>Kepler-1074 b</s>
+<s>Kepler-1075 Ab</s>
+<s>Kepler-1076 Ab</s>
+<s>Kepler-1077 b</s>
+<s>Kepler-1078 b</s>
+<s>Kepler-1079 Ab</s>
+<s>Kepler-107 b</s>
+<s>Kepler-107 c</s>
+<s>Kepler-107 d</s>
+<s>Kepler-107 e</s>
+<s>Kepler-1080 b</s>
+<s>Kepler-1081 b</s>
+<s>Kepler-1082 b</s>
+<s>Kepler-1083 b</s>
+<s>Kepler-1084 Ab</s>
+<s>Kepler-1085 b</s>
+<s>Kepler-1085 c</s>
+<s>Kepler-1086 Bb</s>
+<s>Kepler-1086 Bc</s>
+<s>Kepler-1087 Ab</s>
+<s>Kepler-1088 b</s>
+<s>Kepler-1089 b</s>
+<s>Kepler-108 Bb</s>
+<s>Kepler-108 Bc</s>
+<s>Kepler-1090 Ab</s>
+<s>Kepler-1090 Ac</s>
+<s>Kepler-1091 b</s>
+<s>Kepler-1092 b</s>
+<s>Kepler-1093 b</s>
+<s>Kepler-1093 c</s>
+<s>Kepler-1094 b</s>
+<s>Kepler-1095 b</s>
+<s>Kepler-1096 b</s>
+<s>Kepler-1097 b</s>
+<s>Kepler-1098 b</s>
+<s>Kepler-1099 b</s>
+<s>Kepler-109 Ab</s>
+<s>Kepler-109 Ac</s>
+<s>Kepler-10 b</s>
+<s>Kepler-10 c</s>
+<s>Kepler-10 d</s>
+<s>Kepler-1100 b</s>
+<s>Kepler-1101 b</s>
+<s>Kepler-1102 b</s>
+<s>Kepler-1103 b</s>
+<s>Kepler-1104 b</s>
+<s>Kepler-1105 b</s>
+<s>Kepler-1106 b</s>
+<s>Kepler-1107 b</s>
+<s>Kepler-1108 b</s>
+<s>Kepler-1109 b</s>
+<s>Kepler-110 b</s>
+<s>Kepler-110 c</s>
+<s>Kepler-1110 b</s>
+<s>Kepler-1111 b</s>
+<s>Kepler-1112 b</s>
+<s>Kepler-1113 b</s>
+<s>Kepler-1114 b</s>
+<s>Kepler-1115 b</s>
+<s>Kepler-1116 b</s>
+<s>Kepler-1117 Ab</s>
+<s>Kepler-1118 b</s>
+<s>Kepler-1119 b</s>
+<s>Kepler-111 b</s>
+<s>Kepler-111 c</s>
+<s>Kepler-1120 b</s>
+<s>Kepler-1121 b</s>
+<s>Kepler-1122 b</s>
+<s>Kepler-1123 b</s>
+<s>Kepler-1124 b</s>
+<s>Kepler-1125 b</s>
+<s>Kepler-1126 b</s>
+<s>Kepler-1126 c</s>
+<s>Kepler-1127 b</s>
+<s>Kepler-1128 b</s>
+<s>Kepler-1129 b</s>
+<s>Kepler-1129 c</s>
+<s>Kepler-112 b</s>
+<s>Kepler-112 c</s>
+<s>Kepler-1130 Ab</s>
+<s>Kepler-1130 Ac</s>
+<s>Kepler-1130 Ad</s>
+<s>Kepler-1131 b</s>
+<s>Kepler-1132 b</s>
+<s>Kepler-1133 b</s>
+<s>Kepler-1134 b</s>
+<s>Kepler-1135 b</s>
+<s>Kepler-1136 b</s>
+<s>Kepler-1137 b</s>
+<s>Kepler-1138 b</s>
+<s>Kepler-1139 b</s>
+<s>Kepler-113 b</s>
+<s>Kepler-113 c</s>
+<s>Kepler-1140 b</s>
+<s>Kepler-1141 b</s>
+<s>Kepler-1142 b</s>
+<s>Kepler-1143 Ab</s>
+<s>Kepler-1143 Ac</s>
+<s>Kepler-1144 b</s>
+<s>Kepler-1145 b</s>
+<s>Kepler-1146 b</s>
+<s>Kepler-1147 b</s>
+<s>Kepler-1148 b</s>
+<s>Kepler-1149 Ab</s>
+<s>Kepler-114 b</s>
+<s>Kepler-114 c</s>
+<s>Kepler-114 d</s>
+<s>Kepler-1150 Bb</s>
+<s>Kepler-1151 b</s>
+<s>Kepler-1152 b</s>
+<s>Kepler-1153 b</s>
+<s>Kepler-1154 b</s>
+<s>Kepler-1154 c</s>
+<s>Kepler-1155 b</s>
+<s>Kepler-1156 b</s>
+<s>Kepler-1157 Ab</s>
+<s>Kepler-1158 b</s>
+<s>Kepler-1159 b</s>
+<s>Kepler-115 b</s>
+<s>Kepler-115 c</s>
+<s>Kepler-1160 b</s>
+<s>Kepler-1161 b</s>
+<s>Kepler-1162 b</s>
+<s>Kepler-1162 c</s>
+<s>Kepler-1163 b</s>
+<s>Kepler-1164 b</s>
+<s>Kepler-1165 b</s>
+<s>Kepler-1165 c</s>
+<s>Kepler-1166 b</s>
+<s>Kepler-1167 b</s>
+<s>Kepler-1168 b</s>
+<s>Kepler-1169 b</s>
+<s>Kepler-116 b</s>
+<s>Kepler-116 c</s>
+<s>Kepler-1170 b</s>
+<s>Kepler-1171 b</s>
+<s>Kepler-1172 b</s>
+<s>Kepler-1173 b</s>
+<s>Kepler-1174 b</s>
+<s>Kepler-1175 b</s>
+<s>Kepler-1176 b</s>
+<s>Kepler-1177 b</s>
+<s>Kepler-1178 Ab</s>
+<s>Kepler-1179 b</s>
+<s>Kepler-117 b</s>
+<s>Kepler-117 c</s>
+<s>Kepler-1180 b</s>
+<s>Kepler-1181 b</s>
+<s>Kepler-1181 c</s>
+<s>Kepler-1182 b</s>
+<s>Kepler-1183 b</s>
+<s>Kepler-1184 b</s>
+<s>Kepler-1185 b</s>
+<s>Kepler-1186 b</s>
+<s>Kepler-1187 b</s>
+<s>Kepler-1188 b</s>
+<s>Kepler-1189 b</s>
+<s>Kepler-118 b</s>
+<s>Kepler-118 c</s>
+<s>Kepler-1190 Ab</s>
+<s>Kepler-1191 b</s>
+<s>Kepler-1192 b</s>
+<s>Kepler-1193 b</s>
+<s>Kepler-1194 Ab</s>
+<s>Kepler-1195 b</s>
+<s>Kepler-1196 b</s>
+<s>Kepler-1197 Ab</s>
+<s>Kepler-1198 b</s>
+<s>Kepler-1199 Ab</s>
+<s>Kepler-119 b</s>
+<s>Kepler-119 c</s>
+<s>Kepler-11 b</s>
+<s>Kepler-11 c</s>
+<s>Kepler-11 d</s>
+<s>Kepler-11 e</s>
+<s>Kepler-11 f</s>
+<s>Kepler-11 g</s>
+<s>Kepler-1200 b</s>
+<s>Kepler-1201 b</s>
+<s>Kepler-1202 Ab</s>
+<s>Kepler-1203 b</s>
+<s>Kepler-1204 b</s>
+<s>Kepler-1205 b</s>
+<s>Kepler-1206 b</s>
+<s>Kepler-1207 b</s>
+<s>Kepler-1208 b</s>
+<s>Kepler-1209 b</s>
+<s>Kepler-120 b</s>
+<s>Kepler-120 c</s>
+<s>Kepler-1210 b</s>
+<s>Kepler-1211 b</s>
+<s>Kepler-1212 b</s>
+<s>Kepler-1213 b</s>
+<s>Kepler-1214 Ab</s>
+<s>Kepler-1215 b</s>
+<s>Kepler-1216 b</s>
+<s>Kepler-1217 b</s>
+<s>Kepler-1218 b</s>
+<s>Kepler-1219 b</s>
+<s>Kepler-121 b</s>
+<s>Kepler-121 c</s>
+<s>Kepler-1220 Ab</s>
+<s>Kepler-1221 Ab</s>
+<s>Kepler-1222 b</s>
+<s>Kepler-1223 b</s>
+<s>Kepler-1224 Ab</s>
+<s>Kepler-1225 b</s>
+<s>Kepler-1226 Ab</s>
+<s>Kepler-1227 Ab</s>
+<s>Kepler-1228 b</s>
+<s>Kepler-1229 Ab</s>
+<s>Kepler-122 b</s>
+<s>Kepler-122 c</s>
+<s>Kepler-122 d</s>
+<s>Kepler-122 e</s>
+<s>Kepler-122 f</s>
+<s>Kepler-1230 b</s>
+<s>Kepler-1231 b</s>
+<s>Kepler-1232 b</s>
+<s>Kepler-1233 b</s>
+<s>Kepler-1234 b</s>
+<s>Kepler-1235 b</s>
+<s>Kepler-1236 b</s>
+<s>Kepler-1237 b</s>
+<s>Kepler-1238 b</s>
+<s>Kepler-1239 b</s>
+<s>Kepler-123 b</s>
+<s>Kepler-123 c</s>
+<s>Kepler-1240 Ab</s>
+<s>Kepler-1241 b</s>
+<s>Kepler-1242 b</s>
+<s>Kepler-1243 b</s>
+<s>Kepler-1244 b</s>
+<s>Kepler-1245 b</s>
+<s>Kepler-1245 c</s>
+<s>Kepler-1246 Ab</s>
+<s>Kepler-1247 b</s>
+<s>Kepler-1248 Ab</s>
+<s>Kepler-1249 b</s>
+<s>Kepler-124 Ab</s>
+<s>Kepler-124 Ac</s>
+<s>Kepler-124 Ad</s>
+<s>Kepler-1250 b</s>
+<s>Kepler-1251 Ab</s>
+<s>Kepler-1252 b</s>
+<s>Kepler-1253 Ab</s>
+<s>Kepler-1254 b</s>
+<s>Kepler-1254 c</s>
+<s>Kepler-1254 d</s>
+<s>Kepler-1255 b</s>
+<s>Kepler-1256 b</s>
+<s>Kepler-1257 b</s>
+<s>Kepler-1258 b</s>
+<s>Kepler-1259 b</s>
+<s>Kepler-125 b</s>
+<s>Kepler-125 c</s>
+<s>Kepler-1260 b</s>
+<s>Kepler-1261 b</s>
+<s>Kepler-1262 b</s>
+<s>Kepler-1263 b</s>
+<s>Kepler-1264 Ab</s>
+<s>Kepler-1265 Ab</s>
+<s>Kepler-1266 b</s>
+<s>Kepler-1266 c</s>
+<s>Kepler-1267 b</s>
+<s>Kepler-1268 b</s>
+<s>Kepler-1269 b</s>
+<s>Kepler-126 b</s>
+<s>Kepler-126 c</s>
+<s>Kepler-126 d</s>
+<s>Kepler-1270 b</s>
+<s>Kepler-1271 b</s>
+<s>Kepler-1272 b</s>
+<s>Kepler-1273 b</s>
+<s>Kepler-1274 b</s>
+<s>Kepler-1275 b</s>
+<s>Kepler-1276 b</s>
+<s>Kepler-1277 b</s>
+<s>Kepler-1278 b</s>
+<s>Kepler-1279 b</s>
+<s>Kepler-127 b</s>
+<s>Kepler-127 c</s>
+<s>Kepler-127 d</s>
+<s>Kepler-1280 b</s>
+<s>Kepler-1281 Ab</s>
+<s>Kepler-1282 b</s>
+<s>Kepler-1283 b</s>
+<s>Kepler-1284 b</s>
+<s>Kepler-1285 b</s>
+<s>Kepler-1286 b</s>
+<s>Kepler-1287 b</s>
+<s>Kepler-1288 b</s>
+<s>Kepler-1289 b</s>
+<s>Kepler-128 b</s>
+<s>Kepler-128 c</s>
+<s>Kepler-1290 b</s>
+<s>Kepler-1291 b</s>
+<s>Kepler-1292 b</s>
+<s>Kepler-1293 b</s>
+<s>Kepler-1294 b</s>
+<s>Kepler-1295 b</s>
+<s>Kepler-1296 b</s>
+<s>Kepler-1297 b</s>
+<s>Kepler-1298 b</s>
+<s>Kepler-1299 b</s>
+<s>Kepler-129 b</s>
+<s>Kepler-129 c</s>
+<s>Kepler-129 d</s>
+<s>Kepler-12 b</s>
+<s>Kepler-1300 b</s>
+<s>Kepler-1301 b</s>
+<s>Kepler-1302 b</s>
+<s>Kepler-1303 b</s>
+<s>Kepler-1304 b</s>
+<s>Kepler-1305 b</s>
+<s>Kepler-1306 b</s>
+<s>Kepler-1307 b</s>
+<s>Kepler-1308 b</s>
+<s>Kepler-1309 Ab</s>
+<s>Kepler-130 Ab</s>
+<s>Kepler-130 Ac</s>
+<s>Kepler-130 Ad</s>
+<s>Kepler-1310 b</s>
+<s>Kepler-1311 b</s>
+<s>Kepler-1311 c</s>
+<s>Kepler-1311 d</s>
+<s>Kepler-1312 b</s>
+<s>Kepler-1312 c</s>
+<s>Kepler-1313 b</s>
+<s>Kepler-1314 b</s>
+<s>Kepler-1315 Ab</s>
+<s>Kepler-1315 Ac</s>
+<s>Kepler-1316 b</s>
+<s>Kepler-1317 b</s>
+<s>Kepler-1318 b</s>
+<s>Kepler-1319 Ab</s>
+<s>Kepler-131 b</s>
+<s>Kepler-131 c</s>
+<s>Kepler-1320 b</s>
+<s>Kepler-1321 b</s>
+<s>Kepler-1321 c</s>
+<s>Kepler-1321 d</s>
+<s>Kepler-1322 b</s>
+<s>Kepler-1322 c</s>
+<s>Kepler-1323 b</s>
+<s>Kepler-1324 b</s>
+<s>Kepler-1325 b</s>
+<s>Kepler-1326 b</s>
+<s>Kepler-1327 b</s>
+<s>Kepler-1328 b</s>
+<s>Kepler-1329 b</s>
+<s>Kepler-132 Ab</s>
+<s>Kepler-132 Ac</s>
+<s>Kepler-132 Ad</s>
+<s>Kepler-132 Ae</s>
+<s>Kepler-1330 b</s>
+<s>Kepler-1331 b</s>
+<s>Kepler-1332 b</s>
+<s>Kepler-1333 Ab</s>
+<s>Kepler-1334 b</s>
+<s>Kepler-1335 b</s>
+<s>Kepler-1336 b</s>
+<s>Kepler-1336 c</s>
+<s>Kepler-1337 b</s>
+<s>Kepler-1338 b</s>
+<s>Kepler-1339 Ab</s>
+<s>Kepler-133 b</s>
+<s>Kepler-133 c</s>
+<s>Kepler-1340 b</s>
+<s>Kepler-1341 Ab</s>
+<s>Kepler-1342 b</s>
+<s>Kepler-1343 b</s>
+<s>Kepler-1344 b</s>
+<s>Kepler-1345 b</s>
+<s>Kepler-1346 b</s>
+<s>Kepler-1347 Ab</s>
+<s>Kepler-1348 b</s>
+<s>Kepler-1349 b</s>
+<s>Kepler-134 b</s>
+<s>Kepler-134 c</s>
+<s>Kepler-1350 b</s>
+<s>Kepler-1350 c</s>
+<s>Kepler-1351 b</s>
+<s>Kepler-1352 b</s>
+<s>Kepler-1353 b</s>
+<s>Kepler-1354 b</s>
+<s>Kepler-1355 b</s>
+<s>Kepler-1356 b</s>
+<s>Kepler-1357 b</s>
+<s>Kepler-1358 b</s>
+<s>Kepler-1359 b</s>
+<s>Kepler-135 b</s>
+<s>Kepler-135 c</s>
+<s>Kepler-1360 b</s>
+<s>Kepler-1361 b</s>
+<s>Kepler-1362 b</s>
+<s>Kepler-1363 b</s>
+<s>Kepler-1364 Ab</s>
+<s>Kepler-1365 b</s>
+<s>Kepler-1365 c</s>
+<s>Kepler-1366 b</s>
+<s>Kepler-1367 b</s>
+<s>Kepler-1368 b</s>
+<s>Kepler-1369 b</s>
+<s>Kepler-136 Ab</s>
+<s>Kepler-136 Ac</s>
+<s>Kepler-1370 b</s>
+<s>Kepler-1370 c</s>
+<s>Kepler-1371 Ab</s>
+<s>Kepler-1371 Ac</s>
+<s>Kepler-1372 b</s>
+<s>Kepler-1373 b</s>
+<s>Kepler-1374 b</s>
+<s>Kepler-1375 b</s>
+<s>Kepler-1376 b</s>
+<s>Kepler-1377 b</s>
+<s>Kepler-1378 b</s>
+<s>Kepler-1379 b</s>
+<s>Kepler-137 b</s>
+<s>Kepler-137 c</s>
+<s>Kepler-1380 b</s>
+<s>Kepler-1381 b</s>
+<s>Kepler-1382 Ab</s>
+<s>Kepler-1383 b</s>
+<s>Kepler-1384 b</s>
+<s>Kepler-1385 b</s>
+<s>Kepler-1386 b</s>
+<s>Kepler-1387 b</s>
+<s>Kepler-1388 Ab</s>
+<s>Kepler-1388 Ac</s>
+<s>Kepler-1388 Ad</s>
+<s>Kepler-1388 Ae</s>
+<s>Kepler-1389 b</s>
+<s>Kepler-138 b</s>
+<s>Kepler-138 c</s>
+<s>Kepler-138 d</s>
+<s>Kepler-138 e</s>
+<s>Kepler-1390 b</s>
+<s>Kepler-1391 b</s>
+<s>Kepler-1392 b</s>
+<s>Kepler-1393 b</s>
+<s>Kepler-1394 b</s>
+<s>Kepler-1395 b</s>
+<s>Kepler-1396 b</s>
+<s>Kepler-1397 b</s>
+<s>Kepler-1398 b</s>
+<s>Kepler-1398 c</s>
+<s>Kepler-1399 b</s>
+<s>Kepler-139 b</s>
+<s>Kepler-139 c</s>
+<s>Kepler-139 d</s>
+<s>Kepler-139 e</s>
+<s>Kepler-139 f</s>
+<s>Kepler-13 Ab</s>
+<s>Kepler-1400 b</s>
+<s>Kepler-1401 Ab</s>
+<s>Kepler-1402 b</s>
+<s>Kepler-1403 b</s>
+<s>Kepler-1404 Ab</s>
+<s>Kepler-1405 b</s>
+<s>Kepler-1406 b</s>
+<s>Kepler-1407 b</s>
+<s>Kepler-1408 b</s>
+<s>Kepler-1409 b</s>
+<s>Kepler-140 Ab</s>
+<s>Kepler-140 Ac</s>
+<s>Kepler-1410 Ab</s>
+<s>Kepler-1411 b</s>
+<s>Kepler-1412 b</s>
+<s>Kepler-1413 b</s>
+<s>Kepler-1414 b</s>
+<s>Kepler-1415 b</s>
+<s>Kepler-1416 b</s>
+<s>Kepler-1417 b</s>
+<s>Kepler-1418 Ab</s>
+<s>Kepler-1419 b</s>
+<s>Kepler-141 b</s>
+<s>Kepler-141 c</s>
+<s>Kepler-1420 b</s>
+<s>Kepler-1421 b</s>
+<s>Kepler-1422 b</s>
+<s>Kepler-1423 b</s>
+<s>Kepler-1424 Ab</s>
+<s>Kepler-1425 b</s>
+<s>Kepler-1426 Ab</s>
+<s>Kepler-1427 Ab</s>
+<s>Kepler-1428 b</s>
+<s>Kepler-1429 b</s>
+<s>Kepler-142 b</s>
+<s>Kepler-142 c</s>
+<s>Kepler-142 d</s>
+<s>Kepler-1430 b</s>
+<s>Kepler-1431 b</s>
+<s>Kepler-1432 b</s>
+<s>Kepler-1433 Ab</s>
+<s>Kepler-1434 b</s>
+<s>Kepler-1435 b</s>
+<s>Kepler-1436 b</s>
+<s>Kepler-1437 b</s>
+<s>Kepler-1438 Ab</s>
+<s>Kepler-1439 b</s>
+<s>Kepler-143 b</s>
+<s>Kepler-143 c</s>
+<s>Kepler-1440 b</s>
+<s>Kepler-1441 b</s>
+<s>Kepler-1442 b</s>
+<s>Kepler-1443 Ab</s>
+<s>Kepler-1444 b</s>
+<s>Kepler-1445 Ab</s>
+<s>Kepler-1446 b</s>
+<s>Kepler-1447 b</s>
+<s>Kepler-1448 b</s>
+<s>Kepler-1449 b</s>
+<s>Kepler-144 b</s>
+<s>Kepler-144 c</s>
+<s>Kepler-1450 b</s>
+<s>Kepler-1451 b</s>
+<s>Kepler-1452 b</s>
+<s>Kepler-1453 b</s>
+<s>Kepler-1454 b</s>
+<s>Kepler-1455 b</s>
+<s>Kepler-1456 Ab</s>
+<s>Kepler-1457 b</s>
+<s>Kepler-1458 b</s>
+<s>Kepler-1459 b</s>
+<s>Kepler-145 b</s>
+<s>Kepler-145 c</s>
+<s>Kepler-1460 b</s>
+<s>Kepler-1461 b</s>
+<s>Kepler-1462 b</s>
+<s>Kepler-1463 b</s>
+<s>Kepler-1464 b</s>
+<s>Kepler-1464 c</s>
+<s>Kepler-1465 b</s>
+<s>Kepler-1466 b</s>
+<s>Kepler-1467 b</s>
+<s>Kepler-1468 b</s>
+<s>Kepler-1468 c</s>
+<s>Kepler-1468 d</s>
+<s>Kepler-1469 b</s>
+<s>Kepler-146 b</s>
+<s>Kepler-146 c</s>
+<s>Kepler-1470 b</s>
+<s>Kepler-1471 b</s>
+<s>Kepler-1471 c</s>
+<s>Kepler-1472 b</s>
+<s>Kepler-1473 b</s>
+<s>Kepler-1474 b</s>
+<s>Kepler-1475 Ab</s>
+<s>Kepler-1476 b</s>
+<s>Kepler-1477 b</s>
+<s>Kepler-1478 b</s>
+<s>Kepler-1479 b</s>
+<s>Kepler-147 b</s>
+<s>Kepler-147 c</s>
+<s>Kepler-1480 Ab</s>
+<s>Kepler-1481 Ab</s>
+<s>Kepler-1482 Ab</s>
+<s>Kepler-1483 b</s>
+<s>Kepler-1484 b</s>
+<s>Kepler-1485 b</s>
+<s>Kepler-1486 b</s>
+<s>Kepler-1487 b</s>
+<s>Kepler-1487 c</s>
+<s>Kepler-1488 b</s>
+<s>Kepler-1488 c</s>
+<s>Kepler-1489 b</s>
+<s>Kepler-1489 c</s>
+<s>Kepler-148 b</s>
+<s>Kepler-148 c</s>
+<s>Kepler-148 d</s>
+<s>Kepler-1490 b</s>
+<s>Kepler-1491 b</s>
+<s>Kepler-1491 c</s>
+<s>Kepler-1492 b</s>
+<s>Kepler-1493 Ab</s>
+<s>Kepler-1494 b</s>
+<s>Kepler-1495 b</s>
+<s>Kepler-1496 b</s>
+<s>Kepler-1497 b</s>
+<s>Kepler-1498 Ab</s>
+<s>Kepler-1499 b</s>
+<s>Kepler-149 Ab</s>
+<s>Kepler-149 Ac</s>
+<s>Kepler-149 Ad</s>
+<s>Kepler-14 Ab</s>
+<s>Kepler-1500 b</s>
+<s>Kepler-1501 b</s>
+<s>Kepler-1502 b</s>
+<s>Kepler-1503 b</s>
+<s>Kepler-1504 b</s>
+<s>Kepler-1505 Ab</s>
+<s>Kepler-1506 b</s>
+<s>Kepler-1507 b</s>
+<s>Kepler-1508 b</s>
+<s>Kepler-1509 b</s>
+<s>Kepler-150 b</s>
+<s>Kepler-150 c</s>
+<s>Kepler-150 d</s>
+<s>Kepler-150 e</s>
+<s>Kepler-150 f</s>
+<s>Kepler-1510 b</s>
+<s>Kepler-1511 b</s>
+<s>Kepler-1512 Ab</s>
+<s>Kepler-1513 Ab</s>
+<s>Kepler-1513 Ac</s>
+<s>Kepler-1514 b</s>
+<s>Kepler-1514 c</s>
+<s>Kepler-1515 b</s>
+<s>Kepler-1516 b</s>
+<s>Kepler-1517 b</s>
+<s>Kepler-1518 b</s>
+<s>Kepler-1518 c</s>
+<s>Kepler-1519 b</s>
+<s>Kepler-151 b</s>
+<s>Kepler-151 c</s>
+<s>Kepler-1521 b</s>
+<s>Kepler-1522 b</s>
+<s>Kepler-1523 b</s>
+<s>Kepler-1524 b</s>
+<s>Kepler-1525 b</s>
+<s>Kepler-1526 b</s>
+<s>Kepler-1527 b</s>
+<s>Kepler-1528 b</s>
+<s>Kepler-1529 b</s>
+<s>Kepler-152 b</s>
+<s>Kepler-152 c</s>
+<s>Kepler-1530 b</s>
+<s>Kepler-1530 c</s>
+<s>Kepler-1530 d</s>
+<s>Kepler-1531 b</s>
+<s>Kepler-1532 b</s>
+<s>Kepler-1533 b</s>
+<s>Kepler-1534 b</s>
+<s>Kepler-1535 b</s>
+<s>Kepler-1536 b</s>
+<s>Kepler-1537 b</s>
+<s>Kepler-1538 b</s>
+<s>Kepler-1539 b</s>
+<s>Kepler-153 b</s>
+<s>Kepler-153 c</s>
+<s>Kepler-1540 Ab</s>
+<s>Kepler-1541 Ab</s>
+<s>Kepler-1542 Ab</s>
+<s>Kepler-1542 Ac</s>
+<s>Kepler-1542 Ad</s>
+<s>Kepler-1542 Ae</s>
+<s>Kepler-1543 b</s>
+<s>Kepler-1544 b</s>
+<s>Kepler-1545 b</s>
+<s>Kepler-1546 b</s>
+<s>Kepler-1547 b</s>
+<s>Kepler-1548 b</s>
+<s>Kepler-1549 b</s>
+<s>Kepler-154 b</s>
+<s>Kepler-154 c</s>
+<s>Kepler-154 d</s>
+<s>Kepler-154 e</s>
+<s>Kepler-154 f</s>
+<s>Kepler-154 g</s>
+<s>Kepler-1550 b</s>
+<s>Kepler-1551 b</s>
+<s>Kepler-1552 b</s>
+<s>Kepler-1553 b</s>
+<s>Kepler-1554 b</s>
+<s>Kepler-1555 b</s>
+<s>Kepler-1556 b</s>
+<s>Kepler-1557 b</s>
+<s>Kepler-1558 b</s>
+<s>Kepler-1559 b</s>
+<s>Kepler-155 b</s>
+<s>Kepler-155 c</s>
+<s>Kepler-1560 Ab</s>
+<s>Kepler-1561 b</s>
+<s>Kepler-1562 b</s>
+<s>Kepler-1563 b</s>
+<s>Kepler-1564 b</s>
+<s>Kepler-1565 b</s>
+<s>Kepler-1566 b</s>
+<s>Kepler-1567 b</s>
+<s>Kepler-1568 b</s>
+<s>Kepler-1569 b</s>
+<s>Kepler-1569 c</s>
+<s>Kepler-156 b</s>
+<s>Kepler-156 c</s>
+<s>Kepler-1570 b</s>
+<s>Kepler-1571 b</s>
+<s>Kepler-1572 b</s>
+<s>Kepler-1573 b</s>
+<s>Kepler-1574 b</s>
+<s>Kepler-1575 b</s>
+<s>Kepler-1576 b</s>
+<s>Kepler-1577 b</s>
+<s>Kepler-1578 b</s>
+<s>Kepler-1579 Ab</s>
+<s>Kepler-157 Ab</s>
+<s>Kepler-157 Ac</s>
+<s>Kepler-157 Ad</s>
+<s>Kepler-1580 b</s>
+<s>Kepler-1581 b</s>
+<s>Kepler-1582 b</s>
+<s>Kepler-1583 Ab</s>
+<s>Kepler-1584 b</s>
+<s>Kepler-1585 b</s>
+<s>Kepler-1586 b</s>
+<s>Kepler-1587 b</s>
+<s>Kepler-1588 b</s>
+<s>Kepler-1589 b</s>
+<s>Kepler-158 b</s>
+<s>Kepler-158 c</s>
+<s>Kepler-158 d</s>
+<s>Kepler-1590 b</s>
+<s>Kepler-1591 b</s>
+<s>Kepler-1592 b</s>
+<s>Kepler-1593 b</s>
+<s>Kepler-1594 b</s>
+<s>Kepler-1595 b</s>
+<s>Kepler-1596 b</s>
+<s>Kepler-1597 b</s>
+<s>Kepler-1598 b</s>
+<s>Kepler-1599 b</s>
+<s>Kepler-159 b</s>
+<s>Kepler-159 c</s>
+<s>Kepler-15 b</s>
+<s>Kepler-1600 b</s>
+<s>Kepler-1600 c</s>
+<s>Kepler-1601 b</s>
+<s>Kepler-1602 b</s>
+<s>Kepler-1603 b</s>
+<s>Kepler-1604 b</s>
+<s>Kepler-1605 b</s>
+<s>Kepler-1606 b</s>
+<s>Kepler-1607 b</s>
+<s>Kepler-1608 b</s>
+<s>Kepler-1609 b</s>
+<s>Kepler-160 b</s>
+<s>Kepler-160 c</s>
+<s>Kepler-160 d</s>
+<s>Kepler-1610 b</s>
+<s>Kepler-1610 c</s>
+<s>Kepler-1611 Ab</s>
+<s>Kepler-1612 b</s>
+<s>Kepler-1613 b</s>
+<s>Kepler-1614 b</s>
+<s>Kepler-1615 b</s>
+<s>Kepler-1616 b</s>
+<s>Kepler-1617 b</s>
+<s>Kepler-1618 b</s>
+<s>Kepler-1619 b</s>
+<s>Kepler-161 b</s>
+<s>Kepler-161 c</s>
+<s>Kepler-1620 Ab</s>
+<s>Kepler-1621 b</s>
+<s>Kepler-1622 b</s>
+<s>Kepler-1623 b</s>
+<s>Kepler-1624 b</s>
+<s>Kepler-1625 b</s>
+<s>Kepler-1626 b</s>
+<s>Kepler-1627 Ab</s>
+<s>Kepler-1628 Ab</s>
+<s>Kepler-1629 b</s>
+<s>Kepler-162 b</s>
+<s>Kepler-162 c</s>
+<s>Kepler-1630 b</s>
+<s>Kepler-1631 b</s>
+<s>Kepler-1632 b</s>
+<s>Kepler-1633 b</s>
+<s>Kepler-1634 b</s>
+<s>Kepler-1635 b</s>
+<s>Kepler-1636 b</s>
+<s>Kepler-1637 b</s>
+<s>Kepler-1638 b</s>
+<s>Kepler-1639 b</s>
+<s>Kepler-163 b</s>
+<s>Kepler-163 c</s>
+<s>Kepler-1640 b</s>
+<s>Kepler-1641 b</s>
+<s>Kepler-1641 c</s>
+<s>Kepler-1642 b</s>
+<s>Kepler-1642 c</s>
+<s>Kepler-1643 b</s>
+<s>Kepler-1644 Ab</s>
+<s>Kepler-1645 b</s>
+<s>Kepler-1646 b</s>
+<s>Kepler-1647 (AB)b</s>
+<s>Kepler-1649 Ab</s>
+<s>Kepler-1649 Ac</s>
+<s>Kepler-164 b</s>
+<s>Kepler-164 c</s>
+<s>Kepler-164 d</s>
+<s>Kepler-164 e</s>
+<s>Kepler-1650 b</s>
+<s>Kepler-1651 Ab</s>
+<s>Kepler-1652 b</s>
+<s>Kepler-1653 Ab</s>
+<s>Kepler-1654 b</s>
+<s>Kepler-1655 b</s>
+<s>Kepler-1656 b</s>
+<s>Kepler-1656 c</s>
+<s>Kepler-1657 b</s>
+<s>Kepler-1659 b</s>
+<s>Kepler-1659 c</s>
+<s>Kepler-165 b</s>
+<s>Kepler-165 c</s>
+<s>Kepler-1660 (AB)b</s>
+<s>Kepler-1661 (AB)b</s>
+<s>Kepler-1662 b</s>
+<s>Kepler-1662 c</s>
+<s>Kepler-1663 b</s>
+<s>Kepler-1664 Ab</s>
+<s>Kepler-1665 Ab</s>
+<s>Kepler-1666 b</s>
+<s>Kepler-1666 c</s>
+<s>Kepler-1667 b</s>
+<s>Kepler-1668 b</s>
+<s>Kepler-1669 b</s>
+<s>Kepler-1669 c</s>
+<s>Kepler-1669 d</s>
+<s>Kepler-166 b</s>
+<s>Kepler-166 c</s>
+<s>Kepler-166 d</s>
+<s>Kepler-1670 b</s>
+<s>Kepler-1671 b</s>
+<s>Kepler-1672 b</s>
+<s>Kepler-1673 b</s>
+<s>Kepler-1674 b</s>
+<s>Kepler-1675 b</s>
+<s>Kepler-1676 b</s>
+<s>Kepler-1677 b</s>
+<s>Kepler-1678 b</s>
+<s>Kepler-1679 b</s>
+<s>Kepler-167 Ab</s>
+<s>Kepler-167 Ac</s>
+<s>Kepler-167 Ad</s>
+<s>Kepler-167 Ae</s>
+<s>Kepler-1680 b</s>
+<s>Kepler-1681 Ab</s>
+<s>Kepler-1682 b</s>
+<s>Kepler-1683 b</s>
+<s>Kepler-1684 b</s>
+<s>Kepler-1685 b</s>
+<s>Kepler-1686 b</s>
+<s>Kepler-1687 b</s>
+<s>Kepler-1688 b</s>
+<s>Kepler-1689 b</s>
+<s>Kepler-168 b</s>
+<s>Kepler-168 c</s>
+<s>Kepler-1690 b</s>
+<s>Kepler-1691 b</s>
+<s>Kepler-1692 b</s>
+<s>Kepler-1693 b</s>
+<s>Kepler-1693 c</s>
+<s>Kepler-1694 b</s>
+<s>Kepler-1695 b</s>
+<s>Kepler-1696 b</s>
+<s>Kepler-1697 Ab</s>
+<s>Kepler-1698 b</s>
+<s>Kepler-1699 b</s>
+<s>Kepler-169 b</s>
+<s>Kepler-169 c</s>
+<s>Kepler-169 d</s>
+<s>Kepler-169 e</s>
+<s>Kepler-169 f</s>
+<s>Kepler-16 (AB)b</s>
+<s>Kepler-1700 b</s>
+<s>Kepler-1701 b</s>
+<s>Kepler-1702 b</s>
+<s>Kepler-1703 b</s>
+<s>Kepler-1703 c</s>
+<s>Kepler-1704 b</s>
+<s>Kepler-1705 b</s>
+<s>Kepler-1705 c</s>
+<s>Kepler-1706 b</s>
+<s>Kepler-1707 b</s>
+<s>Kepler-1708 b</s>
+<s>Kepler-1709 b</s>
+<s>Kepler-170 b</s>
+<s>Kepler-170 c</s>
+<s>Kepler-1710 Ab</s>
+<s>Kepler-1711 Ab</s>
+<s>Kepler-1712 Bb</s>
+<s>Kepler-1713 b</s>
+<s>Kepler-1714 b</s>
+<s>Kepler-1715 b</s>
+<s>Kepler-1716 b</s>
+<s>Kepler-1717 b</s>
+<s>Kepler-1718 b</s>
+<s>Kepler-1719 b</s>
+<s>Kepler-171 b</s>
+<s>Kepler-171 c</s>
+<s>Kepler-171 d</s>
+<s>Kepler-1720 b</s>
+<s>Kepler-1721 b</s>
+<s>Kepler-1722 b</s>
+<s>Kepler-1723 b</s>
+<s>Kepler-1724 b</s>
+<s>Kepler-1725 Ab</s>
+<s>Kepler-1726 b</s>
+<s>Kepler-1727 b</s>
+<s>Kepler-1728 b</s>
+<s>Kepler-1729 b</s>
+<s>Kepler-172 b</s>
+<s>Kepler-172 c</s>
+<s>Kepler-172 d</s>
+<s>Kepler-172 e</s>
+<s>Kepler-1730 b</s>
+<s>Kepler-1731 b</s>
+<s>Kepler-1732 b</s>
+<s>Kepler-1733 b</s>
+<s>Kepler-1734 b</s>
+<s>Kepler-1735 b</s>
+<s>Kepler-1736 b</s>
+<s>Kepler-1737 b</s>
+<s>Kepler-1738 b</s>
+<s>Kepler-1739 b</s>
+<s>Kepler-173 b</s>
+<s>Kepler-173 c</s>
+<s>Kepler-1740 b</s>
+<s>Kepler-1741 b</s>
+<s>Kepler-1742 b</s>
+<s>Kepler-1743 b</s>
+<s>Kepler-1744 Ab</s>
+<s>Kepler-1745 b</s>
+<s>Kepler-1746 b</s>
+<s>Kepler-1747 b</s>
+<s>Kepler-1748 b</s>
+<s>Kepler-1749 Ab</s>
+<s>Kepler-174 b</s>
+<s>Kepler-174 c</s>
+<s>Kepler-174 d</s>
+<s>Kepler-1750 b</s>
+<s>Kepler-1751</s>
+<s>Kepler-1752 b</s>
+<s>Kepler-1753 b</s>
+<s>Kepler-1754 b</s>
+<s>Kepler-1755 b</s>
+<s>Kepler-1756 b</s>
+<s>Kepler-1757 b</s>
+<s>Kepler-1758 b</s>
+<s>Kepler-1759 b</s>
+<s>Kepler-175 b</s>
+<s>Kepler-175 c</s>
+<s>Kepler-1760 Ab</s>
+<s>Kepler-1761 b</s>
+<s>Kepler-1762 b</s>
+<s>Kepler-1763 b</s>
+<s>Kepler-1764 b</s>
+<s>Kepler-1765 b</s>
+<s>Kepler-1766 b</s>
+<s>Kepler-1767 b</s>
+<s>Kepler-1768 b</s>
+<s>Kepler-1769 Ab</s>
+<s>Kepler-176 b</s>
+<s>Kepler-176 c</s>
+<s>Kepler-176 d</s>
+<s>Kepler-176 e</s>
+<s>Kepler-1770 b</s>
+<s>Kepler-1771 Ab</s>
+<s>Kepler-1772 b</s>
+<s>Kepler-1773 b</s>
+<s>Kepler-1774 b</s>
+<s>Kepler-1775 b</s>
+<s>Kepler-1776 b</s>
+<s>Kepler-1777 b</s>
+<s>Kepler-1778 b</s>
+<s>Kepler-1779 b</s>
+<s>Kepler-177 b</s>
+<s>Kepler-177 c</s>
+<s>Kepler-1780 b</s>
+<s>Kepler-1781 b</s>
+<s>Kepler-1782 Ab</s>
+<s>Kepler-1783 b</s>
+<s>Kepler-1784 b</s>
+<s>Kepler-1785 b</s>
+<s>Kepler-1786 b</s>
+<s>Kepler-1787 b</s>
+<s>Kepler-1788 b</s>
+<s>Kepler-1789 b</s>
+<s>Kepler-178 b</s>
+<s>Kepler-178 c</s>
+<s>Kepler-178 d</s>
+<s>Kepler-1790 b</s>
+<s>Kepler-1791 Ab</s>
+<s>Kepler-1792 b</s>
+<s>Kepler-1793 Ab</s>
+<s>Kepler-1794 c</s>
+<s>Kepler-1795 Ab</s>
+<s>Kepler-1796 b</s>
+<s>Kepler-1797 b</s>
+<s>Kepler-1798 Ab</s>
+<s>Kepler-1799 b</s>
+<s>Kepler-179 b</s>
+<s>Kepler-179 c</s>
+<s>Kepler-17 b</s>
+<s>Kepler-1800 b</s>
+<s>Kepler-1801 b</s>
+<s>Kepler-1801 c</s>
+<s>Kepler-1802 Bb</s>
+<s>Kepler-1802 Bc</s>
+<s>Kepler-1804 b</s>
+<s>Kepler-1805 b</s>
+<s>Kepler-1806 b</s>
+<s>Kepler-1807 b</s>
+<s>Kepler-1808 b</s>
+<s>Kepler-1809 b</s>
+<s>Kepler-180 b</s>
+<s>Kepler-180 c</s>
+<s>Kepler-1810 b</s>
+<s>Kepler-1811 b</s>
+<s>Kepler-1812 b</s>
+<s>Kepler-1813 b</s>
+<s>Kepler-1814 b</s>
+<s>Kepler-1814 c</s>
+<s>Kepler-1815 b</s>
+<s>Kepler-1816 b</s>
+<s>Kepler-1817 b</s>
+<s>Kepler-1818 b</s>
+<s>Kepler-1819 b</s>
+<s>Kepler-181 Ab</s>
+<s>Kepler-181 Ac</s>
+<s>Kepler-1820 b</s>
+<s>Kepler-1821 b</s>
+<s>Kepler-1822 b</s>
+<s>Kepler-1823 b</s>
+<s>Kepler-1824 b</s>
+<s>Kepler-1825 b</s>
+<s>Kepler-1826 b</s>
+<s>Kepler-1827 b</s>
+<s>Kepler-1828 b</s>
+<s>Kepler-1829 b</s>
+<s>Kepler-182 b</s>
+<s>Kepler-182 c</s>
+<s>Kepler-1830 b</s>
+<s>Kepler-1831 b</s>
+<s>Kepler-1832 b</s>
+<s>Kepler-1833 Ab</s>
+<s>Kepler-1834 b</s>
+<s>Kepler-1834 c</s>
+<s>Kepler-1835 b</s>
+<s>Kepler-1836 b</s>
+<s>Kepler-1837 b</s>
+<s>Kepler-1838 b</s>
+<s>Kepler-1839 b</s>
+<s>Kepler-183 b</s>
+<s>Kepler-183 c</s>
+<s>Kepler-1840 b</s>
+<s>Kepler-1841 b</s>
+<s>Kepler-1842 b</s>
+<s>Kepler-1843 b</s>
+<s>Kepler-1844 b</s>
+<s>Kepler-1845 b</s>
+<s>Kepler-1846 b</s>
+<s>Kepler-1847 b</s>
+<s>Kepler-1848 b</s>
+<s>Kepler-1849 b</s>
+<s>Kepler-184 b</s>
+<s>Kepler-184 c</s>
+<s>Kepler-184 d</s>
+<s>Kepler-1850 b</s>
+<s>Kepler-1851 b</s>
+<s>Kepler-1852 b</s>
+<s>Kepler-1853 Ab</s>
+<s>Kepler-1854 Ab</s>
+<s>Kepler-1855 Ab</s>
+<s>Kepler-1856 Ab</s>
+<s>Kepler-1857 b</s>
+<s>Kepler-1858 b</s>
+<s>Kepler-1859 b</s>
+<s>Kepler-1859 c</s>
+<s>Kepler-185 Ab</s>
+<s>Kepler-185 Ac</s>
+<s>Kepler-1860 b</s>
+<s>Kepler-1861 b</s>
+<s>Kepler-1862 b</s>
+<s>Kepler-1863 b</s>
+<s>Kepler-1864 b</s>
+<s>Kepler-1865 b</s>
+<s>Kepler-1866 b</s>
+<s>Kepler-1867 b</s>
+<s>Kepler-1868 b</s>
+<s>Kepler-1869 b</s>
+<s>Kepler-1869 c</s>
+<s>Kepler-186 b</s>
+<s>Kepler-186 c</s>
+<s>Kepler-186 d</s>
+<s>Kepler-186 e</s>
+<s>Kepler-186 f</s>
+<s>Kepler-1870 b</s>
+<s>Kepler-1871 b</s>
+<s>Kepler-1872 b</s>
+<s>Kepler-1873 b</s>
+<s>Kepler-1874 Ab</s>
+<s>Kepler-1875 Ab</s>
+<s>Kepler-1876 b</s>
+<s>Kepler-1877 Ab</s>
+<s>Kepler-1878 Ab</s>
+<s>Kepler-1879 b</s>
+<s>Kepler-187 b</s>
+<s>Kepler-187 c</s>
+<s>Kepler-1880 b</s>
+<s>Kepler-1881 Ab</s>
+<s>Kepler-1882 Ab</s>
+<s>Kepler-1883 b</s>
+<s>Kepler-1884 b</s>
+<s>Kepler-1885 b</s>
+<s>Kepler-1886 Ab</s>
+<s>Kepler-1887 b</s>
+<s>Kepler-1888 Ab</s>
+<s>Kepler-1889 b</s>
+<s>Kepler-188 b</s>
+<s>Kepler-188 c</s>
+<s>Kepler-1890 Ab</s>
+<s>Kepler-1891 b</s>
+<s>Kepler-1892 b</s>
+<s>Kepler-1893 b</s>
+<s>Kepler-1894 Ab</s>
+<s>Kepler-1894 Ac</s>
+<s>Kepler-1895 b</s>
+<s>Kepler-1896 b</s>
+<s>Kepler-1897 Ab</s>
+<s>Kepler-1898 b</s>
+<s>Kepler-1899 b</s>
+<s>Kepler-189 b</s>
+<s>Kepler-189 c</s>
+<s>Kepler-18 b</s>
+<s>Kepler-18 c</s>
+<s>Kepler-18 d</s>
+<s>Kepler-1900 b</s>
+<s>Kepler-1901 b</s>
+<s>Kepler-1902 Ab</s>
+<s>Kepler-1903 b</s>
+<s>Kepler-1904 b</s>
+<s>Kepler-1905 b</s>
+<s>Kepler-1906 b</s>
+<s>Kepler-1907 b</s>
+<s>Kepler-1907 c</s>
+<s>Kepler-1909 Ab</s>
+<s>Kepler-190 b</s>
+<s>Kepler-190 c</s>
+<s>Kepler-1910 Ab</s>
+<s>Kepler-1911 Ab</s>
+<s>Kepler-1912 b</s>
+<s>Kepler-1913 b</s>
+<s>Kepler-1914 Ab</s>
+<s>Kepler-1915 Ab</s>
+<s>Kepler-1916 Ab</s>
+<s>Kepler-1917 Ab</s>
+<s>Kepler-1918 b</s>
+<s>Kepler-1919 b</s>
+<s>Kepler-191 b</s>
+<s>Kepler-191 c</s>
+<s>Kepler-191 d</s>
+<s>Kepler-1920 b</s>
+<s>Kepler-1921 b</s>
+<s>Kepler-1921 c</s>
+<s>Kepler-1922 Ab</s>
+<s>Kepler-1923 b</s>
+<s>Kepler-1924 Ab</s>
+<s>Kepler-1925 b</s>
+<s>Kepler-1926 Ab</s>
+<s>Kepler-1927 Ab</s>
+<s>Kepler-1928 Ab</s>
+<s>Kepler-1929 Ab</s>
+<s>Kepler-192 Ab</s>
+<s>Kepler-192 Ac</s>
+<s>Kepler-192 Ad</s>
+<s>Kepler-1930 b</s>
+<s>Kepler-1931 b</s>
+<s>Kepler-1932 Ab</s>
+<s>Kepler-1933 Ab</s>
+<s>Kepler-1934 b</s>
+<s>Kepler-1935 Ab</s>
+<s>Kepler-1936 b</s>
+<s>Kepler-1937 Ab</s>
+<s>Kepler-1938 b</s>
+<s>Kepler-1939 Ab</s>
+<s>Kepler-193 b</s>
+<s>Kepler-193 c</s>
+<s>Kepler-1940 b</s>
+<s>Kepler-1941 b</s>
+<s>Kepler-1942 Ab</s>
+<s>Kepler-1943 Ab</s>
+<s>Kepler-1944 Ab</s>
+<s>Kepler-1945 Ab</s>
+<s>Kepler-1946 b</s>
+<s>Kepler-1947 b</s>
+<s>Kepler-1948 Ab</s>
+<s>Kepler-1949 Ab</s>
+<s>Kepler-194 b</s>
+<s>Kepler-194 c</s>
+<s>Kepler-194 d</s>
+<s>Kepler-1950 Ab</s>
+<s>Kepler-1951 b</s>
+<s>Kepler-1952 Ab</s>
+<s>Kepler-1953 b</s>
+<s>Kepler-1954 b</s>
+<s>Kepler-1955 b</s>
+<s>Kepler-1956 b</s>
+<s>Kepler-1957 Ab</s>
+<s>Kepler-1958 Ab</s>
+<s>Kepler-1959 b</s>
+<s>Kepler-195 b</s>
+<s>Kepler-195 c</s>
+<s>Kepler-1960 b</s>
+<s>Kepler-1961 b</s>
+<s>Kepler-1962 b</s>
+<s>Kepler-1963 b</s>
+<s>Kepler-1964 b</s>
+<s>Kepler-1965 Ab</s>
+<s>Kepler-1966 Ab</s>
+<s>Kepler-1967 b</s>
+<s>Kepler-1968 b</s>
+<s>Kepler-1969 Ab</s>
+<s>Kepler-196 b</s>
+<s>Kepler-196 c</s>
+<s>Kepler-196 d</s>
+<s>Kepler-1970 b</s>
+<s>Kepler-1971 b</s>
+<s>Kepler-1972 Ab</s>
+<s>Kepler-1972 Ac</s>
+<s>Kepler-1973 Ab</s>
+<s>Kepler-1973 Ac</s>
+<s>Kepler-1974 b</s>
+<s>Kepler-1975 Ab</s>
+<s>Kepler-1976 b</s>
+<s>Kepler-1977 Bb</s>
+<s>Kepler-1978 b</s>
+<s>Kepler-1979 Ab</s>
+<s>Kepler-197 Ab</s>
+<s>Kepler-197 Ac</s>
+<s>Kepler-197 Ad</s>
+<s>Kepler-197 Ae</s>
+<s>Kepler-1980 b</s>
+<s>Kepler-1981 Ab</s>
+<s>Kepler-1982 b</s>
+<s>Kepler-1983 b</s>
+<s>Kepler-1984 Ab</s>
+<s>Kepler-1985 b</s>
+<s>Kepler-1986 Ab</s>
+<s>Kepler-1987 Bb</s>
+<s>Kepler-1987 Bc</s>
+<s>Kepler-1987 Bd</s>
+<s>Kepler-1987 Be</s>
+<s>Kepler-1988 Ab</s>
+<s>Kepler-1989 Ab</s>
+<s>Kepler-198 b</s>
+<s>Kepler-198 c</s>
+<s>Kepler-198 d</s>
+<s>Kepler-1990 b</s>
+<s>Kepler-1990 c</s>
+<s>Kepler-1991 b</s>
+<s>Kepler-1991 c</s>
+<s>Kepler-1992 b</s>
+<s>Kepler-1993 b</s>
+<s>Kepler-1994 b</s>
+<s>Kepler-1995 b</s>
+<s>Kepler-1996 b</s>
+<s>Kepler-1996 c</s>
+<s>Kepler-1997 Ab</s>
+<s>Kepler-1998 b</s>
+<s>Kepler-1999 b</s>
+<s>Kepler-199 Bb</s>
+<s>Kepler-199 Bc</s>
+<s>Kepler-19 b</s>
+<s>Kepler-19 c</s>
+<s>Kepler-19 d</s>
+<s>Kepler-2000 b</s>
+<s>Kepler-2000 c</s>
+<s>Kepler-2001 b</s>
+<s>Kepler-2001 c</s>
+<s>Kepler-2003 b</s>
+<s>Kepler-200 b</s>
+<s>Kepler-200 c</s>
+<s>Kepler-201 b</s>
+<s>Kepler-201 c</s>
+<s>Kepler-202 b</s>
+<s>Kepler-202 c</s>
+<s>Kepler-203 b</s>
+<s>Kepler-203 c</s>
+<s>Kepler-203 d</s>
+<s>Kepler-204 b</s>
+<s>Kepler-204 c</s>
+<s>Kepler-205 b</s>
+<s>Kepler-205 c</s>
+<s>Kepler-206 b</s>
+<s>Kepler-206 c</s>
+<s>Kepler-206 d</s>
+<s>Kepler-207 b</s>
+<s>Kepler-207 c</s>
+<s>Kepler-207 d</s>
+<s>Kepler-208 b</s>
+<s>Kepler-208 c</s>
+<s>Kepler-208 d</s>
+<s>Kepler-208 e</s>
+<s>Kepler-209 b</s>
+<s>Kepler-209 c</s>
+<s>Kepler-20 Ab</s>
+<s>Kepler-20 Ac</s>
+<s>Kepler-20 Ad</s>
+<s>Kepler-20 Ae</s>
+<s>Kepler-20 Af</s>
+<s>Kepler-20 Ag</s>
+<s>Kepler-210 b</s>
+<s>Kepler-210 c</s>
+<s>Kepler-211 b</s>
+<s>Kepler-211 c</s>
+<s>Kepler-212 b</s>
+<s>Kepler-212 c</s>
+<s>Kepler-213 b</s>
+<s>Kepler-213 c</s>
+<s>Kepler-214 b</s>
+<s>Kepler-214 c</s>
+<s>Kepler-215 b</s>
+<s>Kepler-215 c</s>
+<s>Kepler-215 d</s>
+<s>Kepler-215 e</s>
+<s>Kepler-216 b</s>
+<s>Kepler-216 c</s>
+<s>Kepler-217 b</s>
+<s>Kepler-217 c</s>
+<s>Kepler-217 d</s>
+<s>Kepler-218 b</s>
+<s>Kepler-218 c</s>
+<s>Kepler-218 d</s>
+<s>Kepler-219 b</s>
+<s>Kepler-219 c</s>
+<s>Kepler-219 d</s>
+<s>Kepler-21 Ab</s>
+<s>Kepler-220 b</s>
+<s>Kepler-220 c</s>
+<s>Kepler-220 d</s>
+<s>Kepler-220 e</s>
+<s>Kepler-221 b</s>
+<s>Kepler-221 c</s>
+<s>Kepler-221 d</s>
+<s>Kepler-221 e</s>
+<s>Kepler-222 b</s>
+<s>Kepler-222 c</s>
+<s>Kepler-222 d</s>
+<s>Kepler-223 b</s>
+<s>Kepler-223 c</s>
+<s>Kepler-223 d</s>
+<s>Kepler-223 e</s>
+<s>Kepler-224 b</s>
+<s>Kepler-224 c</s>
+<s>Kepler-224 d</s>
+<s>Kepler-224 e</s>
+<s>Kepler-225 b</s>
+<s>Kepler-225 c</s>
+<s>Kepler-226 b</s>
+<s>Kepler-226 c</s>
+<s>Kepler-226 d</s>
+<s>Kepler-227 b</s>
+<s>Kepler-227 c</s>
+<s>Kepler-228 b</s>
+<s>Kepler-228 c</s>
+<s>Kepler-228 d</s>
+<s>Kepler-229 b</s>
+<s>Kepler-229 c</s>
+<s>Kepler-229 d</s>
+<s>Kepler-22 b</s>
+<s>Kepler-230 b</s>
+<s>Kepler-230 c</s>
+<s>Kepler-231 b</s>
+<s>Kepler-231 c</s>
+<s>Kepler-232 b</s>
+<s>Kepler-232 c</s>
+<s>Kepler-233 b</s>
+<s>Kepler-233 c</s>
+<s>Kepler-234 b</s>
+<s>Kepler-234 c</s>
+<s>Kepler-235 b</s>
+<s>Kepler-235 c</s>
+<s>Kepler-235 d</s>
+<s>Kepler-235 e</s>
+<s>Kepler-236 b</s>
+<s>Kepler-236 c</s>
+<s>Kepler-237 b</s>
+<s>Kepler-237 c</s>
+<s>Kepler-238 b</s>
+<s>Kepler-238 c</s>
+<s>Kepler-238 d</s>
+<s>Kepler-238 e</s>
+<s>Kepler-238 f</s>
+<s>Kepler-239 b</s>
+<s>Kepler-239 c</s>
+<s>Kepler-23 b</s>
+<s>Kepler-23 c</s>
+<s>Kepler-23 d</s>
+<s>Kepler-240 b</s>
+<s>Kepler-240 c</s>
+<s>Kepler-241 Ab</s>
+<s>Kepler-241 Ac</s>
+<s>Kepler-242 b</s>
+<s>Kepler-242 c</s>
+<s>Kepler-243 b</s>
+<s>Kepler-243 c</s>
+<s>Kepler-244 b</s>
+<s>Kepler-244 c</s>
+<s>Kepler-244 d</s>
+<s>Kepler-245 b</s>
+<s>Kepler-245 c</s>
+<s>Kepler-245 d</s>
+<s>Kepler-245 e</s>
+<s>Kepler-246 b</s>
+<s>Kepler-246 c</s>
+<s>Kepler-247 b</s>
+<s>Kepler-247 c</s>
+<s>Kepler-247 d</s>
+<s>Kepler-248 b</s>
+<s>Kepler-248 c</s>
+<s>Kepler-249 b</s>
+<s>Kepler-249 c</s>
+<s>Kepler-249 d</s>
+<s>Kepler-24 b</s>
+<s>Kepler-24 c</s>
+<s>Kepler-24 d</s>
+<s>Kepler-24 e</s>
+<s>Kepler-250 b</s>
+<s>Kepler-250 c</s>
+<s>Kepler-250 d</s>
+<s>Kepler-251 b</s>
+<s>Kepler-251 c</s>
+<s>Kepler-251 d</s>
+<s>Kepler-251 e</s>
+<s>Kepler-252 b</s>
+<s>Kepler-252 c</s>
+<s>Kepler-253 b</s>
+<s>Kepler-253 c</s>
+<s>Kepler-253 d</s>
+<s>Kepler-254 b</s>
+<s>Kepler-254 c</s>
+<s>Kepler-254 d</s>
+<s>Kepler-255 b</s>
+<s>Kepler-255 c</s>
+<s>Kepler-255 d</s>
+<s>Kepler-256 b</s>
+<s>Kepler-256 c</s>
+<s>Kepler-256 d</s>
+<s>Kepler-256 e</s>
+<s>Kepler-257 b</s>
+<s>Kepler-257 c</s>
+<s>Kepler-257 d</s>
+<s>Kepler-258 b</s>
+<s>Kepler-258 c</s>
+<s>Kepler-259 b</s>
+<s>Kepler-259 c</s>
+<s>Kepler-25 Ab</s>
+<s>Kepler-25 Ac</s>
+<s>Kepler-25 Ad</s>
+<s>Kepler-260 b</s>
+<s>Kepler-260 c</s>
+<s>Kepler-261 b</s>
+<s>Kepler-261 c</s>
+<s>Kepler-262 b</s>
+<s>Kepler-262 c</s>
+<s>Kepler-263 b</s>
+<s>Kepler-263 c</s>
+<s>Kepler-264 b</s>
+<s>Kepler-264 c</s>
+<s>Kepler-265 b</s>
+<s>Kepler-265 c</s>
+<s>Kepler-265 d</s>
+<s>Kepler-265 e</s>
+<s>Kepler-266 b</s>
+<s>Kepler-266 c</s>
+<s>Kepler-267 b</s>
+<s>Kepler-267 c</s>
+<s>Kepler-267 d</s>
+<s>Kepler-268 b</s>
+<s>Kepler-268 c</s>
+<s>Kepler-269 b</s>
+<s>Kepler-269 c</s>
+<s>Kepler-26 b</s>
+<s>Kepler-26 c</s>
+<s>Kepler-26 d</s>
+<s>Kepler-26 e</s>
+<s>Kepler-270 b</s>
+<s>Kepler-270 c</s>
+<s>Kepler-271 Ab</s>
+<s>Kepler-271 Ac</s>
+<s>Kepler-271 Ad</s>
+<s>Kepler-272 b</s>
+<s>Kepler-272 c</s>
+<s>Kepler-272 d</s>
+<s>Kepler-273 b</s>
+<s>Kepler-273 c</s>
+<s>Kepler-274 b</s>
+<s>Kepler-274 c</s>
+<s>Kepler-275 b</s>
+<s>Kepler-275 c</s>
+<s>Kepler-275 d</s>
+<s>Kepler-276 b</s>
+<s>Kepler-276 c</s>
+<s>Kepler-276 d</s>
+<s>Kepler-277 b</s>
+<s>Kepler-277 c</s>
+<s>Kepler-278 b</s>
+<s>Kepler-278 c</s>
+<s>Kepler-279 b</s>
+<s>Kepler-279 c</s>
+<s>Kepler-279 d</s>
+<s>Kepler-279 e</s>
+<s>Kepler-27 Ab</s>
+<s>Kepler-27 Ac</s>
+<s>Kepler-27 Ad</s>
+<s>Kepler-280 b</s>
+<s>Kepler-280 c</s>
+<s>Kepler-281 b</s>
+<s>Kepler-281 c</s>
+<s>Kepler-281 d</s>
+<s>Kepler-282 b</s>
+<s>Kepler-282 c</s>
+<s>Kepler-282 d</s>
+<s>Kepler-282 e</s>
+<s>Kepler-283 Ab</s>
+<s>Kepler-283 Ac</s>
+<s>Kepler-284 b</s>
+<s>Kepler-284 c</s>
+<s>Kepler-285 b</s>
+<s>Kepler-285 c</s>
+<s>Kepler-286 b</s>
+<s>Kepler-286 c</s>
+<s>Kepler-286 d</s>
+<s>Kepler-286 e</s>
+<s>Kepler-287 b</s>
+<s>Kepler-287 c</s>
+<s>Kepler-288 b</s>
+<s>Kepler-288 c</s>
+<s>Kepler-288 d</s>
+<s>Kepler-289 b</s>
+<s>Kepler-289 c</s>
+<s>Kepler-289 d</s>
+<s>Kepler-289 e</s>
+<s>Kepler-28 b</s>
+<s>Kepler-28 c</s>
+<s>Kepler-290 b</s>
+<s>Kepler-290 c</s>
+<s>Kepler-290 d</s>
+<s>Kepler-291 b</s>
+<s>Kepler-291 c</s>
+<s>Kepler-292 b</s>
+<s>Kepler-292 c</s>
+<s>Kepler-292 d</s>
+<s>Kepler-292 e</s>
+<s>Kepler-292 f</s>
+<s>Kepler-293 b</s>
+<s>Kepler-293 c</s>
+<s>Kepler-294 b</s>
+<s>Kepler-294 c</s>
+<s>Kepler-295 b</s>
+<s>Kepler-295 c</s>
+<s>Kepler-295 d</s>
+<s>Kepler-296 Ab</s>
+<s>Kepler-296 Ac</s>
+<s>Kepler-296 Ad</s>
+<s>Kepler-296 Ae</s>
+<s>Kepler-296 Af</s>
+<s>Kepler-297 b</s>
+<s>Kepler-297 c</s>
+<s>Kepler-297 d</s>
+<s>Kepler-298 b</s>
+<s>Kepler-298 c</s>
+<s>Kepler-298 d</s>
+<s>Kepler-299 b</s>
+<s>Kepler-299 c</s>
+<s>Kepler-299 d</s>
+<s>Kepler-299 e</s>
+<s>Kepler-29 b</s>
+<s>Kepler-29 c</s>
+<s>Kepler-300 b</s>
+<s>Kepler-300 c</s>
+<s>Kepler-301 Ab</s>
+<s>Kepler-301 Ac</s>
+<s>Kepler-301 Ad</s>
+<s>Kepler-302 b</s>
+<s>Kepler-302 c</s>
+<s>Kepler-303 b</s>
+<s>Kepler-303 c</s>
+<s>Kepler-304 b</s>
+<s>Kepler-304 c</s>
+<s>Kepler-304 d</s>
+<s>Kepler-304 e</s>
+<s>Kepler-305 b</s>
+<s>Kepler-305 c</s>
+<s>Kepler-305 d</s>
+<s>Kepler-305 e</s>
+<s>Kepler-306 b</s>
+<s>Kepler-306 c</s>
+<s>Kepler-306 d</s>
+<s>Kepler-306 e</s>
+<s>Kepler-307 b</s>
+<s>Kepler-307 c</s>
+<s>Kepler-308 b</s>
+<s>Kepler-308 c</s>
+<s>Kepler-309 b</s>
+<s>Kepler-309 c</s>
+<s>Kepler-30 b</s>
+<s>Kepler-30 c</s>
+<s>Kepler-30 d</s>
+<s>Kepler-310 b</s>
+<s>Kepler-310 c</s>
+<s>Kepler-310 d</s>
+<s>Kepler-311 b</s>
+<s>Kepler-311 c</s>
+<s>Kepler-311 d</s>
+<s>Kepler-312 b</s>
+<s>Kepler-312 c</s>
+<s>Kepler-313 b</s>
+<s>Kepler-313 c</s>
+<s>Kepler-314 b</s>
+<s>Kepler-314 c</s>
+<s>Kepler-315 b</s>
+<s>Kepler-315 c</s>
+<s>Kepler-316 b</s>
+<s>Kepler-316 c</s>
+<s>Kepler-317 b</s>
+<s>Kepler-317 c</s>
+<s>Kepler-318 b</s>
+<s>Kepler-318 c</s>
+<s>Kepler-319 b</s>
+<s>Kepler-319 c</s>
+<s>Kepler-319 d</s>
+<s>Kepler-31 b</s>
+<s>Kepler-31 c</s>
+<s>Kepler-31 d</s>
+<s>Kepler-320 b</s>
+<s>Kepler-320 c</s>
+<s>Kepler-321 b</s>
+<s>Kepler-321 c</s>
+<s>Kepler-322 b</s>
+<s>Kepler-322 c</s>
+<s>Kepler-323 b</s>
+<s>Kepler-323 c</s>
+<s>Kepler-324 b</s>
+<s>Kepler-324 c</s>
+<s>Kepler-324 d</s>
+<s>Kepler-324 e</s>
+<s>Kepler-325 b</s>
+<s>Kepler-325 c</s>
+<s>Kepler-325 d</s>
+<s>Kepler-326 Ab</s>
+<s>Kepler-326 Ac</s>
+<s>Kepler-326 Ad</s>
+<s>Kepler-327 b</s>
+<s>Kepler-327 c</s>
+<s>Kepler-327 d</s>
+<s>Kepler-328 b</s>
+<s>Kepler-328 c</s>
+<s>Kepler-329 b</s>
+<s>Kepler-329 c</s>
+<s>Kepler-32 b</s>
+<s>Kepler-32 c</s>
+<s>Kepler-32 d</s>
+<s>Kepler-32 e</s>
+<s>Kepler-32 f</s>
+<s>Kepler-330 b</s>
+<s>Kepler-330 c</s>
+<s>Kepler-331 b</s>
+<s>Kepler-331 c</s>
+<s>Kepler-331 d</s>
+<s>Kepler-332 b</s>
+<s>Kepler-332 c</s>
+<s>Kepler-332 d</s>
+<s>Kepler-333 Ab</s>
+<s>Kepler-333 Ac</s>
+<s>Kepler-334 b</s>
+<s>Kepler-334 c</s>
+<s>Kepler-334 d</s>
+<s>Kepler-335 b</s>
+<s>Kepler-335 c</s>
+<s>Kepler-336 Ab</s>
+<s>Kepler-336 Ac</s>
+<s>Kepler-336 Ad</s>
+<s>Kepler-337 b</s>
+<s>Kepler-337 c</s>
+<s>Kepler-338 b</s>
+<s>Kepler-338 c</s>
+<s>Kepler-338 d</s>
+<s>Kepler-338 e</s>
+<s>Kepler-339 b</s>
+<s>Kepler-339 c</s>
+<s>Kepler-339 d</s>
+<s>Kepler-33 b</s>
+<s>Kepler-33 c</s>
+<s>Kepler-33 d</s>
+<s>Kepler-33 e</s>
+<s>Kepler-33 f</s>
+<s>Kepler-340 b</s>
+<s>Kepler-340 c</s>
+<s>Kepler-341 b</s>
+<s>Kepler-341 c</s>
+<s>Kepler-341 d</s>
+<s>Kepler-341 e</s>
+<s>Kepler-342 b</s>
+<s>Kepler-342 c</s>
+<s>Kepler-342 d</s>
+<s>Kepler-342 e</s>
+<s>Kepler-343 b</s>
+<s>Kepler-343 c</s>
+<s>Kepler-344 b</s>
+<s>Kepler-344 c</s>
+<s>Kepler-345 Ab</s>
+<s>Kepler-345 Ac</s>
+<s>Kepler-346 b</s>
+<s>Kepler-346 c</s>
+<s>Kepler-347 b</s>
+<s>Kepler-347 c</s>
+<s>Kepler-348 Ab</s>
+<s>Kepler-348 Ac</s>
+<s>Kepler-349 b</s>
+<s>Kepler-349 c</s>
+<s>Kepler-34 (AB)b</s>
+<s>Kepler-350 b</s>
+<s>Kepler-350 c</s>
+<s>Kepler-350 d</s>
+<s>Kepler-351 b</s>
+<s>Kepler-351 c</s>
+<s>Kepler-351 d</s>
+<s>Kepler-352 b</s>
+<s>Kepler-352 c</s>
+<s>Kepler-352 d</s>
+<s>Kepler-353 Ab</s>
+<s>Kepler-353 Ac</s>
+<s>Kepler-354 b</s>
+<s>Kepler-354 c</s>
+<s>Kepler-354 d</s>
+<s>Kepler-355 b</s>
+<s>Kepler-355 c</s>
+<s>Kepler-356 b</s>
+<s>Kepler-356 c</s>
+<s>Kepler-357 b</s>
+<s>Kepler-357 c</s>
+<s>Kepler-357 d</s>
+<s>Kepler-358 b</s>
+<s>Kepler-358 c</s>
+<s>Kepler-359 b</s>
+<s>Kepler-359 c</s>
+<s>Kepler-359 d</s>
+<s>Kepler-35 (AB)b</s>
+<s>Kepler-360 b</s>
+<s>Kepler-360 c</s>
+<s>Kepler-361 b</s>
+<s>Kepler-361 c</s>
+<s>Kepler-362 Ab</s>
+<s>Kepler-362 Ac</s>
+<s>Kepler-363 b</s>
+<s>Kepler-363 c</s>
+<s>Kepler-363 d</s>
+<s>Kepler-364 b</s>
+<s>Kepler-364 c</s>
+<s>Kepler-365 Ab</s>
+<s>Kepler-365 Ac</s>
+<s>Kepler-366 b</s>
+<s>Kepler-366 c</s>
+<s>Kepler-367 b</s>
+<s>Kepler-367 c</s>
+<s>Kepler-368 b</s>
+<s>Kepler-368 c</s>
+<s>Kepler-369 Ab</s>
+<s>Kepler-369 Ac</s>
+<s>Kepler-36 b</s>
+<s>Kepler-36 c</s>
+<s>Kepler-370 b</s>
+<s>Kepler-370 c</s>
+<s>Kepler-371 b</s>
+<s>Kepler-371 c</s>
+<s>Kepler-372 b</s>
+<s>Kepler-372 c</s>
+<s>Kepler-372 d</s>
+<s>Kepler-373 b</s>
+<s>Kepler-373 c</s>
+<s>Kepler-374 b</s>
+<s>Kepler-374 c</s>
+<s>Kepler-374 d</s>
+<s>Kepler-375 b</s>
+<s>Kepler-375 c</s>
+<s>Kepler-376 b</s>
+<s>Kepler-376 c</s>
+<s>Kepler-377 b</s>
+<s>Kepler-377 c</s>
+<s>Kepler-378 b</s>
+<s>Kepler-378 c</s>
+<s>Kepler-379 Ab</s>
+<s>Kepler-379 Ac</s>
+<s>Kepler-37 b</s>
+<s>Kepler-37 c</s>
+<s>Kepler-37 d</s>
+<s>Kepler-37 e</s>
+<s>Kepler-380 Ab</s>
+<s>Kepler-380 Ac</s>
+<s>Kepler-381 b</s>
+<s>Kepler-381 c</s>
+<s>Kepler-381 d</s>
+<s>Kepler-382 b</s>
+<s>Kepler-382 c</s>
+<s>Kepler-383 Ab</s>
+<s>Kepler-383 Ac</s>
+<s>Kepler-384 b</s>
+<s>Kepler-384 c</s>
+<s>Kepler-385 b</s>
+<s>Kepler-385 c</s>
+<s>Kepler-385 d</s>
+<s>Kepler-386 b</s>
+<s>Kepler-386 c</s>
+<s>Kepler-387 b</s>
+<s>Kepler-387 c</s>
+<s>Kepler-388 Ab</s>
+<s>Kepler-388 Ac</s>
+<s>Kepler-389 b</s>
+<s>Kepler-389 c</s>
+<s>Kepler-38 (AB)b</s>
+<s>Kepler-390 Ab</s>
+<s>Kepler-390 Ac</s>
+<s>Kepler-391 b</s>
+<s>Kepler-391 c</s>
+<s>Kepler-392 b</s>
+<s>Kepler-392 c</s>
+<s>Kepler-393 Ab</s>
+<s>Kepler-393 Ac</s>
+<s>Kepler-394 b</s>
+<s>Kepler-394 c</s>
+<s>Kepler-394 d</s>
+<s>Kepler-395 b</s>
+<s>Kepler-395 c</s>
+<s>Kepler-396 b</s>
+<s>Kepler-396 c</s>
+<s>Kepler-397 Ab</s>
+<s>Kepler-397 Ac</s>
+<s>Kepler-398 b</s>
+<s>Kepler-398 c</s>
+<s>Kepler-398 d</s>
+<s>Kepler-399 b</s>
+<s>Kepler-399 c</s>
+<s>Kepler-399 d</s>
+<s>Kepler-400 Ab</s>
+<s>Kepler-400 Ac</s>
+<s>Kepler-401 b</s>
+<s>Kepler-401 c</s>
+<s>Kepler-401 d</s>
+<s>Kepler-402 b</s>
+<s>Kepler-402 c</s>
+<s>Kepler-402 d</s>
+<s>Kepler-402 e</s>
+<s>Kepler-403 b</s>
+<s>Kepler-403 c</s>
+<s>Kepler-403 d</s>
+<s>Kepler-404 b</s>
+<s>Kepler-404 c</s>
+<s>Kepler-405 b</s>
+<s>Kepler-405 c</s>
+<s>Kepler-406 b</s>
+<s>Kepler-406 c</s>
+<s>Kepler-407 Ab</s>
+<s>Kepler-407 Ac</s>
+<s>Kepler-408 b</s>
+<s>Kepler-409 b</s>
+<s>Kepler-40 b</s>
+<s>Kepler-410 Ab</s>
+<s>Kepler-411 Ab</s>
+<s>Kepler-411 Ac</s>
+<s>Kepler-411 Ad</s>
+<s>Kepler-411 Ae</s>
+<s>Kepler-412 b</s>
+<s>Kepler-413 (AB)b</s>
+<s>Kepler-414 b</s>
+<s>Kepler-414 c</s>
+<s>Kepler-415 b</s>
+<s>Kepler-415 c</s>
+<s>Kepler-416 b</s>
+<s>Kepler-416 c</s>
+<s>Kepler-416 d</s>
+<s>Kepler-417 b</s>
+<s>Kepler-417 c</s>
+<s>Kepler-418 b</s>
+<s>Kepler-418 c</s>
+<s>Kepler-419 b</s>
+<s>Kepler-419 c</s>
+<s>Kepler-41 b</s>
+<s>Kepler-420 Ab</s>
+<s>Kepler-421 Ab</s>
+<s>Kepler-422 b</s>
+<s>Kepler-423 b</s>
+<s>Kepler-424 b</s>
+<s>Kepler-424 c</s>
+<s>Kepler-425 b</s>
+<s>Kepler-426 b</s>
+<s>Kepler-427 b</s>
+<s>Kepler-428 b</s>
+<s>Kepler-42 b</s>
+<s>Kepler-42 c</s>
+<s>Kepler-42 d</s>
+<s>Kepler-430 b</s>
+<s>Kepler-430 c</s>
+<s>Kepler-431 b</s>
+<s>Kepler-431 c</s>
+<s>Kepler-431 d</s>
+<s>Kepler-432 b</s>
+<s>Kepler-432 c</s>
+<s>Kepler-433 b</s>
+<s>Kepler-434 b</s>
+<s>Kepler-435 b</s>
+<s>Kepler-436 b</s>
+<s>Kepler-436 c</s>
+<s>Kepler-437 Ab</s>
+<s>Kepler-438 b</s>
+<s>Kepler-439 b</s>
+<s>Kepler-43 b</s>
+<s>Kepler-440 b</s>
+<s>Kepler-441 b</s>
+<s>Kepler-442 b</s>
+<s>Kepler-443 b</s>
+<s>Kepler-444 Ab</s>
+<s>Kepler-444 Ac</s>
+<s>Kepler-444 Ad</s>
+<s>Kepler-444 Ae</s>
+<s>Kepler-444 Af</s>
+<s>Kepler-445 b</s>
+<s>Kepler-445 c</s>
+<s>Kepler-445 d</s>
+<s>Kepler-446 b</s>
+<s>Kepler-446 c</s>
+<s>Kepler-446 d</s>
+<s>Kepler-447 b</s>
+<s>Kepler-448 b</s>
+<s>Kepler-449 Ab</s>
+<s>Kepler-449 Ac</s>
+<s>Kepler-44 b</s>
+<s>Kepler-450 Ab</s>
+<s>Kepler-450 Ac</s>
+<s>Kepler-450 Ad</s>
+<s>Kepler-451 (AB)b</s>
+<s>Kepler-451 (AB)c</s>
+<s>Kepler-451 (AB)d</s>
+<s>Kepler-452 b</s>
+<s>Kepler-453 (AB)b</s>
+<s>Kepler-454 Ab</s>
+<s>Kepler-454 Ac</s>
+<s>Kepler-454 Ad</s>
+<s>Kepler-455 b</s>
+<s>Kepler-457 b</s>
+<s>Kepler-457 c</s>
+<s>Kepler-457 d</s>
+<s>Kepler-458 b</s>
+<s>Kepler-458 c</s>
+<s>Kepler-459 b</s>
+<s>Kepler-45 b</s>
+<s>Kepler-460 b</s>
+<s>Kepler-460 c</s>
+<s>Kepler-461 b</s>
+<s>Kepler-462 b</s>
+<s>Kepler-462 c</s>
+<s>Kepler-463 b</s>
+<s>Kepler-464 b</s>
+<s>Kepler-465 b</s>
+<s>Kepler-466 b</s>
+<s>Kepler-466 c</s>
+<s>Kepler-467 b</s>
+<s>Kepler-468 b</s>
+<s>Kepler-469 b</s>
+<s>Kepler-46 b</s>
+<s>Kepler-46 c</s>
+<s>Kepler-46 d</s>
+<s>Kepler-471 b</s>
+<s>Kepler-472 b</s>
+<s>Kepler-473 b</s>
+<s>Kepler-474 b</s>
+<s>Kepler-475 b</s>
+<s>Kepler-476 Ab</s>
+<s>Kepler-477 Ab</s>
+<s>Kepler-478 Ab</s>
+<s>Kepler-479 b</s>
+<s>Kepler-47 (AB)b</s>
+<s>Kepler-47 (AB)c</s>
+<s>Kepler-47 (AB)d</s>
+<s>Kepler-480 b</s>
+<s>Kepler-481 b</s>
+<s>Kepler-482 Ab</s>
+<s>Kepler-483 b</s>
+<s>Kepler-484 b</s>
+<s>Kepler-485 b</s>
+<s>Kepler-487 Ab</s>
+<s>Kepler-487 Ac</s>
+<s>Kepler-487 Ad</s>
+<s>Kepler-489 b</s>
+<s>Kepler-48 b</s>
+<s>Kepler-48 c</s>
+<s>Kepler-48 d</s>
+<s>Kepler-48 e</s>
+<s>Kepler-48 f</s>
+<s>Kepler-490 b</s>
+<s>Kepler-491 b</s>
+<s>Kepler-493 b</s>
+<s>Kepler-495 b</s>
+<s>Kepler-495 c</s>
+<s>Kepler-496 b</s>
+<s>Kepler-497 b</s>
+<s>Kepler-498 b</s>
+<s>Kepler-499 b</s>
+<s>Kepler-49 b</s>
+<s>Kepler-49 c</s>
+<s>Kepler-49 d</s>
+<s>Kepler-49 e</s>
+<s>Kepler-4 b</s>
+<s>Kepler-500 b</s>
+<s>Kepler-501 b</s>
+<s>Kepler-501 c</s>
+<s>Kepler-502 b</s>
+<s>Kepler-504 Ab</s>
+<s>Kepler-505 b</s>
+<s>Kepler-506 b</s>
+<s>Kepler-507 b</s>
+<s>Kepler-508 b</s>
+<s>Kepler-509 b</s>
+<s>Kepler-50 b</s>
+<s>Kepler-50 c</s>
+<s>Kepler-510 b</s>
+<s>Kepler-511 b</s>
+<s>Kepler-511 c</s>
+<s>Kepler-512 b</s>
+<s>Kepler-513 b</s>
+<s>Kepler-514 Ab</s>
+<s>Kepler-515 Ab</s>
+<s>Kepler-516 b</s>
+<s>Kepler-517 Ab</s>
+<s>Kepler-518 b</s>
+<s>Kepler-519 Ab</s>
+<s>Kepler-51 b</s>
+<s>Kepler-51 c</s>
+<s>Kepler-51 d</s>
+<s>Kepler-51 e</s>
+<s>Kepler-520 Ab</s>
+<s>Kepler-520 Ac</s>
+<s>Kepler-521 b</s>
+<s>Kepler-522 b</s>
+<s>Kepler-523 b</s>
+<s>Kepler-524 b</s>
+<s>Kepler-524 c</s>
+<s>Kepler-525 b</s>
+<s>Kepler-526 Ab</s>
+<s>Kepler-527 b</s>
+<s>Kepler-528 b</s>
+<s>Kepler-529 b</s>
+<s>Kepler-529 c</s>
+<s>Kepler-529 d</s>
+<s>Kepler-52 Ab</s>
+<s>Kepler-52 Ac</s>
+<s>Kepler-52 d</s>
+<s>Kepler-530 Ab</s>
+<s>Kepler-531 b</s>
+<s>Kepler-532 b</s>
+<s>Kepler-533 b</s>
+<s>Kepler-534 Ab</s>
+<s>Kepler-534 Ac</s>
+<s>Kepler-535 b</s>
+<s>Kepler-536 Ab</s>
+<s>Kepler-537 b</s>
+<s>Kepler-538 Ab</s>
+<s>Kepler-538 Ac</s>
+<s>Kepler-539 b</s>
+<s>Kepler-539 c</s>
+<s>Kepler-53 c</s>
+<s>Kepler-53 d</s>
+<s>Kepler-540 b</s>
+<s>Kepler-541 b</s>
+<s>Kepler-542 b</s>
+<s>Kepler-543 Ab</s>
+<s>Kepler-544 b</s>
+<s>Kepler-545 b</s>
+<s>Kepler-546 b</s>
+<s>Kepler-547 Ab</s>
+<s>Kepler-548 b</s>
+<s>Kepler-549 Bb</s>
+<s>Kepler-549 Bc</s>
+<s>Kepler-549 Bd</s>
+<s>Kepler-54 Ab</s>
+<s>Kepler-54 Ac</s>
+<s>Kepler-54 Ad</s>
+<s>Kepler-550 b</s>
+<s>Kepler-551 b</s>
+<s>Kepler-552 b</s>
+<s>Kepler-553 b</s>
+<s>Kepler-553 c</s>
+<s>Kepler-554 b</s>
+<s>Kepler-555 Ab</s>
+<s>Kepler-556 b</s>
+<s>Kepler-557 b</s>
+<s>Kepler-558 b</s>
+<s>Kepler-559 b</s>
+<s>Kepler-55 Ab</s>
+<s>Kepler-55 Ac</s>
+<s>Kepler-55 Ad</s>
+<s>Kepler-55 Ae</s>
+<s>Kepler-55 Af</s>
+<s>Kepler-560 Bb</s>
+<s>Kepler-561 b</s>
+<s>Kepler-561 c</s>
+<s>Kepler-562 b</s>
+<s>Kepler-563 b</s>
+<s>Kepler-564 b</s>
+<s>Kepler-565 Ab</s>
+<s>Kepler-566 b</s>
+<s>Kepler-567 b</s>
+<s>Kepler-568 b</s>
+<s>Kepler-569 b</s>
+<s>Kepler-56 b</s>
+<s>Kepler-56 c</s>
+<s>Kepler-56 d</s>
+<s>Kepler-570 b</s>
+<s>Kepler-571 b</s>
+<s>Kepler-572 b</s>
+<s>Kepler-573 b</s>
+<s>Kepler-574 b</s>
+<s>Kepler-575 b</s>
+<s>Kepler-576 b</s>
+<s>Kepler-577 b</s>
+<s>Kepler-578 b</s>
+<s>Kepler-579 b</s>
+<s>Kepler-57 b</s>
+<s>Kepler-57 c</s>
+<s>Kepler-580 b</s>
+<s>Kepler-581 b</s>
+<s>Kepler-582 b</s>
+<s>Kepler-583 b</s>
+<s>Kepler-584 b</s>
+<s>Kepler-585 b</s>
+<s>Kepler-586 b</s>
+<s>Kepler-587 b</s>
+<s>Kepler-588 b</s>
+<s>Kepler-589 Ab</s>
+<s>Kepler-589 Ac</s>
+<s>Kepler-58 b</s>
+<s>Kepler-58 c</s>
+<s>Kepler-58 d</s>
+<s>Kepler-58 e</s>
+<s>Kepler-590 b</s>
+<s>Kepler-591 b</s>
+<s>Kepler-592 b</s>
+<s>Kepler-593 b</s>
+<s>Kepler-594 b</s>
+<s>Kepler-595 b</s>
+<s>Kepler-595 c</s>
+<s>Kepler-596 b</s>
+<s>Kepler-597 b</s>
+<s>Kepler-598 b</s>
+<s>Kepler-598 c</s>
+<s>Kepler-599 b</s>
+<s>Kepler-59 b</s>
+<s>Kepler-59 c</s>
+<s>Kepler-5 b</s>
+<s>Kepler-600 b</s>
+<s>Kepler-601 b</s>
+<s>Kepler-602 b</s>
+<s>Kepler-603 Ab</s>
+<s>Kepler-603 Ac</s>
+<s>Kepler-603 Ad</s>
+<s>Kepler-604 b</s>
+<s>Kepler-605 Ab</s>
+<s>Kepler-605 Ac</s>
+<s>Kepler-606 b</s>
+<s>Kepler-607 b</s>
+<s>Kepler-607 c</s>
+<s>Kepler-608 b</s>
+<s>Kepler-609 b</s>
+<s>Kepler-60 b</s>
+<s>Kepler-60 c</s>
+<s>Kepler-60 d</s>
+<s>Kepler-610 b</s>
+<s>Kepler-610 c</s>
+<s>Kepler-611 b</s>
+<s>Kepler-612 b</s>
+<s>Kepler-613 b</s>
+<s>Kepler-614 Ab</s>
+<s>Kepler-615 Ab</s>
+<s>Kepler-616 b</s>
+<s>Kepler-616 c</s>
+<s>Kepler-616 d</s>
+<s>Kepler-617 b</s>
+<s>Kepler-618 b</s>
+<s>Kepler-619 b</s>
+<s>Kepler-619 c</s>
+<s>Kepler-619 d</s>
+<s>Kepler-61 Ab</s>
+<s>Kepler-620 b</s>
+<s>Kepler-621 Ab</s>
+<s>Kepler-622 b</s>
+<s>Kepler-623 b</s>
+<s>Kepler-624 b</s>
+<s>Kepler-625 b</s>
+<s>Kepler-625 c</s>
+<s>Kepler-626 Ab</s>
+<s>Kepler-627 b</s>
+<s>Kepler-629 b</s>
+<s>Kepler-62 b</s>
+<s>Kepler-62 c</s>
+<s>Kepler-62 d</s>
+<s>Kepler-62 e</s>
+<s>Kepler-62 f</s>
+<s>Kepler-630 b</s>
+<s>Kepler-631 b</s>
+<s>Kepler-632 Ab</s>
+<s>Kepler-633 b</s>
+<s>Kepler-633 c</s>
+<s>Kepler-634 b</s>
+<s>Kepler-635 b</s>
+<s>Kepler-636 Ab</s>
+<s>Kepler-637 b</s>
+<s>Kepler-638 b</s>
+<s>Kepler-639 b</s>
+<s>Kepler-63 b</s>
+<s>Kepler-640 b</s>
+<s>Kepler-641 b</s>
+<s>Kepler-642 b</s>
+<s>Kepler-643 b</s>
+<s>Kepler-644 b</s>
+<s>Kepler-645 Ab</s>
+<s>Kepler-646 b</s>
+<s>Kepler-647 b</s>
+<s>Kepler-647 c</s>
+<s>Kepler-648 b</s>
+<s>Kepler-649 Ab</s>
+<s>Kepler-64 (AB)b</s>
+<s>Kepler-650 Ab</s>
+<s>Kepler-651 b</s>
+<s>Kepler-652 b</s>
+<s>Kepler-653 b</s>
+<s>Kepler-653 c</s>
+<s>Kepler-654 Ab</s>
+<s>Kepler-655 b</s>
+<s>Kepler-656 b</s>
+<s>Kepler-656 c</s>
+<s>Kepler-657 b</s>
+<s>Kepler-658 b</s>
+<s>Kepler-659 b</s>
+<s>Kepler-65 b</s>
+<s>Kepler-65 c</s>
+<s>Kepler-65 d</s>
+<s>Kepler-65 e</s>
+<s>Kepler-660 b</s>
+<s>Kepler-661 b</s>
+<s>Kepler-662 Ab</s>
+<s>Kepler-663 b</s>
+<s>Kepler-664 b</s>
+<s>Kepler-665 b</s>
+<s>Kepler-666 b</s>
+<s>Kepler-667 b</s>
+<s>Kepler-668 b</s>
+<s>Kepler-669 b</s>
+<s>Kepler-66 b</s>
+<s>Kepler-670 b</s>
+<s>Kepler-671 b</s>
+<s>Kepler-672 b</s>
+<s>Kepler-673 b</s>
+<s>Kepler-674 b</s>
+<s>Kepler-675 b</s>
+<s>Kepler-676 b</s>
+<s>Kepler-677 b</s>
+<s>Kepler-678 b</s>
+<s>Kepler-679 b</s>
+<s>Kepler-67 b</s>
+<s>Kepler-680 b</s>
+<s>Kepler-681 b</s>
+<s>Kepler-682 b</s>
+<s>Kepler-683 b</s>
+<s>Kepler-684 b</s>
+<s>Kepler-685 b</s>
+<s>Kepler-686 b</s>
+<s>Kepler-687 b</s>
+<s>Kepler-688 b</s>
+<s>Kepler-689 b</s>
+<s>Kepler-68 b</s>
+<s>Kepler-68 c</s>
+<s>Kepler-68 d</s>
+<s>Kepler-68 e</s>
+<s>Kepler-690 b</s>
+<s>Kepler-691 b</s>
+<s>Kepler-692 b</s>
+<s>Kepler-693 Ab</s>
+<s>Kepler-694 b</s>
+<s>Kepler-695 b</s>
+<s>Kepler-696 b</s>
+<s>Kepler-697 b</s>
+<s>Kepler-698 b</s>
+<s>Kepler-69 b</s>
+<s>Kepler-69 c</s>
+<s>Kepler-6 b</s>
+<s>Kepler-700 b</s>
+<s>Kepler-701 b</s>
+<s>Kepler-702 b</s>
+<s>Kepler-703 b</s>
+<s>Kepler-704 b</s>
+<s>Kepler-705 b</s>
+<s>Kepler-707 b</s>
+<s>Kepler-708 b</s>
+<s>Kepler-709 b</s>
+<s>Kepler-70 b</s>
+<s>Kepler-70 c</s>
+<s>Kepler-710 b</s>
+<s>Kepler-711 b</s>
+<s>Kepler-712 b</s>
+<s>Kepler-712 c</s>
+<s>Kepler-713 b</s>
+<s>Kepler-714 b</s>
+<s>Kepler-715 b</s>
+<s>Kepler-716 b</s>
+<s>Kepler-716 c</s>
+<s>Kepler-717 b</s>
+<s>Kepler-718 b</s>
+<s>Kepler-719 b</s>
+<s>Kepler-71 b</s>
+<s>Kepler-720 b</s>
+<s>Kepler-721 b</s>
+<s>Kepler-722 b</s>
+<s>Kepler-722 c</s>
+<s>Kepler-723 b</s>
+<s>Kepler-724 b</s>
+<s>Kepler-725 b</s>
+<s>Kepler-725 c</s>
+<s>Kepler-726 b</s>
+<s>Kepler-727 b</s>
+<s>Kepler-728 b</s>
+<s>Kepler-729 b</s>
+<s>Kepler-730 b</s>
+<s>Kepler-730 c</s>
+<s>Kepler-731 b</s>
+<s>Kepler-732 b</s>
+<s>Kepler-732 c</s>
+<s>Kepler-733 b</s>
+<s>Kepler-734 b</s>
+<s>Kepler-735 b</s>
+<s>Kepler-736 b</s>
+<s>Kepler-737 b</s>
+<s>Kepler-738 b</s>
+<s>Kepler-739 b</s>
+<s>Kepler-740 b</s>
+<s>Kepler-741 b</s>
+<s>Kepler-742 b</s>
+<s>Kepler-743 Ab</s>
+<s>Kepler-744 Ab</s>
+<s>Kepler-745 b</s>
+<s>Kepler-746 Ab</s>
+<s>Kepler-748 b</s>
+<s>Kepler-749 b</s>
+<s>Kepler-74 b</s>
+<s>Kepler-750 b</s>
+<s>Kepler-750 c</s>
+<s>Kepler-751 b</s>
+<s>Kepler-752 b</s>
+<s>Kepler-753 b</s>
+<s>Kepler-754 b</s>
+<s>Kepler-755 Ab</s>
+<s>Kepler-755 Ac</s>
+<s>Kepler-756 b</s>
+<s>Kepler-757 b</s>
+<s>Kepler-758 b</s>
+<s>Kepler-758 c</s>
+<s>Kepler-758 d</s>
+<s>Kepler-758 e</s>
+<s>Kepler-759 Ab</s>
+<s>Kepler-75 b</s>
+<s>Kepler-760 b</s>
+<s>Kepler-760 c</s>
+<s>Kepler-761 b</s>
+<s>Kepler-762 b</s>
+<s>Kepler-763 b</s>
+<s>Kepler-763 c</s>
+<s>Kepler-763 d</s>
+<s>Kepler-764 b</s>
+<s>Kepler-765 b</s>
+<s>Kepler-766 b</s>
+<s>Kepler-767 b</s>
+<s>Kepler-768 Ab</s>
+<s>Kepler-769 b</s>
+<s>Kepler-769 c</s>
+<s>Kepler-76 b</s>
+<s>Kepler-770 b</s>
+<s>Kepler-770 c</s>
+<s>Kepler-770 d</s>
+<s>Kepler-771 b</s>
+<s>Kepler-772 b</s>
+<s>Kepler-773 Ab</s>
+<s>Kepler-774 b</s>
+<s>Kepler-775 b</s>
+<s>Kepler-776 b</s>
+<s>Kepler-777 b</s>
+<s>Kepler-778 b</s>
+<s>Kepler-779 Ab</s>
+<s>Kepler-77 b</s>
+<s>Kepler-780 Ab</s>
+<s>Kepler-781 b</s>
+<s>Kepler-782 Ab</s>
+<s>Kepler-783 Ab</s>
+<s>Kepler-783 Ac</s>
+<s>Kepler-784 b</s>
+<s>Kepler-784 c</s>
+<s>Kepler-785 b</s>
+<s>Kepler-786 b</s>
+<s>Kepler-787 b</s>
+<s>Kepler-788 b</s>
+<s>Kepler-789 b</s>
+<s>Kepler-78 Ab</s>
+<s>Kepler-790 b</s>
+<s>Kepler-791 b</s>
+<s>Kepler-792 b</s>
+<s>Kepler-793 b</s>
+<s>Kepler-794 b</s>
+<s>Kepler-795 Ab</s>
+<s>Kepler-796 b</s>
+<s>Kepler-797 b</s>
+<s>Kepler-798 b</s>
+<s>Kepler-799 Ab</s>
+<s>Kepler-799 Ac</s>
+<s>Kepler-79 b</s>
+<s>Kepler-79 c</s>
+<s>Kepler-79 d</s>
+<s>Kepler-79 e</s>
+<s>Kepler-7 b</s>
+<s>Kepler-800 b</s>
+<s>Kepler-801 b</s>
+<s>Kepler-802 b</s>
+<s>Kepler-803 b</s>
+<s>Kepler-804 b</s>
+<s>Kepler-804 c</s>
+<s>Kepler-805 b</s>
+<s>Kepler-806 b</s>
+<s>Kepler-808 Ab</s>
+<s>Kepler-809 b</s>
+<s>Kepler-80 b</s>
+<s>Kepler-80 c</s>
+<s>Kepler-80 d</s>
+<s>Kepler-80 e</s>
+<s>Kepler-80 f</s>
+<s>Kepler-80 g</s>
+<s>Kepler-810 b</s>
+<s>Kepler-811 b</s>
+<s>Kepler-812 b</s>
+<s>Kepler-813 b</s>
+<s>Kepler-814 b</s>
+<s>Kepler-815 b</s>
+<s>Kepler-816 b</s>
+<s>Kepler-817 b</s>
+<s>Kepler-818 b</s>
+<s>Kepler-819 b</s>
+<s>Kepler-81 b</s>
+<s>Kepler-81 c</s>
+<s>Kepler-81 d</s>
+<s>Kepler-820 b</s>
+<s>Kepler-821 b</s>
+<s>Kepler-822 b</s>
+<s>Kepler-823 b</s>
+<s>Kepler-824 b</s>
+<s>Kepler-825 b</s>
+<s>Kepler-825 c</s>
+<s>Kepler-826 b</s>
+<s>Kepler-827 b</s>
+<s>Kepler-828 b</s>
+<s>Kepler-829 b</s>
+<s>Kepler-82 b</s>
+<s>Kepler-82 c</s>
+<s>Kepler-82 d</s>
+<s>Kepler-82 e</s>
+<s>Kepler-82 f</s>
+<s>Kepler-830 b</s>
+<s>Kepler-831 b</s>
+<s>Kepler-832 b</s>
+<s>Kepler-833 b</s>
+<s>Kepler-834 b</s>
+<s>Kepler-835 b</s>
+<s>Kepler-836 b</s>
+<s>Kepler-837 b</s>
+<s>Kepler-838 b</s>
+<s>Kepler-839 b</s>
+<s>Kepler-83 Ab</s>
+<s>Kepler-83 Ac</s>
+<s>Kepler-83 Ad</s>
+<s>Kepler-841 b</s>
+<s>Kepler-842 b</s>
+<s>Kepler-843 b</s>
+<s>Kepler-844 b</s>
+<s>Kepler-845 b</s>
+<s>Kepler-846 b</s>
+<s>Kepler-847 Ab</s>
+<s>Kepler-848 b</s>
+<s>Kepler-849 b</s>
+<s>Kepler-84 Ab</s>
+<s>Kepler-84 Ac</s>
+<s>Kepler-84 Ad</s>
+<s>Kepler-84 Ae</s>
+<s>Kepler-84 Af</s>
+<s>Kepler-850 b</s>
+<s>Kepler-851 b</s>
+<s>Kepler-852 b</s>
+<s>Kepler-853 b</s>
+<s>Kepler-855 b</s>
+<s>Kepler-856 b</s>
+<s>Kepler-857 b</s>
+<s>Kepler-858 b</s>
+<s>Kepler-859 b</s>
+<s>Kepler-85 b</s>
+<s>Kepler-85 c</s>
+<s>Kepler-85 d</s>
+<s>Kepler-85 e</s>
+<s>Kepler-860 b</s>
+<s>Kepler-861 b</s>
+<s>Kepler-862 Ab</s>
+<s>Kepler-863 b</s>
+<s>Kepler-864 b</s>
+<s>Kepler-864 c</s>
+<s>Kepler-865 b</s>
+<s>Kepler-865 c</s>
+<s>Kepler-866 b</s>
+<s>Kepler-867 Ab</s>
+<s>Kepler-868 b</s>
+<s>Kepler-869 Ab</s>
+<s>Kepler-86 b</s>
+<s>Kepler-870 b</s>
+<s>Kepler-871 b</s>
+<s>Kepler-872 b</s>
+<s>Kepler-873 b</s>
+<s>Kepler-874 b</s>
+<s>Kepler-875 b</s>
+<s>Kepler-876 b</s>
+<s>Kepler-877 b</s>
+<s>Kepler-878 Ab</s>
+<s>Kepler-879 b</s>
+<s>Kepler-87 b</s>
+<s>Kepler-87 c</s>
+<s>Kepler-880 Ab</s>
+<s>Kepler-880 Ac</s>
+<s>Kepler-881 b</s>
+<s>Kepler-882 b</s>
+<s>Kepler-883 b</s>
+<s>Kepler-884 Ab</s>
+<s>Kepler-885 b</s>
+<s>Kepler-886 b</s>
+<s>Kepler-887 b</s>
+<s>Kepler-887 c</s>
+<s>Kepler-888 b</s>
+<s>Kepler-889 b</s>
+<s>Kepler-88 b</s>
+<s>Kepler-88 c</s>
+<s>Kepler-88 d</s>
+<s>Kepler-890 b</s>
+<s>Kepler-891 b</s>
+<s>Kepler-892 b</s>
+<s>Kepler-893 b</s>
+<s>Kepler-894 b</s>
+<s>Kepler-895 b</s>
+<s>Kepler-896 b</s>
+<s>Kepler-897 b</s>
+<s>Kepler-898 b</s>
+<s>Kepler-899 b</s>
+<s>Kepler-89 Ab</s>
+<s>Kepler-89 Ac</s>
+<s>Kepler-89 Ad</s>
+<s>Kepler-89 Ae</s>
+<s>Kepler-8 b</s>
+<s>Kepler-900 Ab</s>
+<s>Kepler-901 b</s>
+<s>Kepler-902 b</s>
+<s>Kepler-903 b</s>
+<s>Kepler-903 c</s>
+<s>Kepler-904 b</s>
+<s>Kepler-905 b</s>
+<s>Kepler-906 b</s>
+<s>Kepler-907 Ab</s>
+<s>Kepler-908 Ab</s>
+<s>Kepler-909 b</s>
+<s>Kepler-90 b</s>
+<s>Kepler-90 c</s>
+<s>Kepler-90 d</s>
+<s>Kepler-90 e</s>
+<s>Kepler-90 f</s>
+<s>Kepler-90 g</s>
+<s>Kepler-90 h</s>
+<s>Kepler-90 i</s>
+<s>Kepler-910 b</s>
+<s>Kepler-911 b</s>
+<s>Kepler-912 b</s>
+<s>Kepler-913 b</s>
+<s>Kepler-913 c</s>
+<s>Kepler-914 b</s>
+<s>Kepler-915 b</s>
+<s>Kepler-916 b</s>
+<s>Kepler-917 b</s>
+<s>Kepler-918 b</s>
+<s>Kepler-919 b</s>
+<s>Kepler-91 b</s>
+<s>Kepler-920 b</s>
+<s>Kepler-920 c</s>
+<s>Kepler-921 b</s>
+<s>Kepler-922 b</s>
+<s>Kepler-923 b</s>
+<s>Kepler-924 b</s>
+<s>Kepler-925 b</s>
+<s>Kepler-926 Ab</s>
+<s>Kepler-927 b</s>
+<s>Kepler-928 Ab</s>
+<s>Kepler-929 b</s>
+<s>Kepler-92 Ab</s>
+<s>Kepler-92 Ac</s>
+<s>Kepler-92 Ad</s>
+<s>Kepler-930 Ab</s>
+<s>Kepler-931 Ab</s>
+<s>Kepler-932 b</s>
+<s>Kepler-933 b</s>
+<s>Kepler-934 b</s>
+<s>Kepler-935 b</s>
+<s>Kepler-936 Ab</s>
+<s>Kepler-937 b</s>
+<s>Kepler-937 c</s>
+<s>Kepler-938 b</s>
+<s>Kepler-939 b</s>
+<s>Kepler-93 b</s>
+<s>Kepler-93 c</s>
+<s>Kepler-940 b</s>
+<s>Kepler-941 b</s>
+<s>Kepler-942 b</s>
+<s>Kepler-943 b</s>
+<s>Kepler-944 b</s>
+<s>Kepler-945 b</s>
+<s>Kepler-946 b</s>
+<s>Kepler-947 b</s>
+<s>Kepler-948 b</s>
+<s>Kepler-949 b</s>
+<s>Kepler-949 c</s>
+<s>Kepler-94 b</s>
+<s>Kepler-94 c</s>
+<s>Kepler-950 b</s>
+<s>Kepler-951 Ab</s>
+<s>Kepler-952 b</s>
+<s>Kepler-953 Ab</s>
+<s>Kepler-953 Ac</s>
+<s>Kepler-954 b</s>
+<s>Kepler-955 b</s>
+<s>Kepler-956 b</s>
+<s>Kepler-957 b</s>
+<s>Kepler-958 b</s>
+<s>Kepler-959 b</s>
+<s>Kepler-960 b</s>
+<s>Kepler-961 b</s>
+<s>Kepler-962 b</s>
+<s>Kepler-963 b</s>
+<s>Kepler-963 c</s>
+<s>Kepler-964 b</s>
+<s>Kepler-965 b</s>
+<s>Kepler-966 b</s>
+<s>Kepler-967 b</s>
+<s>Kepler-967 c</s>
+<s>Kepler-968 Ab</s>
+<s>Kepler-968 Ac</s>
+<s>Kepler-968 Ad</s>
+<s>Kepler-969 b</s>
+<s>Kepler-969 c</s>
+<s>Kepler-96 b</s>
+<s>Kepler-970 Bb</s>
+<s>Kepler-971 Ab</s>
+<s>Kepler-972 b</s>
+<s>Kepler-973 Ab</s>
+<s>Kepler-974 b</s>
+<s>Kepler-974 c</s>
+<s>Kepler-975 Ab</s>
+<s>Kepler-975 Ac</s>
+<s>Kepler-976 b</s>
+<s>Kepler-977 b</s>
+<s>Kepler-978 b</s>
+<s>Kepler-979 b</s>
+<s>Kepler-97 Ab</s>
+<s>Kepler-97 Ac</s>
+<s>Kepler-980 b</s>
+<s>Kepler-981 b</s>
+<s>Kepler-982 b</s>
+<s>Kepler-983 Ab</s>
+<s>Kepler-984 b</s>
+<s>Kepler-985 b</s>
+<s>Kepler-986 b</s>
+<s>Kepler-987 b</s>
+<s>Kepler-988 b</s>
+<s>Kepler-989 b</s>
+<s>Kepler-98 b</s>
+<s>Kepler-990 b</s>
+<s>Kepler-990 c</s>
+<s>Kepler-991 b</s>
+<s>Kepler-992 b</s>
+<s>Kepler-993 b</s>
+<s>Kepler-994 b</s>
+<s>Kepler-995 b</s>
+<s>Kepler-996 b</s>
+<s>Kepler-997 b</s>
+<s>Kepler-998 b</s>
+<s>Kepler-999 Ab</s>
+<s>Kepler-99 Bb</s>
+<s>Kepler-9 b</s>
+<s>Kepler-9 c</s>
+<s>Kepler-9 d</s>
+<s>KIC 10255705 b</s>
+<s>KIC 11152511 b</s>
+<s>KIC 12454613 b</s>
+<s>KIC 3853259 (AB)b</s>
+<s>KIC 5010054 b</s>
+<s>KIC 5094412 b</s>
+<s>KIC 5522786 b</s>
+<s>KIC 5732155 b</s>
+<s>KIC 6372194 b</s>
+<s>KIC 7177553 (AB)b</s>
+<s>KIC 7821010 (AB)b</s>
+<s>KIC 9413313 b</s>
+<s>KIC 9662267 b</s>
+<s>KIC 9704149 b</s>
+<s>KMT-2016-BLG-0625 b</s>
+<s>KMT-2016-BLG-1105 b</s>
+<s>KMT-2016-BLG-1107 b</s>
+<s>KMT-2016-BLG-1397 b</s>
+<s>KMT-2016-BLG-1751</s>
+<s>KMT-2016-BLG-1836L b</s>
+<s>KMT-2016-BLG-2321 b</s>
+<s>KMT-2016-BLG-2364 b</s>
+<s>KMT-2016-BLG-2397 b</s>
+<s>KMT-2016-BLG-2605 b</s>
+<s>KMT-2017-BLG-0165L b</s>
+<s>KMT-2017-BLG-0428 b</s>
+<s>KMT-2017-BLG-0673L b</s>
+<s>KMT-2017-BLG-0849 b</s>
+<s>KMT-2017-BLG-1003 b</s>
+<s>KMT-2017-BLG-1038 b</s>
+<s>KMT-2017-BLG-1057 b</s>
+<s>KMT-2017-BLG-1146 b</s>
+<s>KMT-2017-BLG-1194 b</s>
+<s>KMT-2017-BLG-2197 b</s>
+<s>KMT-2017-BLG-2331 b</s>
+<s>KMT-2017-BLG-2509 b</s>
+<s>KMT-2018-BLG-0029L b</s>
+<s>KMT-2018-BLG-0030 b</s>
+<s>KMT-2018-BLG-0087 b</s>
+<s>KMT-2018-BLG-0247 b</s>
+<s>KMT-2018-BLG-0748 b</s>
+<s>KMT-2018-BLG-1025L b</s>
+<s>KMT-2018-BLG-1292L b</s>
+<s>KMT-2018-BLG-1743 b</s>
+<s>KMT-2018-BLG-1976L b</s>
+<s>KMT-2018-BLG-1988L b</s>
+<s>KMT-2018-BLG-1990L b</s>
+<s>KMT-2018-BLG-1996L b</s>
+<s>KMT-2018-BLG-2004 b</s>
+<s>KMT-2018-BLG-2119 b</s>
+<s>KMT-2018-BLG-2602 b</s>
+<s>KMT-2019-BLG-0253 b</s>
+<s>KMT-2019-BLG-0298 b</s>
+<s>KMT-2019-BLG-0414L b</s>
+<s>KMT-2019-BLG-0578 b</s>
+<s>KMT-2019-BLG-0842 b</s>
+<s>KMT-2019-BLG-1042 b</s>
+<s>KMT-2019-BLG-1216 b</s>
+<s>KMT-2019-BLG-1339 b</s>
+<s>KMT-2019-BLG-1367 b</s>
+<s>KMT-2019-BLG-1552 b</s>
+<s>KMT-2019-BLG-1715 b</s>
+<s>KMT-2019-BLG-1806 b</s>
+<s>KMT-2019-BLG-1953L b</s>
+<s>KMT-2019-BLG-1953L c</s>
+<s>KMT-2019-BLG-2783 b</s>
+<s>KMT-2019-BLG-2974 b</s>
+<s>KMT-2020-BLG-0414L b</s>
+<s>KMT-2020-BLG-0757 b</s>
+<s>KMT-2021-BLG-0119 b</s>
+<s>KMT-2021-BLG-0171L b</s>
+<s>KMT-2021-BLG-0192 b</s>
+<s>KMT-2021-BLG-0240 b</s>
+<s>KMT-2021-BLG-0240 c</s>
+<s>KMT-2021-BLG-0320 b</s>
+<s>KMT-2021-BLG-0322 b</s>
+<s>KMT-2021-BLG-0712 b</s>
+<s>KMT-2021-BLG-0736 b</s>
+<s>KMT-2021-BLG-0748 b</s>
+<s>KMT-2021-BLG-0909 b</s>
+<s>KMT-2021-BLG-0912 b</s>
+<s>KMT-2021-BLG-1077L b</s>
+<s>KMT-2021-BLG-1077L c</s>
+<s>KMT-2021-BLG-1105 b</s>
+<s>KMT-2021-BLG-1150L b</s>
+<s>KMT-2021-BLG-1253 b</s>
+<s>KMT-2021-BLG-1303 b</s>
+<s>KMT-2021-BLG-1372 b</s>
+<s>KMT-2021-BLG-1391 b</s>
+<s>KMT-2021-BLG-1547L b</s>
+<s>KMT-2021-BLG-1554 b</s>
+<s>KMT-2021-BLG-1689L b</s>
+<s>KMT-2021-BLG-1898 b</s>
+<s>KMT-2021-BLG-2010 b</s>
+<s>KMT-2021-BLG-2294 b</s>
+<s>KMT-2021-BLG-2478 b</s>
+<s>KMT-2021-BLG-2609 b</s>
+<s>KMT-2022-BLG-0303 b</s>
+<s>KMT-2022-BLG-0371 b</s>
+<s>KMT-2022-BLG-0440L b</s>
+<s>KMT-2022-BLG-0475 b</s>
+<s>KMT-2022-BLG-0732 b</s>
+<s>KMT-2022-BLG-1013 b</s>
+<s>KMT-2022-BLG-1480 b</s>
+<s>KMT-2022-BLG-1787 b</s>
+<s>KMT-2022-BLG-1790 b</s>
+<s>KMT-2022-BLG-1818L b</s>
+<s>KMT-2022-BLG-1818L c</s>
+<s>KMT-2022-BLG-1852 b</s>
+<s>KMT-2022-BLG-2076 b</s>
+<s>KMT-2023-BLG-0119 b</s>
+<s>KMT-2023-BLG-0416 b</s>
+<s>KMT-2023-BLG-0469 b</s>
+<s>KMT-2023-BLG-0548 b</s>
+<s>KMT-2023-BLG-0735 b</s>
+<s>KMT-2023-BLG-0830 b</s>
+<s>KMT-2023-BLG-0949</s>
+<s>KMT-2023-BLG-1454 b</s>
+<s>KMT-2023-BLG-1642 b</s>
+<s>KMT-2023-BLG-1866L b</s>
+<s>KMT-2023-BLG-1896 b</s>
+<s>KMT-2023-BLG-2209 b</s>
+<s>KMT-2024-BLG-0404L b</s>
+<s>KMT-2024-BLG-1044 b</s>
+<s>KMT-2024-BLG-1209L b</s>
+<s>KMT-2024-BLG-1281 b</s>
+<s>KMT-2024-BLG-2059</s>
+<s>KMT-2024-BLG-2242</s>
+<s>KOBE-1 b</s>
+<s>KOBE-1 c</s>
+<s>KOI-1066 b</s>
+<s>KOI-134 b</s>
+<s>KOI-134 c</s>
+<s>KOI-212 b</s>
+<s>KOI-2700 b</s>
+<s>KOI-4427 Ab</s>
+<s>KOI-4644 b</s>
+<s>KOI-4878 b</s>
+<s>KOI-4896 b</s>
+<s>KOI-4896 c</s>
+<s>KOI-5372 b</s>
+<s>KOI-5 b</s>
+<s>KOI-6256 b</s>
+<s>KOI-6526 b</s>
+<s>KOI-6532 b</s>
+<s>KOI-6538 b</s>
+<s>KOI-6653 b</s>
+<s>KOI-6664 b</s>
+<s>KOI-6666 b</s>
+<s>KOI-6672 b</s>
+<s>KOI-6793 b</s>
+<s>KOI-6798 b</s>
+<s>KOI-6918 b</s>
+<s>KOI-6921 b</s>
+<s>KOI-6925 b</s>
+<s>KOI-6931 b</s>
+<s>KOI-6934 b</s>
+<s>KOI-7051 b</s>
+<s>KOI-7057 b</s>
+<s>KOI-7069 b</s>
+<s>KOI-7073 b</s>
+<s>KOI-7076 b</s>
+<s>KOI-7197 b</s>
+<s>KOI-7209</s>
+<s>KOI-7319 b</s>
+<s>KOI-7320 b</s>
+<s>KOI-7327 b</s>
+<s>KOI-7449 b</s>
+<s>KOI-7455</s>
+<s>KOI-7460 b</s>
+<s>KOI-901 b</s>
+<s>KPNO-Tau 12</s>
+<s>KPS-1 b</s>
+<s>ksi Aql b</s>
+<s>L 168-9 b</s>
+<s>L2 Pup Ab</s>
+<s>L 363-38 b</s>
+<s>L 98-59 b</s>
+<s>L 98-59 c</s>
+<s>L 98-59 d</s>
+<s>L 98-59 e</s>
+<s>L 98-59 f</s>
+<s>L 98-59 g</s>
+<s>Lalande 21185 b</s>
+<s>Lalande 21185 c</s>
+<s>Lalande 21185 d</s>
+<s>lam2 For Ab</s>
+<s>lam Ser b</s>
+<s>LHS 1140 b</s>
+<s>LHS 1140 c</s>
+<s>LHS 1478 b</s>
+<s>LHS 1678 b</s>
+<s>LHS 1678 c</s>
+<s>LHS 1678 d</s>
+<s>LHS 1815 b</s>
+<s>LHS 3154 b</s>
+<s>LHS 3844 b</s>
+<s>LHS 475 b</s>
+<s>LP 714-47 b</s>
+<s>LP 791-18 b</s>
+<s>LP 791-18 c</s>
+<s>LP 791-18 d</s>
+<s>LP 890-9 b</s>
+<s>LP 890-9 c</s>
+<s>LSPM J0220+3320 (AB)b</s>
+<s>LSPM J2116+0234 b</s>
+<s>LTT 1445 Ab</s>
+<s>LTT 1445 Ac</s>
+<s>LTT 1445 Ad</s>
+<s>LTT 3780 b</s>
+<s>LTT 3780 c</s>
+<s>LTT 9779 b</s>
+<s>Lupus-TR-3 b</s>
+<s>Luyten's Star b</s>
+<s>Luyten's Star c</s>
+<s>Luyten's Star d</s>
+<s>Luyten's Star e</s>
+<s>M62H b</s>
+<s>MASCARA-1 b</s>
+<s>MASCARA-3 Ab</s>
+<s>MASCARA-4 Ab</s>
+<s>MAXI J1957+032 b</s>
+<s>Mayrit 260182 b</s>
+<s>MOA-2007-BLG-192L b</s>
+<s>MOA-2007-BLG-400L b</s>
+<s>MOA-2008-BLG-310L b</s>
+<s>MOA-2008-BLG-379L b</s>
+<s>MOA-2009-BLG-266L b</s>
+<s>MOA-2009-BLG-319L b</s>
+<s>MOA-2009-BLG-387L b</s>
+<s>MOA-2010-BLG-073L b</s>
+<s>MOA-2010-BLG-117 b</s>
+<s>MOA-2010-BLG-328L b</s>
+<s>MOA-2010-BLG-353L b</s>
+<s>MOA-2010-BLG-477L b</s>
+<s>MOA-2011-BLG-028L b</s>
+<s>MOA-2011-BLG-262L b</s>
+<s>MOA-2011-BLG-274 b</s>
+<s>MOA-2011-BLG-291 b</s>
+<s>MOA-2011-BLG-293L b</s>
+<s>MOA-2011-BLG-322L b</s>
+<s>MOA-2012-BLG-006 b</s>
+<s>MOA-2012-BLG-505L b</s>
+<s>MOA-2013-BLG-220L b</s>
+<s>MOA-2013-BLG-605L b</s>
+<s>MOA-2014-BLG-472 b</s>
+<s>MOA-2016-BLG-227L b</s>
+<s>MOA-2016-BLG-319L b</s>
+<s>MOA-2016-BLG-526 b</s>
+<s>MOA-2016-BLG-532 b</s>
+<s>MOA-2019-BLG-421 b</s>
+<s>MOA-2020-BLG-135 b</s>
+<s>MOA-2020-BLG-208 b</s>
+<s>MOA-2022-BLG-033 b</s>
+<s>MOA-2022-BLG-091L b</s>
+<s>MOA-2022-BLG-249L b</s>
+<s>MOA-2022-BLG-563 b</s>
+<s>MOA-bin-1L b</s>
+<s>MP Mus b</s>
+<s>mu2 Oct Ab</s>
+<s>mu2 Oct Ac</s>
+<s>mu Ara b</s>
+<s>mu Ara c</s>
+<s>mu Ara d</s>
+<s>mu Ara e</s>
+<s>mu Leo b</s>
+<s>NGC 2423 3 b</s>
+<s>NGC 6440 X-2 b</s>
+<s>NGTS-10 Ab</s>
+<s>NGTS-11 b</s>
+<s>NGTS-11 c</s>
+<s>NGTS-12 b</s>
+<s>NGTS-13 b</s>
+<s>NGTS-14 Ab</s>
+<s>NGTS-15 b</s>
+<s>NGTS-16 b</s>
+<s>NGTS-17 b</s>
+<s>NGTS-18 b</s>
+<s>NGTS-1 b</s>
+<s>NGTS-20 b</s>
+<s>NGTS-21 b</s>
+<s>NGTS-23 b</s>
+<s>NGTS-24 b</s>
+<s>NGTS-25 b</s>
+<s>NGTS-26 b</s>
+<s>NGTS-27 b</s>
+<s>NGTS-29 b</s>
+<s>NGTS-2 b</s>
+<s>NGTS-30 b</s>
+<s>NGTS-31 b</s>
+<s>NGTS-32 b</s>
+<s>NGTS-33 b</s>
+<s>NGTS-3 Ab</s>
+<s>NGTS-4 b</s>
+<s>NGTS-5 Ab</s>
+<s>NGTS-6 Ab</s>
+<s>NGTS-8 b</s>
+<s>NGTS-9 b</s>
+<s>NN Ser (AB)c</s>
+<s>NN Ser (AB)d</s>
+<s>NN Ser (AB)e</s>
+<s>NSVS 1425 (AB) b</s>
+<s>NSVS 1425 (AB) c</s>
+<s>NSVS 7826147 (AB)b</s>
+<s>nu2 CMa b</s>
+<s>nu2 CMa c</s>
+<s>nu2 Lup b</s>
+<s>nu2 Lup c</s>
+<s>nu2 Lup d</s>
+<s>nu Oct b</s>
+<s>NY Vir (AB)b</s>
+<s>NY Vir (AB)c</s>
+<s>OGLE-2003-BLG-235L b</s>
+<s>OGLE-2005-BLG-071L b</s>
+<s>OGLE-2005-BLG-169L b</s>
+<s>OGLE-2005-BLG-390L b</s>
+<s>OGLE-2006-109L b</s>
+<s>OGLE-2006-109L c</s>
+<s>OGLE-2006-BLG-284 b</s>
+<s>OGLE-2007-BLG-349L (AB)b</s>
+<s>OGLE-2007-BLG-368L b</s>
+<s>OGLE-2008-BLG-092L Ab</s>
+<s>OGLE-2008-BLG-355L b</s>
+<s>OGLE-2011-BLG-0173L b</s>
+<s>OGLE-2011-BLG-0251L b</s>
+<s>OGLE-2011-BLG-0265L b</s>
+<s>OGLE-2012-BLG-0026L b</s>
+<s>OGLE-2012-BLG-0026L c</s>
+<s>OGLE-2012-BLG-0406L b</s>
+<s>OGLE-2012-BLG-0563L b</s>
+<s>OGLE-2012-BLG-0724L b</s>
+<s>OGLE-2012-BLG-0838 b</s>
+<s>OGLE-2012-BLG-0950L b</s>
+<s>OGLE-2013-BLG-0132L b</s>
+<s>OGLE-2013-BLG-0341L Bb</s>
+<s>OGLE-2013-BLG-0911L b</s>
+<s>OGLE-2013-BLG-1721L b</s>
+<s>OGLE-2013-BLG-1761L b</s>
+<s>OGLE-2014-BLG-0124L b</s>
+<s>OGLE-2014-BLG-0221L b</s>
+<s>OGLE-2014-BLG-0319 b</s>
+<s>OGLE-2014-BLG-0676L b</s>
+<s>OGLE-2014-BLG-1186L b</s>
+<s>OGLE-2014-BLG-1722L b</s>
+<s>OGLE-2014-BLG-1722L c</s>
+<s>OGLE-2014-BLG-1760L b</s>
+<s>OGLE-2015-BLG-0051L b</s>
+<s>OGLE-2015-BLG-0954L b</s>
+<s>OGLE-2015-BLG-0966L b</s>
+<s>OGLE-2015-BLG-1609L b</s>
+<s>OGLE-2015-BLG-1649 b</s>
+<s>OGLE-2015-BLG-1670L b</s>
+<s>OGLE-2015-BLG-1771L b</s>
+<s>OGLE-2016-BLG-0007 b</s>
+<s>OGLE-2016-BLG-0263L b</s>
+<s>OGLE-2016-BLG-0596L b</s>
+<s>OGLE-2016-BLG-0613L (AB) b</s>
+<s>OGLE-2016-BLG-1067L b</s>
+<s>OGLE-2016-BLG-1093L b</s>
+<s>OGLE-2016-BLG-1195L b</s>
+<s>OGLE-2016-BLG-1227 b</s>
+<s>OGLE-2016-BLG-1598 b</s>
+<s>OGLE-2016-BLG-1635 b</s>
+<s>OGLE-2016-BLG-1800 b</s>
+<s>OGLE-2016-BLG-1850 b</s>
+<s>OGLE-2017-BLG-0173L b</s>
+<s>OGLE-2017-BLG-0364 b</s>
+<s>OGLE-2017-BLG-0406 b</s>
+<s>OGLE-2017-BLG-0448 b</s>
+<s>OGLE-2017-BLG-0482 b</s>
+<s>OGLE-2017-BLG-0604 b</s>
+<s>OGLE-2017-BLG-0640 b</s>
+<s>OGLE-2017-BLG-1049 b</s>
+<s>OGLE-2017-BLG-1099 b</s>
+<s>OGLE-2017-BLG-1140L b</s>
+<s>OGLE-2017-BLG-1237 b</s>
+<s>OGLE-2017-BLG-1275 b</s>
+<s>OGLE-2017-BLG-1375 b</s>
+<s>OGLE-2017-BLG-1434L b</s>
+<s>OGLE-2017-BLG-1691L b</s>
+<s>OGLE-2017-BLG-1806 b</s>
+<s>OGLE-2018-BLG-0298 b</s>
+<s>OGLE-2018-BLG-0383 b</s>
+<s>OGLE-2018-BLG-0506 b</s>
+<s>OGLE-2018-BLG-0516 b</s>
+<s>OGLE-2018-BLG-0532 b</s>
+<s>OGLE-2018-BLG-0567L b</s>
+<s>OGLE-2018-BLG-0596 b</s>
+<s>OGLE-2018-BLG-0677L b</s>
+<s>OGLE-2018-BLG-0740L b</s>
+<s>OGLE-2018-BLG-0799L b</s>
+<s>OGLE-2018-BLG-0932 b</s>
+<s>OGLE-2018-BLG-0962</s>
+<s>OGLE-2018-BLG-0977 b</s>
+<s>OGLE-2018-BLG-1011L b</s>
+<s>OGLE-2018-BLG-1011L c</s>
+<s>OGLE-2018-BLG-1119 b</s>
+<s>OGLE-2018-BLG-1126 b</s>
+<s>OGLE-2018-BLG-1185 b</s>
+<s>OGLE-2018-BLG-1212 b</s>
+<s>OGLE-2018-BLG-1269L b</s>
+<s>OGLE-2018-BLG-1367 b</s>
+<s>OGLE-2018-BLG-1428L b</s>
+<s>OGLE-2018-BLG-1544 b</s>
+<s>OGLE-2018-BLG-1647 b</s>
+<s>OGLE-2018-BLG-1700L b</s>
+<s>OGLE-2019-BLG-0249 b</s>
+<s>OGLE-2019-BLG-0299 b</s>
+<s>OGLE-2019-BLG-0304 b</s>
+<s>OGLE-2019-BLG-0362 b</s>
+<s>OGLE-2019-BLG-0468L b</s>
+<s>OGLE-2019-BLG-0468L c</s>
+<s>OGLE-2019-BLG-0679 b</s>
+<s>OGLE-2019-BLG-0960L b</s>
+<s>OGLE-2019-BLG-1053L b</s>
+<s>OGLE-2019-BLG-1180L b</s>
+<s>OGLE-2019-BLG-1470L (AB)b</s>
+<s>OGLE-2019-BLG-1492 b</s>
+<s>OGLE-2023-BLG-0836L (AB)b</s>
+<s>OGLE2-TR-L9 b</s>
+<s>OGLE-GD-ECL-11388 (AB)b</s>
+<s>OGLE-TR-10 b</s>
+<s>OGLE-TR-111 b</s>
+<s>OGLE-TR-113 b</s>
+<s>OGLE-TR-132 b</s>
+<s>OGLE-TR-182 b</s>
+<s>OGLE-TR-211 b</s>
+<s>OGLE-TR-56 b</s>
+<s>ome Cen-H b</s>
+<s>ome Ser Ab</s>
+<s>omi CrB b</s>
+<s>omi UMa Ab</s>
+<s>OY Car b</s>
+<s>PDS 70 b</s>
+<s>PDS 70 c</s>
+<s>pi2 UMa b</s>
+<s>pi Men b</s>
+<s>pi Men c</s>
+<s>pi Men d</s>
+<s>Pollux b</s>
+<s>POTS-1 b</s>
+<s>Pr 0201 b</s>
+<s>Pr 0211 Ab</s>
+<s>Pr 0211 Ac</s>
+<s>Proxima Centauri b</s>
+<s>Proxima Centauri d</s>
+<s>psi1 Aqr Ab</s>
+<s>psi1 Dra Bb</s>
+<s>PSR 1719-14 b</s>
+<s>PSR B0329+54 b</s>
+<s>PSR B0943+10 b</s>
+<s>PSR B0943+10 c</s>
+<s>PSR B1257+12 c</s>
+<s>PSR B1257+12 d</s>
+<s>PSR B1620-26 (AB)b</s>
+<s>PSR B1802-07 b</s>
+<s>PSR J0312-0921 b</s>
+<s>PSR J0636+5129	b</s>
+<s>PSR J1211-0633 b</s>
+<s>PSR J1311-3430 b</s>
+<s>PSR J1630+3550 b</s>
+<s>PSR J1748-2021H</s>
+<s>PSR J1807-2459 A b</s>
+<s>PSR J1824-2452G b</s>
+<s>PSR J1824-2452M b</s>
+<s>PSR J1928+1245 b</s>
+<s>PSR J2241-5236 b</s>
+<s>PSR J2322-2650 b</s>
+<s>Qatar-10 b</s>
+<s>Qatar-1 Ab</s>
+<s>Qatar-2 b</s>
+<s>Qatar-3 Ab</s>
+<s>Qatar-4 b</s>
+<s>Qatar-5 b</s>
+<s>Qatar-6 Ab</s>
+<s>Qatar-7 b</s>
+<s>Qatar-8 b</s>
+<s>Qatar-9 b</s>
+<s>QZ Ser b</s>
+<s>rho CrB b</s>
+<s>rho Crb c</s>
+<s>rho Crb d</s>
+<s>rho Crb e</s>
+<s>rho Ind b</s>
+<s>Ross 128 b</s>
+<s>Ross 176 b</s>
+<s>Ross 458 (AB)b</s>
+<s>Ross 508 b</s>
+<s>RR Cae (AB) b</s>
+<s>S1429 b</s>
+<s>Sand 178 b</s>
+<s>SDSS J1208+3550 b</s>
+<s>SDSS J1212+0136 b</s>
+<s>SDSS J1730+5545 b</s>
+<s>SOI-1 b</s>
+<s>SOI-2 b</s>
+<s>SOI-7 b</s>
+<s>SPECULOOS-3 b</s>
+<s>SWEEPS-04 b</s>
+<s>SWEEPS-11 b</s>
+<s>SWIFT J1756-2508 b</s>
+<s>TAP 26 b</s>
+<s>tau1 Gru b</s>
+<s>tau Boo Ab</s>
+<s>tau Cet e</s>
+<s>tau Cet f</s>
+<s>tau Cet g</s>
+<s>tau Cet h</s>
+<s>TCP J050742+244755 b</s>
+<s>Teegarden's b</s>
+<s>Teegarden's c</s>
+<s>Teegarden's d</s>
+<s>TIC 118798035 b</s>
+<s>TIC 118798035 c</s>
+<s>TIC 118798035 d</s>
+<s>TIC 12999193 b</s>
+<s>TIC 139270665 b</s>
+<s>TIC 139270665 c</s>
+<s>TIC 156514476 b</s>
+<s>TIC 165227846 b</s>
+<s>TIC 172900988 (AB)b</s>
+<s>TIC 231080232 b</s>
+<s>TIC 231949697 b</s>
+<s>TIC 237913194 b</s>
+<s>TIC 241249530 b</s>
+<s>TIC 251090642 b</s>
+<s>TIC 262605715 b</s>
+<s>TIC 268727719 b</s>
+<s>TIC 279401253 b</s>
+<s>TIC 279401253 c</s>
+<s>TIC 290048573 b</s>
+<s>TIC 303682623 b</s>
+<s>TIC 311276853 b</s>
+<s>TIC 365102760 b</s>
+<s>TIC 434398831 b</s>
+<s>TIC 434398831 c</s>
+<s>TIC 46432937 b</s>
+<s>TIC 4672985</s>
+<s>TIC 88785435 b</s>
+<s>TOI-1011 b</s>
+<s>TOI-1052 Ab</s>
+<s>TOI-1052 Ac</s>
+<s>TOI-1062 b</s>
+<s>TOI-1062 c</s>
+<s>TOI-1064 b</s>
+<s>TOI-1064 c</s>
+<s>TOI-1075 b</s>
+<s>TOI-1097 b</s>
+<s>TOI-1097 c</s>
+<s>TOI-1098 Ab</s>
+<s>TOI-1107 b</s>
+<s>TOI-1117 b</s>
+<s>TOI-1117 c</s>
+<s>TOI-1117 d</s>
+<s>TOI-1130 b</s>
+<s>TOI-1130 c</s>
+<s>TOI-1135 b</s>
+<s>TOI-1136 b</s>
+<s>TOI-1136 c</s>
+<s>TOI-1136 d</s>
+<s>TOI-1136 e</s>
+<s>TOI-1136 f</s>
+<s>TOI-1136 g</s>
+<s>TOI-1173 Ab</s>
+<s>TOI-1174 b</s>
+<s>TOI-1180 b</s>
+<s>TOI-1181 b</s>
+<s>TOI-1184 b</s>
+<s>TOI-1194 b</s>
+<s>TOI-1199 b</s>
+<s>TOI-1201 Ab</s>
+<s>TOI-1203 Ab</s>
+<s>TOI-1203 Ac</s>
+<s>TOI-1203 Ad</s>
+<s>TOI-1203 Ae</s>
+<s>TOI-1221 b</s>
+<s>TOI-1224 b</s>
+<s>TOI-1224 c</s>
+<s>TOI-1227 Bb</s>
+<s>TOI-122 b</s>
+<s>TOI-1231 b</s>
+<s>TOI-1235 b</s>
+<s>TOI-1238 b</s>
+<s>TOI-1238 c</s>
+<s>TOI-1244 b</s>
+<s>TOI-1246 Ab</s>
+<s>TOI-1246 Ac</s>
+<s>TOI-1246 Ad</s>
+<s>TOI-1246 Ae</s>
+<s>TOI-1247 b</s>
+<s>TOI-1248 Ab</s>
+<s>TOI-1249 b</s>
+<s>TOI-1259 Ab</s>
+<s>TOI-125 b</s>
+<s>TOI-125 c</s>
+<s>TOI-125 d</s>
+<s>TOI-1260 b</s>
+<s>TOI-1260 c</s>
+<s>TOI-1260 d</s>
+<s>TOI-1266 b</s>
+<s>TOI-1266 c</s>
+<s>TOI-1266 d</s>
+<s>TOI-1268 b</s>
+<s>TOI-1269 b</s>
+<s>TOI-1272 b</s>
+<s>TOI-1272 c</s>
+<s>TOI-1273 b</s>
+<s>TOI-1279 b</s>
+<s>TOI-1288 b</s>
+<s>TOI-1288 c</s>
+<s>TOI-128 Ab</s>
+<s>TOI-1294 b</s>
+<s>TOI-1294 c</s>
+<s>TOI-1295 b</s>
+<s>TOI-1296 b</s>
+<s>TOI-1298 b</s>
+<s>TOI-132 Ab</s>
+<s>TOI-1333 Ab</s>
+<s>TOI-1338 (AB)b</s>
+<s>TOI-1338 (AB)c</s>
+<s>TOI-1346 b</s>
+<s>TOI-1346 c</s>
+<s>TOI-1347 b</s>
+<s>TOI-1347 c</s>
+<s>TOI-1386 b</s>
+<s>TOI-1386 c</s>
+<s>TOI-139 b</s>
+<s>TOI-1408 b</s>
+<s>TOI-1408 c</s>
+<s>TOI-1410 Ab</s>
+<s>TOI-1410 Ac</s>
+<s>TOI-1411 Ab</s>
+<s>TOI-1416 b</s>
+<s>TOI-1416 c</s>
+<s>TOI-1420 b</s>
+<s>TOI-1422 b</s>
+<s>TOI-1422 c</s>
+<s>TOI-1430 b</s>
+<s>TOI-1431 b</s>
+<s>TOI-1437 b</s>
+<s>TOI-1439 b</s>
+<s>TOI-1442 b</s>
+<s>TOI-1443 b</s>
+<s>TOI-1444 b</s>
+<s>TOI-1444 c</s>
+<s>TOI-1448 b</s>
+<s>TOI-1450 Ab</s>
+<s>TOI-1450 Ac</s>
+<s>TOI-1451 b</s>
+<s>TOI-1452 Ab</s>
+<s>TOI-1453 Ab</s>
+<s>TOI-1453 Ac</s>
+<s>TOI-1467 b</s>
+<s>TOI-1468 b</s>
+<s>TOI-1468 c</s>
+<s>TOI-1470 b</s>
+<s>TOI-1470 c</s>
+<s>TOI-1471 b</s>
+<s>TOI-1471 c</s>
+<s>TOI-1472 b</s>
+<s>TOI-1472 c</s>
+<s>TOI-1473 Ab</s>
+<s>TOI-1478 b</s>
+<s>TOI-150 b</s>
+<s>TOI-1516 Ab</s>
+<s>TOI-1518 b</s>
+<s>TOI-157 b</s>
+<s>TOI-1601 b</s>
+<s>TOI-1605 b</s>
+<s>TOI-1634 Ab</s>
+<s>TOI-163 b</s>
+<s>TOI-1648 b</s>
+<s>TOI-1669 b</s>
+<s>TOI-1669 c</s>
+<s>TOI-1670 b</s>
+<s>TOI-1670 c</s>
+<s>TOI-1680 b</s>
+<s>TOI-1683 b</s>
+<s>TOI-1685 b</s>
+<s>TOI-1691 b</s>
+<s>TOI-1693 b</s>
+<s>TOI-1694 b</s>
+<s>TOI-1694 c</s>
+<s>TOI-1695 b</s>
+<s>TOI-1696 Ab</s>
+<s>TOI-169 b</s>
+<s>TOI-1710 Ab</s>
+<s>TOI-1716 b</s>
+<s>TOI-1723 b</s>
+<s>TOI-1728 b</s>
+<s>TOI-172 Ab</s>
+<s>TOI-1736 Ab</s>
+<s>TOI-1736 Ac</s>
+<s>TOI-1739 b</s>
+<s>TOI-1742 b</s>
+<s>TOI-1743 b</s>
+<s>TOI-1749 Ab</s>
+<s>TOI-1749 Ac</s>
+<s>TOI-1749 Ad</s>
+<s>TOI-1751 b</s>
+<s>TOI-1753 b</s>
+<s>TOI-1758 b</s>
+<s>TOI-1759 Ab</s>
+<s>TOI-1775 b</s>
+<s>TOI-1776 b</s>
+<s>TOI-1778 b</s>
+<s>TOI-1789 b</s>
+<s>TOI-178 b</s>
+<s>TOI-178 c</s>
+<s>TOI-178 d</s>
+<s>TOI-178 e</s>
+<s>TOI-178 f</s>
+<s>TOI-178 g</s>
+<s>TOI-1794 b</s>
+<s>TOI-1798 b</s>
+<s>TOI-1798 c</s>
+<s>TOI-1799 b</s>
+<s>TOI-179 Ab</s>
+<s>TOI-1801 Ab</s>
+<s>TOI-1803 b</s>
+<s>TOI-1803 c</s>
+<s>TOI-1806 b</s>
+<s>TOI-1807 b</s>
+<s>TOI-1811 b</s>
+<s>TOI-181 b</s>
+<s>TOI-1820 Ab</s>
+<s>TOI-1823 b</s>
+<s>TOI-1824 Ab</s>
+<s>TOI-1828 b</s>
+<s>TOI-1836 Ab</s>
+<s>TOI-1836 Ac</s>
+<s>TOI-1842 b</s>
+<s>TOI-1846 b</s>
+<s>TOI-1853 b</s>
+<s>TOI-1855 Ab</s>
+<s>TOI-1859 Ab</s>
+<s>TOI-1860 Ab</s>
+<s>TOI-1883 Ab</s>
+<s>TOI-1885 b</s>
+<s>TOI-1899 b</s>
+<s>TOI-1937 Ab</s>
+<s>TOI-198 b</s>
+<s>TOI-199 Ab</s>
+<s>TOI-199 Ac</s>
+<s>TOI-2000 b</s>
+<s>TOI-2000 c</s>
+<s>TOI-2005 b</s>
+<s>TOI-2010 Ab</s>
+<s>TOI-2015 b</s>
+<s>TOI-2015 c</s>
+<s>TOI-2018 b</s>
+<s>TOI-2018 c</s>
+<s>TOI-2019 b</s>
+<s>TOI-201 b</s>
+<s>TOI-2025 b</s>
+<s>TOI-2031 Ab</s>
+<s>TOI-203 b</s>
+<s>TOI-2045 b</s>
+<s>TOI-2046 b</s>
+<s>TOI-2048 b</s>
+<s>TOI-2068 Ab</s>
+<s>TOI-206 b</s>
+<s>TOI-2076 b</s>
+<s>TOI-2076 c</s>
+<s>TOI-2076 d</s>
+<s>TOI-2076 e</s>
+<s>TOI-2081 b</s>
+<s>TOI-2084 Ab</s>
+<s>TOI-2088 b</s>
+<s>TOI-2093 b</s>
+<s>TOI-2093 c</s>
+<s>TOI-2095 b</s>
+<s>TOI-2095 c</s>
+<s>TOI-2096 b</s>
+<s>TOI-2096 c</s>
+<s>TOI-2107 b</s>
+<s>TOI-2109 b</s>
+<s>TOI-2120 b</s>
+<s>TOI-2128 Ab</s>
+<s>TOI-2134 b</s>
+<s>TOI-2134 c</s>
+<s>TOI-2136 b</s>
+<s>TOI-2141 b</s>
+<s>TOI-2141 c</s>
+<s>TOI-2141 d</s>
+<s>TOI-2145 b</s>
+<s>TOI-2152 Ab</s>
+<s>TOI-2154 b</s>
+<s>TOI-2158 b</s>
+<s>TOI-2169 Ab</s>
+<s>TOI-216 b</s>
+<s>TOI-216 c</s>
+<s>TOI-2180 b</s>
+<s>TOI-2184 b</s>
+<s>TOI-2193 Ab</s>
+<s>TOI-2194 b</s>
+<s>TOI-2196 b</s>
+<s>TOI-2202 b</s>
+<s>TOI-2202 c</s>
+<s>TOI-2207 b</s>
+<s>TOI-220 b</s>
+<s>TOI-2236 b</s>
+<s>TOI-2257 b</s>
+<s>TOI-2260 b</s>
+<s>TOI-2266 b</s>
+<s>TOI-2267 Ab</s>
+<s>TOI-2267 Ac</s>
+<s>TOI-2274 b</s>
+<s>TOI-2285 b</s>
+<s>TOI-2290 b</s>
+<s>TOI-2295 b</s>
+<s>TOI-2295 c</s>
+<s>TOI-2322 b</s>
+<s>TOI-2322 c</s>
+<s>TOI-2328 Ab</s>
+<s>TOI-2337 b</s>
+<s>TOI-2338 b</s>
+<s>TOI-2345 b</s>
+<s>TOI-2345 c</s>
+<s>TOI-2346 b</s>
+<s>TOI-2364 b</s>
+<s>TOI-2368 b</s>
+<s>TOI-2373 b</s>
+<s>TOI-2374 Bb</s>
+<s>TOI-2379 b</s>
+<s>TOI-237 b</s>
+<s>TOI-2382 b</s>
+<s>TOI-2384 Ab</s>
+<s>TOI-238 b</s>
+<s>TOI-238 c</s>
+<s>TOI-2406 b</s>
+<s>TOI-2407 b</s>
+<s>TOI-2411 b</s>
+<s>TOI-2411 c</s>
+<s>TOI-2416 b</s>
+<s>TOI-2420 b</s>
+<s>TOI-2421 b</s>
+<s>TOI-2427 b</s>
+<s>TOI-2427 c</s>
+<s>TOI-2431 b</s>
+<s>TOI-2443 b</s>
+<s>TOI-2443 c</s>
+<s>TOI-2445 b</s>
+<s>TOI-2449 b</s>
+<s>TOI-2458 b</s>
+<s>TOI-2458 c</s>
+<s>TOI-2459 Bb</s>
+<s>TOI-2485 b</s>
+<s>TOI-2497 b</s>
+<s>TOI-2498 b</s>
+<s>TOI-251 b</s>
+<s>TOI-2524 b</s>
+<s>TOI-2525 b</s>
+<s>TOI-2525 c</s>
+<s>TOI-2529 b</s>
+<s>TOI-2537 b</s>
+<s>TOI-2537 c</s>
+<s>TOI-2545 b</s>
+<s>TOI-2567 b</s>
+<s>TOI-2570 b</s>
+<s>TOI-257 b</s>
+<s>TOI-2580 Ab</s>
+<s>TOI-2583 Ab</s>
+<s>TOI-2587 Ab</s>
+<s>TOI-2589 b</s>
+<s>TOI-260 b</s>
+<s>TOI-261 b</s>
+<s>TOI-262 b</s>
+<s>TOI-2641 b</s>
+<s>TOI-2669 b</s>
+<s>TOI-266 b</s>
+<s>TOI-266 c</s>
+<s>TOI-269 b</s>
+<s>TOI-270 b</s>
+<s>TOI-270 c</s>
+<s>TOI-270 d</s>
+<s>TOI-2714 b</s>
+<s>TOI-277 Bb</s>
+<s>TOI-2796 b</s>
+<s>TOI-2803 Ab</s>
+<s>TOI-2818 b</s>
+<s>TOI-282 b</s>
+<s>TOI-282 c</s>
+<s>TOI-282 d</s>
+<s>TOI-283 b</s>
+<s>TOI-2842 b</s>
+<s>TOI-286 b</s>
+<s>TOI-286 c</s>
+<s>TOI-2876 b</s>
+<s>TOI-2886 b</s>
+<s>TOI-2969 b</s>
+<s>TOI-2977 Ab</s>
+<s>TOI-2981 b</s>
+<s>TOI-2986 b</s>
+<s>TOI-2989 b</s>
+<s>TOI-2992 b</s>
+<s>TOI-3023 b</s>
+<s>TOI-3071 b</s>
+<s>TOI-3082 b</s>
+<s>TOI-3135 b</s>
+<s>TOI-3160 Ab</s>
+<s>TOI-322 Ab</s>
+<s>TOI-3235 Ab</s>
+<s>TOI-3261 b</s>
+<s>TOI-3288 Ab</s>
+<s>TOI-329 b</s>
+<s>TOI-3321 Ab</s>
+<s>TOI-332 b</s>
+<s>TOI-3331 Ab</s>
+<s>TOI-3353 Ab</s>
+<s>TOI-3362 b</s>
+<s>TOI-3364 b</s>
+<s>TOI-3457 b</s>
+<s>TOI-3464 b</s>
+<s>TOI-3474 b</s>
+<s>TOI-3486 b</s>
+<s>TOI-3493 b</s>
+<s>TOI-3495 b</s>
+<s>TOI-3523 Ab</s>
+<s>TOI-3540 Ab</s>
+<s>TOI-3568 b</s>
+<s>TOI-3593 b</s>
+<s>TOI-3629 b</s>
+<s>TOI-3682 Ab</s>
+<s>TOI-3688 Ab</s>
+<s>TOI-3693 b</s>
+<s>TOI-3714 Ab</s>
+<s>TOI-3757 b</s>
+<s>TOI-375 b</s>
+<s>TOI-375 c</s>
+<s>TOI-375 d</s>
+<s>TOI-3785 b</s>
+<s>TOI-3807 b</s>
+<s>TOI-3819 b</s>
+<s>TOI-3837 b</s>
+<s>TOI-3856 b</s>
+<s>TOI-3877 b</s>
+<s>TOI-3884 b</s>
+<s>TOI-3894 b</s>
+<s>TOI-3912 b</s>
+<s>TOI-3919 b</s>
+<s>TOI-396A b</s>
+<s>TOI-396A c</s>
+<s>TOI-396A d</s>
+<s>TOI-3976 Ab</s>
+<s>TOI-3980 b</s>
+<s>TOI-3984 Ab</s>
+<s>TOI-4010 b</s>
+<s>TOI-4010 c</s>
+<s>TOI-4010 d</s>
+<s>TOI-4010 e</s>
+<s>TOI-402 Ab</s>
+<s>TOI-402 Ac</s>
+<s>TOI-406 b</s>
+<s>TOI-406 c</s>
+<s>TOI-4087 b</s>
+<s>TOI-4127 b</s>
+<s>TOI-4137 b</s>
+<s>TOI-4138 b</s>
+<s>TOI-4145 Ab</s>
+<s>TOI-4153 b</s>
+<s>TOI-4155 b</s>
+<s>TOI-4184 b</s>
+<s>TOI-4201 b</s>
+<s>TOI-4214 b</s>
+<s>TOI-421 Ab</s>
+<s>TOI-421 Ac</s>
+<s>TOI-429 b</s>
+<s>TOI-4308 b</s>
+<s>TOI-431 b</s>
+<s>TOI-431 c</s>
+<s>TOI-431 d</s>
+<s>TOI-4329 b</s>
+<s>TOI-4336 Ab</s>
+<s>TOI-4342 b</s>
+<s>TOI-4342 c</s>
+<s>TOI-4364 b</s>
+<s>TOI-4377 b</s>
+<s>TOI-4379 b</s>
+<s>TOI-4406 b</s>
+<s>TOI-4409 b</s>
+<s>TOI-4438 b</s>
+<s>TOI-4443 b</s>
+<s>TOI-444 Ab</s>
+<s>TOI-4463 Ab</s>
+<s>TOI-4465 b</s>
+<s>TOI-4468 b</s>
+<s>TOI-4468 c</s>
+<s>TOI-4479 b</s>
+<s>TOI-4481 b</s>
+<s>TOI-4481 c</s>
+<s>TOI-4487 Ab</s>
+<s>TOI-4495 b</s>
+<s>TOI-4504 b</s>
+<s>TOI-4504 c</s>
+<s>TOI-4504 d</s>
+<s>TOI-4507 b</s>
+<s>TOI-4515 b</s>
+<s>TOI-451 Ab</s>
+<s>TOI-451 Ac</s>
+<s>TOI-451 Ad</s>
+<s>TOI-4527 b</s>
+<s>TOI-4551 b</s>
+<s>TOI-4559 b</s>
+<s>TOI-4562 b</s>
+<s>TOI-4562 c</s>
+<s>TOI-4582 Ab</s>
+<s>TOI-4600 b</s>
+<s>TOI-4600 c</s>
+<s>TOI-4603 b</s>
+<s>TOI-4633 Ac</s>
+<s>TOI-4641 b</s>
+<s>TOI-4666 b</s>
+<s>TOI-469 b</s>
+<s>TOI-469 c</s>
+<s>TOI-469 d</s>
+<s>TOI-470 Ab</s>
+<s>TOI-4734 b</s>
+<s>TOI-4773 b</s>
+<s>TOI-4791 b</s>
+<s>TOI-4794 b</s>
+<s>TOI-480 b</s>
+<s>TOI-481 b</s>
+<s>TOI-4860 b</s>
+<s>TOI-4914 b</s>
+<s>TOI-4961 b</s>
+<s>TOI-4987 b</s>
+<s>TOI-4994 b</s>
+<s>TOI-5005 b</s>
+<s>TOI-5007 b</s>
+<s>TOI-500 b</s>
+<s>TOI-500 c</s>
+<s>TOI-500 d</s>
+<s>TOI-500 e</s>
+<s>TOI-5027 b</s>
+<s>TOI-5076 Ab</s>
+<s>TOI-5082 b</s>
+<s>TOI-5108 b</s>
+<s>TOI-5110 b</s>
+<s>TOI-5126 b</s>
+<s>TOI-5126 c</s>
+<s>TOI-512 b</s>
+<s>TOI-5143 Ac</s>
+<s>TOI-5153 b</s>
+<s>TOI-5174 b</s>
+<s>TOI-5181 Ab</s>
+<s>TOI-519 b</s>
+<s>TOI-5205 b</s>
+<s>TOI-5210 b</s>
+<s>TOI-5218 b</s>
+<s>TOI-521 b</s>
+<s>TOI-521 c</s>
+<s>TOI-5232 b</s>
+<s>TOI-5238 b</s>
+<s>TOI-5261 b</s>
+<s>TOI-5292 Ab</s>
+<s>TOI-5293 Ab</s>
+<s>TOI-5300 b</s>
+<s>TOI-5301 b</s>
+<s>TOI-530 b</s>
+<s>TOI-5319 Ab</s>
+<s>TOI-5322 b</s>
+<s>TOI-532 b</s>
+<s>TOI-5340 b</s>
+<s>TOI-5344 b</s>
+<s>TOI-5350 b</s>
+<s>TOI-5386 Ab</s>
+<s>TOI-5388 b</s>
+<s>TOI-5398 b</s>
+<s>TOI-5398 c</s>
+<s>TOI-540 b</s>
+<s>TOI-544 b</s>
+<s>TOI-5473 b</s>
+<s>TOI-5542 b</s>
+<s>TOI-554 b</s>
+<s>TOI-554 c</s>
+<s>TOI-5573 b</s>
+<s>TOI-558 b</s>
+<s>TOI-5592 b</s>
+<s>TOI-559 b</s>
+<s>TOI-5616 b</s>
+<s>TOI-561 b</s>
+<s>TOI-561 c</s>
+<s>TOI-561 d</s>
+<s>TOI-561 e</s>
+<s>TOI-561 f</s>
+<s>TOI-5634 Ab</s>
+<s>TOI-564 Ab</s>
+<s>TOI-5678 b</s>
+<s>TOI-5688 Ab</s>
+<s>TOI-5713 b</s>
+<s>TOI-5720 b</s>
+<s>TOI-5786 b</s>
+<s>TOI-5789 Ab</s>
+<s>TOI-5789 Ac</s>
+<s>TOI-5789 Ad</s>
+<s>TOI-5789 Ae</s>
+<s>TOI-5795 b</s>
+<s>TOI-5799 b</s>
+<s>TOI-5799 c</s>
+<s>TOI-5800 b</s>
+<s>TOI-5803 b</s>
+<s>TOI-5817 b</s>
+<s>TOI-5916 b</s>
+<s>TOI-6000 b</s>
+<s>TOI-6002 b</s>
+<s>TOI-6008 b</s>
+<s>TOI-6016 b</s>
+<s>TOI-6029 b</s>
+<s>TOI-6034 Bb</s>
+<s>TOI-6035 b</s>
+<s>TOI-6038 Ab</s>
+<s>TOI-603 b</s>
+<s>TOI-6054 b</s>
+<s>TOI-6054 c</s>
+<s>TOI-6055 b</s>
+<s>TOI-6086 b</s>
+<s>TOI-6109 b</s>
+<s>TOI-6109 c</s>
+<s>TOI-6130 b</s>
+<s>TOI-6158 b</s>
+<s>TOI-615 b</s>
+<s>TOI-620 b</s>
+<s>TOI-6223 b</s>
+<s>TOI-622 b</s>
+<s>TOI-6255 b</s>
+<s>TOI-628 b</s>
+<s>TOI-6303 b</s>
+<s>TOI-6324 b</s>
+<s>TOI-6330 b</s>
+<s>TOI-6383 Ab</s>
+<s>TOI-640 Ab</s>
+<s>TOI-6420 b</s>
+<s>TOI-6448 b</s>
+<s>TOI-6478 b</s>
+<s>TOI-654 b</s>
+<s>TOI-6628 b</s>
+<s>TOI-663 b</s>
+<s>TOI-663 c</s>
+<s>TOI-663 d</s>
+<s>TOI-6651 b</s>
+<s>TOI-6695 b</s>
+<s>TOI-6695 c</s>
+<s>TOI-669 b</s>
+<s>TOI-672 b</s>
+<s>TOI-674 b</s>
+<s>TOI-677 b</s>
+<s>TOI-682 b</s>
+<s>TOI-682 c</s>
+<s>TOI-6883 Ab</s>
+<s>TOI-6883 Ac</s>
+<s>TOI-6894 b</s>
+<s>TOI-700 b</s>
+<s>TOI-700 c</s>
+<s>TOI-700 d</s>
+<s>TOI-700 e</s>
+<s>TOI-7018 b</s>
+<s>TOI-7041 b</s>
+<s>TOI-707 b</s>
+<s>TOI-7081 b</s>
+<s>TOI-712 b</s>
+<s>TOI-712 c</s>
+<s>TOI-712 d</s>
+<s>TOI-7149 b</s>
+<s>TOI-715 b</s>
+<s>TOI-7166 b</s>
+<s>TOI-733 b</s>
+<s>TOI-756 Ab</s>
+<s>TOI-756 Ac</s>
+<s>TOI-757 b</s>
+<s>TOI-762 Ab</s>
+<s>TOI-763 Ab</s>
+<s>TOI-763 Ac</s>
+<s>TOI-771 b</s>
+<s>TOI-771 c</s>
+<s>TOI-776 b</s>
+<s>TOI-776 c</s>
+<s>TOI-778 b</s>
+<s>TOI-782 b</s>
+<s>TOI-784 b</s>
+<s>TOI-784 c</s>
+<s>TOI-813 b</s>
+<s>TOI-815 Ab</s>
+<s>TOI-815 Ac</s>
+<s>TOI-824 b</s>
+<s>TOI-833 Ab</s>
+<s>TOI-836 b</s>
+<s>TOI-836 c</s>
+<s>TOI-837 Ab</s>
+<s>TOI-849 b</s>
+<s>TOI-858 Bb</s>
+<s>TOI-871 b</s>
+<s>TOI-880 Ab</s>
+<s>TOI-880 Ac</s>
+<s>TOI-880 Ad</s>
+<s>TOI-892 b</s>
+<s>TOI-904 b</s>
+<s>TOI-904 c</s>
+<s>TOI-905 Ab</s>
+<s>TOI-907 Ab</s>
+<s>TOI-908 b</s>
+<s>TOI-912 b</s>
+<s>TOI-913 b</s>
+<s>TOI-942 b</s>
+<s>TOI-942 c</s>
+<s>TOI-954 Ab</s>
+<s>TOI-969 b</s>
+<s>TOI-969 c</s>
+<s>TRAPPIST-1 b</s>
+<s>TRAPPIST-1 c</s>
+<s>TRAPPIST-1 d</s>
+<s>TRAPPIST-1 e</s>
+<s>TRAPPIST-1 f</s>
+<s>TRAPPIST-1 g</s>
+<s>TRAPPIST-1 h</s>
+<s>TrES-1 Ab</s>
+<s>TrES-2 Ab</s>
+<s>TrES-3 b</s>
+<s>TrES-4 Ab</s>
+<s>TrES-5 b</s>
+<s>TVLM 513-46546 b</s>
+<s>TWA 7 b</s>
+<s>TW Hya b</s>
+<s>TYC 1422-614-1 b</s>
+<s>TYC 1422-614-1 c</s>
+<s>TYC 2187-512-1 b</s>
+<s>TYC 3318-01333-1 b</s>
+<s>TYC 3667-1280-1 b</s>
+<s>TYC 4282-605-1 b</s>
+<s>TYC 8998-760-1 c</s>
+<s>UKIRT-2017-BLG-001 b</s>
+<s>ups And Ab</s>
+<s>ups And Ac</s>
+<s>ups And Ae</s>
+<s>ups Leo b</s>
+<s>UX Tau Ab</s>
+<s>UZ For (AB) b</s>
+<s>UZ For (AB) c</s>
+<s>V2051 Oph (AB)b</s>
+<s>V808 Aur (AB)b</s>
+<s>WASP-100 Ab</s>
+<s>WASP-101 b</s>
+<s>WASP-102 b</s>
+<s>WASP-103 b</s>
+<s>WASP-104 Ab</s>
+<s>WASP-105 b</s>
+<s>WASP-106 b</s>
+<s>WASP-107 b</s>
+<s>WASP-107 c</s>
+<s>WASP-108 Ab</s>
+<s>WASP-109 b</s>
+<s>WASP-10 b</s>
+<s>WASP-110 b</s>
+<s>WASP-111 Ab</s>
+<s>WASP-112 b</s>
+<s>WASP-113 Ab</s>
+<s>WASP-114 Ab</s>
+<s>WASP-116 b</s>
+<s>WASP-117 b</s>
+<s>WASP-118 Ab</s>
+<s>WASP-119 b</s>
+<s>WASP-120 Ab</s>
+<s>WASP-121 b</s>
+<s>WASP-122 Ab</s>
+<s>WASP-123 Ab</s>
+<s>WASP-124 b</s>
+<s>WASP-126 b</s>
+<s>WASP-126 c</s>
+<s>WASP-127 Ab</s>
+<s>WASP-129 Ab</s>
+<s>WASP-12 Ab</s>
+<s>WASP-130 Ab</s>
+<s>WASP-131 Ab</s>
+<s>WASP-132 b</s>
+<s>WASP-132 c</s>
+<s>WASP-132 d</s>
+<s>WASP-133 b</s>
+<s>WASP-134 b</s>
+<s>WASP-134 c</s>
+<s>WASP-135 b</s>
+<s>WASP-136 Ab</s>
+<s>WASP-137 Ab</s>
+<s>WASP-138 b</s>
+<s>WASP-139 Ab</s>
+<s>WASP-13 b</s>
+<s>WASP-140 Ab</s>
+<s>WASP-141 b</s>
+<s>WASP-142 b</s>
+<s>WASP-143 b</s>
+<s>WASP-144 b</s>
+<s>WASP-145 Ab</s>
+<s>WASP-146 b</s>
+<s>WASP-147 b</s>
+<s>WASP-148 b</s>
+<s>WASP-148 c</s>
+<s>WASP-149 b</s>
+<s>WASP-14 Ab</s>
+<s>WASP-150 b</s>
+<s>WASP-151 b</s>
+<s>WASP-153 Ab</s>
+<s>WASP-154 b</s>
+<s>WASP-155 b</s>
+<s>WASP-156 b</s>
+<s>WASP-157 b</s>
+<s>WASP-158 b</s>
+<s>WASP-159 b</s>
+<s>WASP-15 b</s>
+<s>WASP-160 Bb</s>
+<s>WASP-161 b</s>
+<s>WASP-162 b</s>
+<s>WASP-163 Ab</s>
+<s>WASP-164 b</s>
+<s>WASP-165 b</s>
+<s>WASP-166 b</s>
+<s>WASP-167 b</s>
+<s>WASP-168 Ab</s>
+<s>WASP-169 b</s>
+<s>WASP-16 b</s>
+<s>WASP-16 c</s>
+<s>WASP-170 Ab</s>
+<s>WASP-171 b</s>
+<s>WASP-172 b</s>
+<s>WASP-174 b</s>
+<s>WASP-175 Ab</s>
+<s>WASP-176 b</s>
+<s>WASP-177 b</s>
+<s>WASP-178 b</s>
+<s>WASP-17 b</s>
+<s>WASP-180 Ab</s>
+<s>WASP-181 b</s>
+<s>WASP-182 b</s>
+<s>WASP-183 b</s>
+<s>WASP-184 b</s>
+<s>WASP-185 b</s>
+<s>WASP-186 b</s>
+<s>WASP-187 b</s>
+<s>WASP-188 Ab</s>
+<s>WASP-189 Ab</s>
+<s>WASP-18 Ab</s>
+<s>WASP-18 Ac</s>
+<s>WASP-190 b</s>
+<s>WASP-192 b</s>
+<s>WASP-193 Ab</s>
+<s>WASP-194 Ab</s>
+<s>WASP-195 b</s>
+<s>WASP-197 b</s>
+<s>WASP-19 Ab</s>
+<s>WASP-1 Ab</s>
+<s>WASP-20 Ab</s>
+<s>WASP-21 b</s>
+<s>WASP-22 b</s>
+<s>WASP-23 b</s>
+<s>WASP-24 Ab</s>
+<s>WASP-25 b</s>
+<s>WASP-26 Ab</s>
+<s>WASP-28 b</s>
+<s>WASP-29 Ab</s>
+<s>WASP-2 Ab</s>
+<s>WASP-31 b</s>
+<s>WASP-32 b</s>
+<s>WASP-33 Ab</s>
+<s>WASP-34 b</s>
+<s>WASP-35 b</s>
+<s>WASP-36 Ab</s>
+<s>WASP-37 b</s>
+<s>WASP-38 b</s>
+<s>WASP-39 b</s>
+<s>WASP-3 Ab</s>
+<s>WASP-41 b</s>
+<s>WASP-41 c</s>
+<s>WASP-42 b</s>
+<s>WASP-43 b</s>
+<s>WASP-44 b</s>
+<s>WASP-45 Ab</s>
+<s>WASP-46 b</s>
+<s>WASP-47 b</s>
+<s>WASP-47 c</s>
+<s>WASP-47 d</s>
+<s>WASP-47 e</s>
+<s>WASP-48 b</s>
+<s>WASP-49 Ab</s>
+<s>WASP-4 b</s>
+<s>WASP-4 c</s>
+<s>WASP-50 b</s>
+<s>WASP-52 b</s>
+<s>WASP-53 b</s>
+<s>WASP-54 Ab</s>
+<s>WASP-55 Ab</s>
+<s>WASP-56 Ab</s>
+<s>WASP-57 b</s>
+<s>WASP-58 Ab</s>
+<s>WASP-59 Ab</s>
+<s>WASP-5 b</s>
+<s>WASP-60 b</s>
+<s>WASP-61 b</s>
+<s>WASP-62 b</s>
+<s>WASP-63 b</s>
+<s>WASP-64 Bb</s>
+<s>WASP-65 b</s>
+<s>WASP-66 b</s>
+<s>WASP-67 b</s>
+<s>WASP-68 Ab</s>
+<s>WASP-69 b</s>
+<s>WASP-6 b</s>
+<s>WASP-70 Ab</s>
+<s>WASP-71 Ab</s>
+<s>WASP-72 Ab</s>
+<s>WASP-73 b</s>
+<s>WASP-74 b</s>
+<s>WASP-75 Ab</s>
+<s>WASP-76 Ab</s>
+<s>WASP-77 Ab</s>
+<s>WASP-78 b</s>
+<s>WASP-79 b</s>
+<s>WASP-7 b</s>
+<s>WASP-80 b</s>
+<s>WASP-81 b</s>
+<s>WASP-82 b</s>
+<s>WASP-83 b</s>
+<s>WASP-84 b</s>
+<s>WASP-84 c</s>
+<s>WASP-85 Ab</s>
+<s>WASP-87 Ab</s>
+<s>WASP-88 b</s>
+<s>WASP-89 b</s>
+<s>WASP-8 Ab</s>
+<s>WASP-90 b</s>
+<s>WASP-91 b</s>
+<s>WASP-92 b</s>
+<s>WASP-93 b</s>
+<s>WASP-94 Ab</s>
+<s>WASP-94 Bb</s>
+<s>WASP-95 b</s>
+<s>WASP-96 b</s>
+<s>WASP-97 b</s>
+<s>WASP-98 Ab</s>
+<s>WASP-99 b</s>
+<s>WD 0310-688 b</s>
+<s>WD 0806-661 B b</s>
+<s>WD 1856+534 Ab</s>
+<s>Wendelstein-1 Ab</s>
+<s>Wendelstein-2 b</s>
+<s>WIS 395 b</s>
+<s>WISE J1355-8258 b</s>
+<s>WISPIT 1 (AB)b</s>
+<s>WISPIT 1 (AB)c</s>
+<s>WISPIT 2 b</s>
+<s>Wolf 1061 b</s>
+<s>Wolf 1061 c</s>
+<s>Wolf 1061 d</s>
+<s>Wolf 1069 b</s>
+<s>Wolf 327 b</s>
+<s>Wolf 359 c</s>
+<s>Wolf 503 b</s>
+<s>WTS-1 b</s>
+<s>WTS-2 b</s>
+<s>XO-1 b</s>
+<s>XO-2N b</s>
+<s>XO-2S b</s>
+<s>XO-2S c</s>
+<s>XO-2S d</s>
+<s>XO-3 Ab</s>
+<s>XO-4 b</s>
+<s>XO-5 b</s>
+<s>XO-6 b</s>
+<s>XO-7 b</s>
+<s>XTE J0929-314 b</s>
+<s>YBP 1194 b</s>
+<s>YBP 1514 b</s>
+<s>YBP 401 b</s>
+<s>YZ Cet b</s>
+<s>YZ Cet c</s>
+<s>YZ Cet d</s>
