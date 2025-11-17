@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+loguru
+scipy
+scikit-learn
+pandas
+seaborn
+matplotlib
+numpy
+pyarrow
+torch
