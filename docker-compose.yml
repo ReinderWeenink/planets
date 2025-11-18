@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  backend-app:
+    # 1. Build the image using the Dockerfile located in the current directory ('.').
+    #    The build process will automatically execute all steps in your Dockerfile,
+    #    including the mount for the 'dist' directory.
+    build:
+      context: .
+    
+    # 2. Map the container port (80, as per EXPOSE 80 in Dockerfile) to a host port (8080).
+    #    You can access the application via http://localhost:8080.
+    ports:
+      - "8080:80"
+      
+    # 3. Assign a friendly name to the container instance.
+    container_name: planet_name_generator
+    
+    # 4. Configure the container to restart automatically unless it is explicitly stopped.
+    restart: unless-stopped
+    
+    # 5. Health Check configuration
+    healthcheck:
+      # Use curl to check if the root path returns an HTTP success status (exit code 0).
+      test: ["CMD", "curl", "--fail", "http://localhost/"] 
+      # Start checking after 5 seconds to give the server time to initialize.
+      start_period: 5s 
+      # Check every 30 seconds.
+      interval: 30s
+      # Wait up to 10 seconds for the check command to complete.
+      timeout: 10s
+      # Consider the container unhealthy after 3 consecutive failures.
+      retries: 3 
+    
+    # NOTE ON BUILD: For the build process to succeed (specifically the RUN --mount step),
+    # ensure that the 'dist' directory (containing your .whl files) and the 
+    # 'backend/' and 'artefacts/' directories are present in the same location 
+    # as this docker-compose.yml file.
