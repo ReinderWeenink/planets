@@ -5,10 +5,162 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Planet Name Generator</title>
     <link rel="stylesheet" href="static/styles.css" />
+    <style>
+      /* --- Planet Theme Styles --- */
+
+      /* Set a background image and dark space theme */
+      body {
+        background-color: #0b0c10; /* Very dark background */
+        background-image: url('https://images.unsplash.com/photo-1502134249126-9f3755a50d78?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'); /* Starry/Galaxy image (replace with your own path/URL) */
+        background-size: cover;
+        background-attachment: fixed;
+        color: #e0f7fa; /* Light, pale blue for text */
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Clean, modern font */
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+      }
+
+      /* Container styling: semi-transparent panel floating in space */
+      .container {
+        background-color: rgba(17, 25, 40, 0.85); /* Dark semi-transparent background */
+        backdrop-filter: blur(10px); /* Blur effect for a futuristic glass panel look */
+        padding: 40px;
+        border-radius: 20px;
+        box-shadow: 0 0 40px rgba(70, 130, 180, 0.5); /* Glowing blue shadow */
+        max-width: 900px;
+        width: 90%;
+        margin: 20px;
+      }
+
+      /* Heading styles: prominent and space-age */
+      h1, h2 {
+        color: #82a8f9; /* Bright, celestial blue */
+        text-align: center;
+        margin-bottom: 25px;
+        text-shadow: 0 0 8px rgba(130, 168, 249, 0.7);
+        font-weight: normal;
+      }
+      
+      h2 {
+          margin-top: 40px;
+          padding-top: 15px;
+          border-top: 1px solid rgba(130, 168, 249, 0.3);
+      }
+
+
+      /* Control section layout */
+      .controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 30px;
+        padding: 15px;
+        background-color: rgba(130, 168, 249, 0.1); /* Light blue tint for controls area */
+        border-radius: 10px;
+      }
+
+      /* Input and label styling */
+      label {
+        font-size: 1.1em;
+        color: #b3cde0;
+      }
+
+      input[type="number"],
+      #temp-value {
+        padding: 8px;
+        border: 1px solid #4682b4; /* Steel blue border */
+        border-radius: 5px;
+        background-color: #171d2b; /* Darker input background */
+        color: #e0f7fa;
+        text-align: center;
+      }
+
+      input[type="range"] {
+        -webkit-appearance: none;
+        width: 150px;
+        height: 8px;
+        background: #4682b4;
+        border-radius: 4px;
+      }
+      input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        appearance: none;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: #82a8f9; /* Bright blue thumb */
+        cursor: pointer;
+        box-shadow: 0 0 5px #82a8f9;
+      }
+
+      /* Button styling: Galactic accent */
+      #generate-btn {
+        background-color: #82a8f9; /* Celestial blue background */
+        color: #0b0c10;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 20px;
+        cursor: pointer;
+        font-size: 1.1em;
+        transition: background-color 0.3s, transform 0.1s;
+      }
+
+      #generate-btn:hover {
+        background-color: #6a8ce8;
+        transform: scale(1.05);
+      }
+      
+      /* Word containers */
+      .words-container,
+      .starred-container {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 15px;
+        justify-content: center;
+        min-height: 50px;
+        padding: 10px;
+      }
+
+      /* Generated word items */
+      .word-item {
+        background-color: rgba(70, 130, 180, 0.2); /* Semi-transparent steel blue */
+        padding: 8px 15px;
+        border-radius: 5px;
+        border: 1px solid #4682b4;
+        cursor: pointer;
+        transition: background-color 0.2s, box-shadow 0.2s;
+        font-size: 1.1em;
+      }
+
+      .word-item:hover {
+        background-color: rgba(70, 130, 180, 0.4);
+      }
+      
+      /* Starred (selected) words */
+      .word-item.starred {
+        background-color: #ffcc00; /* A bright, contrasting "star" color */
+        color: #171d2b; /* Dark text for contrast */
+        border: 1px solid #ffaa00;
+        box-shadow: 0 0 10px rgba(255, 204, 0, 0.8); /* Gold glow */
+        font-weight: 500;
+      }
+      
+      .starred-container .word-item.starred {
+          background-color: #ffaa00;
+          color: #0b0c10;
+      }
+
+    </style>
   </head>
   <body>
     <div class="container">
-      <h1>Planet Name Generator</h1>
+      <h1>🪐 Planet Name Generator 🚀</h1>
       <div class="controls">
         <label for="num_words">Number of name parts:</label>
         <input
@@ -35,7 +187,7 @@
         <button id="generate-btn">Generate Names</button>
       </div>
       <div class="words-container" id="words-container"></div>
-      <h2>Starred Names</h2>
+      <h2>🌟 Starred Names</h2>
       <div class="starred-container" id="starred-container"></div>
     </div>
 
