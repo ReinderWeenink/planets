@@ -10,6 +10,7 @@ COPY backend/app.py .
 COPY backend/utils.py .
 COPY backend/static static
 
+
 RUN --mount=type=bind,source=dist,target=/dist PYTHONDONTWRITEBYTECODE=1 uv pip install --system --no-cache-dir /dist/*.whl
     
 EXPOSE 80
