@@ -3,7 +3,7 @@ from contextlib import asynccontextmanager
 from pathlib import Path
 
 import torch
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from loguru import logger
@@ -95,7 +95,10 @@ class Word(BaseModel):
 
 
 @app.get("/generate")
-async def generate_words(num_words: int = 10, temperature: float = 1.0):
+async def generate_words(
+    num_words: int = Query(default=10, ge=1, description="Number of words to generate (minimum 1)"),
+    temperature: float = Query(default=1.0, ge=0, le=10, description="Temperature for sampling (0-10)")
+):
     try:
         words = new_words(num_words, temperature)
         return words
