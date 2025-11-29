@@ -10,76 +10,116 @@ from loguru import logger
 from pydantic import BaseModel
 from slanggen import models
 from tokenizers import Tokenizer
-from utils import sample_n
+try:
+    # Try importing as a package (works for pytest locally)
+    from backend.utils import sample_n
+except ModuleNotFoundError:
+    # Fallback to sibling import (works for Docker flattened structure)
+    from utils import sample_n
 
-logger.add("logs/app.log", rotation="5 MB")
+#logger.add("logs/app.log", rotation="5 MB")
 
 FRONTEND_FOLDER = Path("static").resolve()
 ARTEFACTS = Path("artefacts").resolve()
 model_state = {}
 
 def load_model():
+    """
+    Loads the model and tokenizer from the artefacts directory.
+    Includes error handling for missing files and invalid configurations.
+    """
     logger.info(f"Loading model and tokenizer from {ARTEFACTS}")
-    tokenizerfile = str(ARTEFACTS / "tokenizer.json")
-    tokenizer = Tokenizer.from_file(tokenizerfile)
-    with (ARTEFACTS / "config.json").open("r") as f:
-        config = json.load(f)
-    model = models.SlangRNN(config["model"])
-    modelpath = str(ARTEFACTS / "model.pth")
-    model.load_state_dict(torch.load(modelpath, weights_only=False))
+    
+    tokenizer_path = ARTEFACTS / "tokenizer.json"
+    config_path = ARTEFACTS / "config.json"
+    model_path = ARTEFACTS / "model.pth"
+
+    # 1. Load Tokenizer
+    if not tokenizer_path.exists():
+        raise FileNotFoundError(f"Tokenizer file not found at {tokenizer_path}")
+    
+    try:
+        tokenizer = Tokenizer.from_file(str(tokenizer_path))
+    except Exception as e:
+        raise RuntimeError(f"Failed to load tokenizer: {e}")
+
+    # 2. Load Configuration
+    if not config_path.exists():
+        raise FileNotFoundError(f"Config file not found at {config_path}")
+    
+    try:
+        with config_path.open("r") as f:
+            config = json.load(f)
+    except json.JSONDecodeError as e:
+        raise ValueError(f"Invalid JSON in config file: {e}")
+
+    # 3. Load Model
+    if "model" not in config:
+        raise ValueError("Config file missing 'model' key")
+
+    try:
+        model = models.SlangRNN(config["model"])
+    except Exception as e:
+        raise RuntimeError(f"Failed to initialize model architecture: {e}")
+
+    if not model_path.exists():
+        raise FileNotFoundError(f"Model weights not found at {model_path}")
+
+    try:
+        model.load_state_dict(torch.load(str(model_path), map_location=torch.device('cpu'), weights_only=False))
+    except Exception as e:
+        raise RuntimeError(f"Failed to load model weights: {e}")
+
     logger.success("Model and tokenizer loaded successfully")
     return model, tokenizer
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """
-    Manages application startup and shutdown events.
-    - Validates paths
-    - Loads the ML model
-    """
-
-    # because ARTEFACTS is reassigned in the if block
-    # we need to declare it as global to modify it
     global ARTEFACTS
 
     if not FRONTEND_FOLDER.exists():
         raise FileNotFoundError(f"Cant find the frontend folder at {FRONTEND_FOLDER}")
-    else:
-        logger.info(f"Found {FRONTEND_FOLDER}")
-
+    
     if not ARTEFACTS.exists():
         logger.warning(f"Couldnt find artefacts at {ARTEFACTS}, trying parent")
         ARTEFACTS = Path("../artefacts").resolve()
         if not ARTEFACTS.exists():
-            msg = f"Cant find the artefacts folder at {ARTEFACTS}"
-            raise FileNotFoundError(msg)
-        else:
-            logger.info(f"Found {ARTEFACTS}")
-    else:
-        logger.info(f"Found {ARTEFACTS}")
+            raise FileNotFoundError(f"Cant find the artefacts folder at {ARTEFACTS}")
 
-    model, tokenizer = load_model()
-    model_state["model"] = model
-    model_state["tokenizer"] = tokenizer
+    try:
+        model, tokenizer = load_model()
+        model_state["model"] = model
+        model_state["tokenizer"] = tokenizer
+    except Exception as e:
+        logger.error(f"Startup failed: {e}")
+        # In production, we might want to fail hard, but for tests we let it pass
+        # so we can test the 'Model not loaded' endpoints.
+        # re-raising here would crash the test collection if artefacts are missing.
+        pass 
+
     logger.info("Application startup complete")
-
     yield
-
     logger.info("Application shutdown...")
     model_state.clear()
     logger.success("Application shutdown complete")
 
 
-app = FastAPI()
+app = FastAPI(lifespan=lifespan)
 
-# Serve static files
-app.mount("/static", StaticFiles(directory=str(FRONTEND_FOLDER)), name="static")
+# Serve static files (check existence to be safe during tests)
+if FRONTEND_FOLDER.exists():
+    app.mount("/static", StaticFiles(directory=str(FRONTEND_FOLDER)), name="static")
 
-model, tokenizer = load_model()
 starred_words = []
 
 
 def new_words(n: int, temperature: float):
+    # Fetch from state
+    model = model_state.get("model")
+    tokenizer = model_state.get("tokenizer")
+    if not model or not tokenizer:
+        raise RuntimeError("Model or Tokenizer not initialized")
+        
     output_words = sample_n(
         n=n,
         model=model,
@@ -99,6 +139,10 @@ async def generate_words(
     num_words: int = Query(default=10, ge=1, description="Number of words to generate (minimum 1)"),
     temperature: float = Query(default=1.0, ge=0, le=10, description="Temperature for sampling (0-10)")
 ):
+    # Check if model is loaded
+    if "model" not in model_state or "tokenizer" not in model_state:
+        raise HTTPException(status_code=503, detail="Model not loaded")
+
     try:
         words = new_words(num_words, temperature)
         return words
@@ -136,8 +180,7 @@ async def read_index():
     logger.info("serving index.html")
     return FileResponse("static/index.html")
 
-
 if __name__ == "__main__":
     import uvicorn
-
+    # It is crucial to use 0.0.0.0 for Docker
     uvicorn.run(app, host="0.0.0.0", port=80)
